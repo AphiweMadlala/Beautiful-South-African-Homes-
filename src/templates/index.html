@@ -1,0 +1,121 @@
+{% extends "base.html" %}
+{% from "_macros.html" import picture, folio, specline %}
+{% block title %}{{ brand.name }} | Exceptional Homes Across South Africa{% endblock %}
+{% block bodyclass %}home{% endblock %}
+{% block preload %}<link rel="preload" as="image" type="image/avif" imagesrcset="{% for part in signature.cover.avif.split(', ') %}{{ root }}{{ part }}{% if not loop.last %}, {% endif %}{% endfor %}" imagesizes="(min-width: 900px) 62vw, 100vw">{% endblock %}
+{% block main %}
+
+<section class="hero" aria-labelledby="hero-h">
+  <div class="hero-media">
+    {{ picture(signature.cover, root, "(min-width: 900px) 62vw, 100vw", eager=True) }}
+  </div>
+  <div class="hero-copy">
+    <h1 id="hero-h" class="display hero-h"><span>Exceptional homes,</span> <span><em>across South Africa.</em></span></h1>
+    <a class="btn btn-gold" href="{{ root }}residences/">Explore Residences</a>
+  </div>
+  <a class="hero-caption" href="{{ root }}residences/{{ signature.slug }}/">
+    <span class="hero-caption-k">For sale</span>
+    <span>{{ signature.shortLocation }}</span>
+  </a>
+</section>
+
+<div class="search-wrap">
+  {% include "_search.html" %}
+</div>
+
+<section class="manifesto section" aria-labelledby="manifesto-h">
+  {{ folio("I", "The Platform") }}
+  <h2 id="manifesto-h" class="display manifesto-h reveal">We feature South Africa's most considered residences, and <em>introduce you to the people selling them.</em></h2>
+  <div class="manifesto-body reveal">
+    <p>Since {{ brand.since }}, {{ brand.name }} has shared more than {{ (total_featured // 10) * 10 }} homes with {{ brand.followers }} followers on Instagram, from the Atlantic Seaboard to the Highveld estates and the KwaZulu-Natal coast. Every residence here is credited to the agency that markets it, so your enquiry reaches the people who can arrange a viewing.</p>
+  </div>
+</section>
+
+<section class="signature" aria-labelledby="signature-h">
+  <div class="signature-media reveal-img">
+    {{ picture(signature.pictures[0], root, "(min-width: 1024px) 58vw, 100vw") }}
+  </div>
+  <div class="signature-copy">
+    {{ folio("II", "For Sale Now") }}
+    <p class="sig-loc">{{ signature.locationLine }}</p>
+    <h2 id="signature-h" class="display sig-h reveal">{{ signature.title }}</h2>
+    <p class="sig-price"><span class="sig-price-k">Asking price</span> {{ signature.priceLabel }}</p>
+    <dl class="sig-specs">
+      {% for k, v in signature.specs.items() %}<div><dt>{{ k }}</dt><dd>{{ v }}</dd></div>{% endfor %}
+    </dl>
+    <p class="sig-credit"><span>Marketed by</span> {{ signature.agent.name }}, {{ signature.agency }}</p>
+    <a class="btn btn-gold" href="{{ root }}residences/{{ signature.slug }}/">View Residence</a>
+  </div>
+</section>
+
+<section class="featured section" aria-labelledby="featured-h">
+  {{ folio("III", "From the Portfolio") }}
+  <h2 id="featured-h" class="display section-h reveal">Homes we have featured</h2>
+  <p class="lede featured-note reveal">Previously featured residences. Availability is not confirmed; ask and we will check with the agency.</p>
+  <div class="featured-grid">
+    {% for p in featured %}
+    <article class="feat feat-{{ loop.index }} reveal">
+      <a href="{{ root }}residences/{{ p.slug }}/">
+        <div class="feat-media">{{ picture(p.cover, root, "(min-width: 1024px) 50vw, 92vw" if loop.first else "(min-width: 1024px) 25vw, 92vw") }}</div>
+        <p class="feat-meta"><span class="card-n">N° {{ p.folio }}</span>{{ p.shortLocation }}</p>
+        <h3 class="feat-title">{{ p.title }}</h3>
+        <p class="feat-note">Featured {{ p.featuredWhen }}</p>
+      </a>
+    </article>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="collection-intro section" aria-labelledby="collection-h">
+  {{ folio("IV", "The Collection") }}
+  <div class="collection-intro-grid">
+    <div class="reveal">
+      <h2 id="collection-h" class="display section-h">For sale, and the Portfolio.</h2>
+      <p class="lede">Residences for sale are checked against the marketing agency's live listing. The Portfolio keeps the homes we have featured before, with their availability to be confirmed.</p>
+      <a class="btn btn-line" href="{{ root }}residences/">Explore Residences</a>
+    </div>
+    <ul class="registers reveal">
+      <li><a href="{{ root }}residences/?set=for-sale"><span class="reg-n">{{ for_sale|length }}</span><span class="reg-l">For sale now</span></a></li>
+      <li><a href="{{ root }}residences/?set=portfolio"><span class="reg-n">{{ portfolio|length }}</span><span class="reg-l">In the Portfolio</span></a></li>
+    </ul>
+  </div>
+</section>
+
+<section class="locations section" aria-labelledby="locations-h">
+  {{ folio("V", "Locations") }}
+  <h2 id="locations-h" class="display section-h reveal">Coast, winelands and Highveld.</h2>
+  <div class="loc-grid">
+    {% for prov, pdata in tree.items() %}
+    <a class="loc loc-{{ loop.index }} reveal" href="{{ root }}residences/?set=all&amp;loc=p:{{ prov|urlencode }}">
+      <div class="loc-media">{{ picture(province_image[prov], root, "(min-width: 1024px) 45vw, 92vw") }}</div>
+      <div class="loc-copy">
+        <h3 class="loc-h">{{ prov }}</h3>
+        <p class="loc-n">{{ pdata.count }} residence{{ "s" if pdata.count != 1 }}</p>
+        <p class="loc-cities">{{ pdata.cities.keys()|list|join(", ") }}</p>
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="feature-cta section" aria-labelledby="feature-h">
+  {{ folio("VI", "Feature Your Property") }}
+  <div class="feature-cta-grid">
+    <h2 id="feature-h" class="display section-h reveal">Have an exceptional residence to share?</h2>
+    <div class="reveal">
+      <p class="lede">Agents, agencies and developers can submit a listing to be considered for a feature, credited to you and your agency, in front of {{ brand.followers }} followers.</p>
+      <a class="btn btn-line" href="{{ root }}feature-your-property/">Submit a Residence</a>
+    </div>
+  </div>
+</section>
+
+<section class="contact-band section" aria-labelledby="contact-h">
+  {{ folio("VII", "Contact") }}
+  <h2 id="contact-h" class="display contact-h reveal">Write to us</h2>
+  <div class="contact-cols reveal">
+    <div><p class="k">Email</p><p><a href="mailto:{{ brand.email }}">{{ brand.email }}</a></p></div>
+    <div><p class="k">Instagram</p><p><a href="{{ brand.instagram }}" rel="noopener">{{ brand.instagramHandle }}</a></p></div>
+    <div><p class="k">Viewings</p><p>Arranged directly with the agency credited on each residence.</p></div>
+  </div>
+</section>
+{% endblock %}

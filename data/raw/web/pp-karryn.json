@@ -1,0 +1,326 @@
+[
+ {
+  "crawl": {
+   "httpStatusCode": 200,
+   "httpStatusMessage": "OK",
+   "loadedAt": "2026-09-24T18:48:49.132Z",
+   "uniqueKey": "hZaMNLjETC",
+   "requestStatus": "handled"
+  },
+  "metadata": {
+   "title": "Property for sale by Karryn Cartoulis",
+   "description": "View all properties for sale by Karryn Cartoulis on Private Property.",
+   "languageCode": "en-za",
+   "url": "https://www.privateproperty.co.za/estate-agent/karryn-cartoulis/sale-listings/1063138",
+   "redirectedUrl": "https://www.privateproperty.co.za/estate-agent/karryn-cartoulis/sale-listings/1063138",
+   "canonicalUrl": "https://www.privateproperty.co.za/estate-agent/karryn-cartoulis/sale-listings/1063138",
+   "openGraph": [
+    {
+     "property": "og:url",
+     "content": "https://www.privateproperty.co.za/estate-agent/karryn-cartoulis/sale-listings/1063138"
+    },
+    {
+     "property": "og:type",
+     "content": "website"
+    },
+    {
+     "property": "og:title",
+     "content": "Property for sale by Karryn Cartoulis"
+    },
+    {
+     "property": "og:description",
+     "content": "View all properties for sale by Karryn Cartoulis on Private Property."
+    },
+    {
+     "property": "og:image",
+     "content": "https://helium.privateproperty.co.za/live-za-images/socialmediasharing/private-property-icon.png"
+    }
+   ],
+   "jsonLd": [
+    {
+     "@context": "http://schema.org",
+     "@type": "Residence",
+     "photo": [
+      {
+       "@type": "ImageObject",
+       "contentUrl": "https://images.pp.co.za/listing/11195734/QzISh6sOBkKFQo7rOVmsa6/600/450/contain/jpegorpng"
+      }
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Greyton, Caledon",
+      "addressRegion": "Western Cape"
+     },
+     "additionalProperty": [
+      {
+       "@type": "PropertyValue",
+       "name": "Bedrooms",
+       "value": "5"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Bathrooms",
+       "value": "6"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Garages",
+       "value": "2"
+      }
+     ],
+     "url": "https://www.privateproperty.co.za/for-sale/western-cape/overberg/caledon/greyton/T5110520"
+    },
+    {
+     "@context": "http://schema.org",
+     "@type": "Residence",
+     "photo": [
+      {
+       "@type": "ImageObject",
+       "contentUrl": "https://images.pp.co.za/listing/11986743/93TdmHzzT3uPjNqhWNOXA3/600/450/contain/jpegorpng"
+      }
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Camps Bay, Atlantic Seaboard",
+      "addressRegion": "Western Cape"
+     },
+     "additionalProperty": [
+      {
+       "@type": "PropertyValue",
+       "name": "Bedrooms",
+       "value": "2"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Bathrooms",
+       "value": "2.5"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Garages",
+       "value": "2"
+      }
+     ],
+     "url": "https://www.privateproperty.co.za/for-sale/western-cape/cape-town/atlantic-seaboard/camps-bay/T5573859"
+    },
+    {
+     "@context": "http://schema.org",
+     "@type": "Residence",
+     "photo": [
+      {
+       "@type": "ImageObject",
+       "contentUrl": "https://images.pp.co.za/listing/11558919/qgvYLeeKE1LqvT3S7zGoZ3/600/450/contain/jpegorpng"
+      }
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Higgovale, Cape Town City Bowl",
+      "addressRegion": "Western Cape"
+     },
+     "additionalProperty": [
+      {
+       "@type": "PropertyValue",
+       "name": "Bedrooms",
+       "value": "4"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Bathrooms",
+       "value": "3.5"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Garages",
+       "value": "2"
+      }
+     ],
+     "url": "https://www.privateproperty.co.za/for-sale/western-cape/cape-town/cape-town-city-bowl/higgovale/T5324378"
+    },
+    {
+     "@context": "http://schema.org",
+     "@type": "Residence",
+     "photo": [
+      {
+       "@type": "ImageObject",
+       "contentUrl": "https://images.pp.co.za/listing/11524329/LAj3YaAboxjvTpiARJkmf6/600/450/contain/jpegorpng"
+      }
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Greyton, Caledon",
+      "addressRegion": "Western Cape"
+     },
+     "additionalProperty": [
+      {
+       "@type": "PropertyValue",
+       "name": "Bedrooms",
+       "value": "6"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Bathrooms",
+       "value": "7"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Garages",
+       "value": "2"
+      }
+     ],
+     "url": "https://www.privateproperty.co.za/for-sale/western-cape/overberg/caledon/greyton/T5303967"
+    },
+    {
+     "@context": "http://schema.org",
+     "@type": "Residence",
+     "photo": [
+      {
+       "@type": "ImageObject",
+       "contentUrl": "https://images.pp.co.za/listing/12092712/tdmwx4Asm9D9gekfyEiwq3/600/450/contain/jpegorpng"
+      }
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Tamboerskloof, Cape Town City Bowl",
+      "addressRegion": "Western Cape"
+     },
+     "additionalProperty": [
+      {
+       "@type": "PropertyValue",
+       "name": "Bedrooms",
+       "value": "3"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Bathrooms",
+       "value": "2.5"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Garages",
+       "value": "3"
+      }
+     ],
+     "url": "https://www.privateproperty.co.za/for-sale/western-cape/cape-town/cape-town-city-bowl/tamboerskloof/T5632628"
+    },
+    {
+     "@context": "http://schema.org",
+     "@type": "Residence",
+     "photo": [
+      {
+       "@type": "ImageObject",
+       "contentUrl": "https://images.pp.co.za/listing/11758740/RvFCvvRkKmYfLppZrwsgw2/600/450/contain/jpegorpng"
+      }
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Bakoven, Atlantic Seaboard",
+      "addressRegion": "Western Cape"
+     },
+     "additionalProperty": [
+      {
+       "@type": "PropertyValue",
+       "name": "Bedrooms",
+       "value": "3"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Bathrooms",
+       "value": "3.5"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Garages",
+       "value": "2"
+      }
+     ],
+     "url": "https://www.privateproperty.co.za/for-sale/western-cape/cape-town/atlantic-seaboard/bakoven/T5442509"
+    },
+    {
+     "@context": "http://schema.org",
+     "@type": "Residence",
+     "photo": [
+      {
+       "@type": "ImageObject",
+       "contentUrl": "https://images.pp.co.za/listing/11986126/LysnshWNPlEwJE0MCjKjP3/600/450/contain/jpegorpng"
+      }
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Fresnaye, Atlantic Seaboard",
+      "addressRegion": "Western Cape"
+     },
+     "additionalProperty": [
+      {
+       "@type": "PropertyValue",
+       "name": "Bedrooms",
+       "value": "3"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Bathrooms",
+       "value": "3.5"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Garages",
+       "value": "2"
+      }
+     ],
+     "url": "https://www.privateproperty.co.za/for-sale/western-cape/cape-town/atlantic-seaboard/fresnaye/T5573549"
+    },
+    {
+     "@context": "http://schema.org",
+     "@type": "Residence",
+     "photo": [
+      {
+       "@type": "ImageObject",
+       "contentUrl": "https://images.pp.co.za/listing/11804804/BPYsDhT6FxO5N1vSuFiFF1/600/450/contain/jpegorpng"
+      }
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Green Point, Atlantic Seaboard",
+      "addressRegion": "Western Cape"
+     },
+     "additionalProperty": [
+      {
+       "@type": "PropertyValue",
+       "name": "Bedrooms",
+       "value": "3"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Bathrooms",
+       "value": "3.5"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Garages",
+       "value": "2"
+      }
+     ],
+     "url": "https://www.privateproperty.co.za/for-sale/western-cape/cape-town/atlantic-seaboard/green-point/T5469115"
+    }
+   ],
+   "headers": {
+    "access-control-expose-headers": "Request-Context",
+    "cache-control": "private",
+    "content-encoding": "gzip",
+    "content-length": "16294",
+    "content-type": "text/html; charset=utf-8",
+    "date": "Thu, 24 Sep 2026 18:48:48 GMT",
+    "request-context": "appId=cid-v1:5b4bb0ff-c99e-4baa-a3eb-5ac874ea6840",
+    "server": "Microsoft-IIS/10.0",
+    "vary": "Accept-Encoding",
+    "x-aspnet-version": "4.0.30319",
+    "x-aspnetmvc-version": "5.2",
+    "x-frame-options": "sameorigin",
+    "x-powered-by": "ASP.NET",
+    "x-stackifyid": "V2|91f3a359-1034-48f7-bad3-e1ce26c0b7ea|C2143|CD896",
+    "set-cookie": "live-za.phoenix.dv=vivlIkDMAkuLOeoVenAohQ; expires=Mon, 24-Sep-2125 18:48:48 GMT; path=/"
+   }
+  },
+  "query": "https://www.privateproperty.co.za/estate-agent/karryn-cartoulis/sale-listings/1063138",
+  "markdown": "Property for sale by Karryn Cartoulis\n\n[](https://www.privateproperty.co.za/)Sign up\n\n# Property for sale by Karryn Cartoulis\n\n*   [Estate Agents](https://www.privateproperty.co.za/estate-agents-in-south-africa)\n*   [RE/MAX](https://www.privateproperty.co.za/remax)\n*   [RE/MAX Living](https://www.privateproperty.co.za/estate-agency/remax-remax-living/2614)\n*   [Karryn Cartoulis](https://www.privateproperty.co.za/estate-agent/karryn-cartoulis/1063138/)\n\n1-8  of 8 results\n\n* * *\n\n[![5 Bedroom House](https://images.pp.co.za/listing/11195734/QzISh6sOBkKFQo7rOVmsa6/600/450/contain/jpegorpng \"5 Bedroom House\")\n\nR 11 000 000\n\n5 Bedroom HouseGreyton\n\nGreyton\n\n5 6 2 3 057 m²\n\nExperience the perfect blend of countryside charm and modern comfort in this stunning greyton home. Set on a spacious 3,057 m² of land ...\n\n![RE/MAX](https://helium.privateproperty.co.za/live-za-images/offices/2614/image/813d07c13c564f85b04966fd131661a4_osm.jpg)\n\n](https://www.privateproperty.co.za/for-sale/western-cape/overberg/caledon/greyton/T5110520 \"5 Bedroom House\")\n\n* * *\n\n[![2 Bedroom Apartment](https://images.pp.co.za/listing/11986743/93TdmHzzT3uPjNqhWNOXA3/600/450/contain/jpegorpng \"2 Bedroom Apartment\")\n\nR 15 995 000\n\n2 Bedroom ApartmentCamps Bay\n\nCamps Bay\n\n2 2.5 2 250 m²\n\nTucked away at the end of a quiet cul-de-sac in the exclusive glen complex, this beautifully renovated ground-floor apartment offers ...\n\n![RE/MAX](https://helium.privateproperty.co.za/live-za-images/offices/2614/image/813d07c13c564f85b04966fd131661a4_osm.jpg)\n\n](https://www.privateproperty.co.za/for-sale/western-cape/cape-town/atlantic-seaboard/camps-bay/T5573859 \"2 Bedroom Apartment\")\n\n* * *\n\n[![4 Bedroom House](https://images.pp.co.za/listing/11558919/qgvYLeeKE1LqvT3S7zGoZ3/600/450/contain/jpegorpng \"4 Bedroom House\")\n\nR 21 500 000\n\n4 Bedroom HouseHiggovale\n\nHiggovale\n\n4 3.5 2 605 m²\n\nEnter a retreat where table mountain anchors the view, while the mother city and eastward city skyline stretch outward beyond. ...\n\n![RE/MAX](https://helium.privateproperty.co.za/live-za-images/offices/2614/image/813d07c13c564f85b04966fd131661a4_osm.jpg)\n\n](https://www.privateproperty.co.za/for-sale/western-cape/cape-town/cape-town-city-bowl/higgovale/T5324378 \"4 Bedroom House\")\n\n* * *\n\n[![6 Bedroom House](https://images.pp.co.za/listing/11524329/LAj3YaAboxjvTpiARJkmf6/600/450/contain/jpegorpng \"6 Bedroom House\")\n\nR 22 500 000\n\n6 Bedroom HouseGreyton\n\nGreyton\n\n6 7 3 3 836 m²\n\nNestled in the overbergs embrace, greyton graces the western cape with timeless charm. This isnt just a home its a sanctuary where ...\n\n![RE/MAX](https://helium.privateproperty.co.za/live-za-images/offices/2614/image/813d07c13c564f85b04966fd131661a4_osm.jpg)\n\n](https://www.privateproperty.co.za/for-sale/western-cape/overberg/caledon/greyton/T5303967 \"6 Bedroom House\")\n\n* * *\n\n[![3 Bedroom House](https://images.pp.co.za/listing/12092712/tdmwx4Asm9D9gekfyEiwq3/600/450/contain/jpegorpng \"3 Bedroom House\")\n\nNew\n\nR 22 950 000\n\n3 Bedroom HouseTamboerskloof\n\nTamboerskloof\n\n3 2.5 3 713 m²\n\nPerched high up in sought-after tamboerskloof, this striking three-bedroom home enjoys an exceptional elevated position with ...\n\n![RE/MAX](https://helium.privateproperty.co.za/live-za-images/offices/2614/image/813d07c13c564f85b04966fd131661a4_osm.jpg)\n\n](https://www.privateproperty.co.za/for-sale/western-cape/cape-town/cape-town-city-bowl/tamboerskloof/T5632628 \"3 Bedroom House\")\n\n* * *\n\n[![3 Bedroom Apartment](https://images.pp.co.za/listing/11758740/RvFCvvRkKmYfLppZrwsgw2/600/450/contain/jpegorpng \"3 Bedroom Apartment\")\n\nR 45 000 000\n\n3 Bedroom ApartmentBakoven\n\nBakoven\n\n3 3.5 2 330 m²\n\nPoised above the exclusive enclave of bali bay with the majestic twelve apostles as its backdrop, this luxurious duplex apartment ...\n\n![RE/MAX](https://helium.privateproperty.co.za/live-za-images/offices/2614/image/813d07c13c564f85b04966fd131661a4_osm.jpg)\n\n](https://www.privateproperty.co.za/for-sale/western-cape/cape-town/atlantic-seaboard/bakoven/T5442509 \"3 Bedroom Apartment\")\n\n* * *\n\n[![3 Bedroom House](https://images.pp.co.za/listing/11986126/LysnshWNPlEwJE0MCjKjP3/600/450/contain/jpegorpng \"3 Bedroom House\")\n\nR 68 000 000\n\n3 Bedroom HouseFresnaye\n\nFresnaye\n\n3 3.5 2 635 m²\n\nSome homes impress. Others are simply unforgettable. Perfectly positioned in a quiet cul-de-sac on the prestigious top road, with the ...\n\n![RE/MAX](https://helium.privateproperty.co.za/live-za-images/offices/2614/image/813d07c13c564f85b04966fd131661a4_osm.jpg)\n\n](https://www.privateproperty.co.za/for-sale/western-cape/cape-town/atlantic-seaboard/fresnaye/T5573549 \"3 Bedroom House\")\n\n* * *\n\n[![3 Bedroom Apartment](https://images.pp.co.za/listing/11804804/BPYsDhT6FxO5N1vSuFiFF1/600/450/contain/jpegorpng \"3 Bedroom Apartment\")\n\nR 32 200 000\n\n3 Bedroom ApartmentGreen Point\n\nGreen Point\n\n3 3.5 2 361 m²\n\nVat included and no transfer duty payable. High up on the slopes of signal hill, on the quiet and prestigious springbok road, this ...\n\n![RE/MAX](https://helium.privateproperty.co.za/live-za-images/offices/2614/image/813d07c13c564f85b04966fd131661a4_osm.jpg)\n\n](https://www.privateproperty.co.za/for-sale/western-cape/cape-town/atlantic-seaboard/green-point/T5469115 \"3 Bedroom Apartment\")\n\n* * *\n\n* * *\n\n![](https://helium.privateproperty.co.za/live-za-images/offices/2614/image/813d07c13c564f85b04966fd131661a4_ola.jpg)\n\n[RE/MAX, RE/MAX Living](https://www.privateproperty.co.za/estate-agency/remax-remax-living/2614)\n\n*   [![Karryn Cartoulis](https://helium.privateproperty.co.za/live-za-images/accountholders/1063138/image/dda4684aa3b541c99d7d86b9bba96731_ach.jpg)\n    \n    Karryn Cartoulis\n    \n    8 Properties\n    \n    Contact Me\n    \n    ](https://www.privateproperty.co.za/estate-agent/karryn-cartoulis/1063138/)"
+ }
+]

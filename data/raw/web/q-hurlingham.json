@@ -1,0 +1,878 @@
+[
+ {
+  "crawl": {
+   "httpStatusCode": 200,
+   "httpStatusMessage": "OK",
+   "loadedAt": "2026-09-24T18:51:13.215Z",
+   "uniqueKey": "z7LMQLsWwT",
+   "requestStatus": "handled"
+  },
+  "searchResult": {
+   "title": "Property for sale by Emma Morris",
+   "description": "Property for sale by Emma Morris. Estate Agents · Pam Golding Properties ... 5 Bedroom HouseHurlingham. Hurlingham. 5 3.5 2 1 985 m². Located ...Read more",
+   "url": "http://www.google.com/goto?url=CAESiAEB6zswFZKhtFAHXHubZnerjTsrCbSR8hMatEooVToy_2o3eOLsSEGKcgaKrKUu7L2HKVoUQRJCbmNg1wbu5QBkSpkYxhVQp6PVAkglwzgpdeqH6MXtlrv4evsx6s832PuADkvB2Pf4y5FOZfz9mJsue_UVOjAhjbShPEUVv3Klx25lwfCseY_v",
+   "resultType": "ORGANIC",
+   "rank": 2
+  },
+  "metadata": {
+   "title": "Property for sale by Emma Morris",
+   "description": "View all properties for sale by Emma Morris on Private Property.",
+   "languageCode": "en-za",
+   "url": "https://www.privateproperty.co.za/estate-agent/emma-morris/sale-listings/2154708",
+   "redirectedUrl": "https://www.privateproperty.co.za/estate-agent/emma-morris/sale-listings/2154708",
+   "canonicalUrl": "https://www.privateproperty.co.za/estate-agent/emma-morris/sale-listings/2154708",
+   "openGraph": [
+    {
+     "property": "og:url",
+     "content": "https://www.privateproperty.co.za/estate-agent/emma-morris/sale-listings/2154708"
+    },
+    {
+     "property": "og:type",
+     "content": "website"
+    },
+    {
+     "property": "og:title",
+     "content": "Property for sale by Emma Morris"
+    },
+    {
+     "property": "og:description",
+     "content": "View all properties for sale by Emma Morris on Private Property."
+    },
+    {
+     "property": "og:image",
+     "content": "https://helium.privateproperty.co.za/live-za-images/socialmediasharing/private-property-icon.png"
+    }
+   ],
+   "jsonLd": [
+    {
+     "@context": "http://schema.org",
+     "@type": "Residence",
+     "photo": [
+      {
+       "@type": "ImageObject",
+       "contentUrl": "https://images.pp.co.za/listing/11892146/zCezkRzvAKysJiZHQZhwl1/600/450/contain/jpegorpng"
+      }
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Craighall, Sandton",
+      "addressRegion": "Gauteng"
+     },
+     "additionalProperty": [
+      {
+       "@type": "PropertyValue",
+       "name": "Bedrooms",
+       "value": "2"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Bathrooms",
+       "value": "2"
+      }
+     ],
+     "url": "https://www.privateproperty.co.za/for-sale/gauteng/johannesburg/sandton/craighall/T5518582"
+    },
+    {
+     "@context": "http://schema.org",
+     "@type": "Residence",
+     "photo": [
+      {
+       "@type": "ImageObject",
+       "contentUrl": "https://images.pp.co.za/listing/12031385/2jT1epAZ3fikXV5d53cXy6/600/450/contain/jpegorpng"
+      }
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Craighall Park, Johannesburg Central",
+      "addressRegion": "Gauteng"
+     },
+     "additionalProperty": [
+      {
+       "@type": "PropertyValue",
+       "name": "Bedrooms",
+       "value": "2"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Bathrooms",
+       "value": "2"
+      }
+     ],
+     "url": "https://www.privateproperty.co.za/for-sale/gauteng/johannesburg/johannesburg-central/craighall-park/T5598332"
+    },
+    {
+     "@context": "http://schema.org",
+     "@type": "Residence",
+     "photo": [
+      {
+       "@type": "ImageObject",
+       "contentUrl": "https://images.pp.co.za/listing/11799212/4VoZ1Y9jyTKGMtJnIySKO4/600/450/contain/jpegorpng"
+      }
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Craighall Park, Johannesburg Central",
+      "addressRegion": "Gauteng"
+     },
+     "additionalProperty": [
+      {
+       "@type": "PropertyValue",
+       "name": "Bedrooms",
+       "value": "2"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Bathrooms",
+       "value": "1.5"
+      }
+     ],
+     "url": "https://www.privateproperty.co.za/for-sale/gauteng/johannesburg/johannesburg-central/craighall-park/T5465802"
+    },
+    {
+     "@context": "http://schema.org",
+     "@type": "Residence",
+     "photo": [
+      {
+       "@type": "ImageObject",
+       "contentUrl": "https://images.pp.co.za/listing/12006808/7F4z9sfr6VQzEAabiEW8A2/600/450/contain/jpegorpng"
+      }
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Craighall Park, Johannesburg Central",
+      "addressRegion": "Gauteng"
+     },
+     "additionalProperty": [
+      {
+       "@type": "PropertyValue",
+       "name": "Bedrooms",
+       "value": "2"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Bathrooms",
+       "value": "2"
+      }
+     ],
+     "url": "https://www.privateproperty.co.za/for-sale/gauteng/johannesburg/johannesburg-central/craighall-park/T5584799"
+    },
+    {
+     "@context": "http://schema.org",
+     "@type": "Residence",
+     "photo": [
+      {
+       "@type": "ImageObject",
+       "contentUrl": "https://images.pp.co.za/listing/11303414/ND6xN3oTNgLkW12TT2DZv6/600/450/contain/jpegorpng"
+      }
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Craighall Park, Johannesburg Central",
+      "addressRegion": "Gauteng"
+     },
+     "additionalProperty": [
+      {
+       "@type": "PropertyValue",
+       "name": "Bedrooms",
+       "value": "2"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Bathrooms",
+       "value": "2"
+      }
+     ],
+     "url": "https://www.privateproperty.co.za/for-sale/gauteng/johannesburg/johannesburg-central/craighall-park/T5174155"
+    },
+    {
+     "@context": "http://schema.org",
+     "@type": "Residence",
+     "photo": [
+      {
+       "@type": "ImageObject",
+       "contentUrl": "https://images.pp.co.za/listing/11929870/RfGj1IAumGD4puyCrh4n30/600/450/contain/jpegorpng"
+      }
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Hurlingham, Sandton",
+      "addressRegion": "Gauteng"
+     },
+     "additionalProperty": [
+      {
+       "@type": "PropertyValue",
+       "name": "Bedrooms",
+       "value": "2"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Bathrooms",
+       "value": "2"
+      }
+     ],
+     "url": "https://www.privateproperty.co.za/for-sale/gauteng/johannesburg/sandton/hurlingham/T5540860"
+    },
+    {
+     "@context": "http://schema.org",
+     "@type": "Residence",
+     "photo": [
+      {
+       "@type": "ImageObject",
+       "contentUrl": "https://images.pp.co.za/listing/11818676/XEj4SlU9WqywDAEYB6p1R7/600/450/contain/jpegorpng"
+      }
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Craighall, Sandton",
+      "addressRegion": "Gauteng"
+     },
+     "additionalProperty": [
+      {
+       "@type": "PropertyValue",
+       "name": "Bedrooms",
+       "value": "3"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Bathrooms",
+       "value": "2"
+      }
+     ],
+     "url": "https://www.privateproperty.co.za/for-sale/gauteng/johannesburg/sandton/craighall/T5476851"
+    },
+    {
+     "@context": "http://schema.org",
+     "@type": "Residence",
+     "photo": [
+      {
+       "@type": "ImageObject",
+       "contentUrl": "https://images.pp.co.za/listing/11808804/afhvqXzFKMiKQFWZ1bT1d1/600/450/contain/jpegorpng"
+      }
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Craighall, Sandton",
+      "addressRegion": "Gauteng"
+     },
+     "additionalProperty": [
+      {
+       "@type": "PropertyValue",
+       "name": "Bedrooms",
+       "value": "3"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Bathrooms",
+       "value": "2.5"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Garages",
+       "value": "2"
+      }
+     ],
+     "url": "https://www.privateproperty.co.za/for-sale/gauteng/johannesburg/sandton/craighall/T5471354"
+    },
+    {
+     "@context": "http://schema.org",
+     "@type": "Residence",
+     "photo": [
+      {
+       "@type": "ImageObject",
+       "contentUrl": "https://images.pp.co.za/listing/11812674/xaUZzCiyvAWC5oZfSQvpo0/600/450/contain/jpegorpng"
+      }
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Craighall, Sandton",
+      "addressRegion": "Gauteng"
+     },
+     "additionalProperty": [
+      {
+       "@type": "PropertyValue",
+       "name": "Bedrooms",
+       "value": "4"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Bathrooms",
+       "value": "2"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Garages",
+       "value": "2"
+      }
+     ],
+     "url": "https://www.privateproperty.co.za/for-sale/gauteng/johannesburg/sandton/craighall/T5473729"
+    },
+    {
+     "@context": "http://schema.org",
+     "@type": "Residence",
+     "photo": [
+      {
+       "@type": "ImageObject",
+       "contentUrl": "https://images.pp.co.za/listing/11793984/GAunBXAID22zTwbFDhW1L1/600/450/contain/jpegorpng"
+      }
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Craighall, Sandton",
+      "addressRegion": "Gauteng"
+     },
+     "additionalProperty": [
+      {
+       "@type": "PropertyValue",
+       "name": "Bedrooms",
+       "value": "3"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Bathrooms",
+       "value": "3.5"
+      }
+     ],
+     "url": "https://www.privateproperty.co.za/for-sale/gauteng/johannesburg/sandton/craighall/T5462806"
+    },
+    {
+     "@context": "http://schema.org",
+     "@type": "Residence",
+     "photo": [
+      {
+       "@type": "ImageObject",
+       "contentUrl": "https://images.pp.co.za/listing/11872338/UDUuKzpmTLsSO0zAGsgEO4/600/450/contain/jpegorpng"
+      }
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Craighall, Sandton",
+      "addressRegion": "Gauteng"
+     },
+     "additionalProperty": [
+      {
+       "@type": "PropertyValue",
+       "name": "Bedrooms",
+       "value": "4"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Bathrooms",
+       "value": "2.5"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Garages",
+       "value": "2"
+      }
+     ],
+     "url": "https://www.privateproperty.co.za/for-sale/gauteng/johannesburg/sandton/craighall/T5507509"
+    },
+    {
+     "@context": "http://schema.org",
+     "@type": "Residence",
+     "photo": [
+      {
+       "@type": "ImageObject",
+       "contentUrl": "https://images.pp.co.za/listing/10313410/AFsf9TAf9BidUdLs03zRI3/600/450/contain/jpegorpng"
+      }
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Craighall Park, Johannesburg Central",
+      "addressRegion": "Gauteng"
+     },
+     "additionalProperty": [
+      {
+       "@type": "PropertyValue",
+       "name": "Bedrooms",
+       "value": "3"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Bathrooms",
+       "value": "3.5"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Garages",
+       "value": "2"
+      }
+     ],
+     "url": "https://www.privateproperty.co.za/for-sale/gauteng/johannesburg/johannesburg-central/craighall-park/T4584524"
+    },
+    {
+     "@context": "http://schema.org",
+     "@type": "Residence",
+     "photo": [
+      {
+       "@type": "ImageObject",
+       "contentUrl": "https://images.pp.co.za/listing/12038138/kkJ3SDmxjMmLIIqLVH7GV1/600/450/contain/jpegorpng"
+      }
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Craighall Park, Johannesburg Central",
+      "addressRegion": "Gauteng"
+     },
+     "additionalProperty": [
+      {
+       "@type": "PropertyValue",
+       "name": "Bedrooms",
+       "value": "4"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Bathrooms",
+       "value": "3"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Garages",
+       "value": "2"
+      }
+     ],
+     "url": "https://www.privateproperty.co.za/for-sale/gauteng/johannesburg/johannesburg-central/craighall-park/T5602135"
+    },
+    {
+     "@context": "http://schema.org",
+     "@type": "Residence",
+     "photo": [
+      {
+       "@type": "ImageObject",
+       "contentUrl": "https://images.pp.co.za/listing/11952446/QZLWHUrTnfdYW7Zqsu3FB5/600/450/contain/jpegorpng"
+      }
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Craighall, Sandton",
+      "addressRegion": "Gauteng"
+     },
+     "additionalProperty": [
+      {
+       "@type": "PropertyValue",
+       "name": "Bedrooms",
+       "value": "4"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Bathrooms",
+       "value": "2.5"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Garages",
+       "value": "2"
+      }
+     ],
+     "url": "https://www.privateproperty.co.za/for-sale/gauteng/johannesburg/sandton/craighall/T5553650"
+    },
+    {
+     "@context": "http://schema.org",
+     "@type": "Residence",
+     "photo": [
+      {
+       "@type": "ImageObject",
+       "contentUrl": "https://images.pp.co.za/listing/12078834/KR27m9gQgn5oU4nOZdh5w1/600/450/contain/jpegorpng"
+      }
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Craighall, Sandton",
+      "addressRegion": "Gauteng"
+     },
+     "additionalProperty": [
+      {
+       "@type": "PropertyValue",
+       "name": "Bedrooms",
+       "value": "5"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Bathrooms",
+       "value": "3.5"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Garages",
+       "value": "2"
+      }
+     ],
+     "url": "https://www.privateproperty.co.za/for-sale/gauteng/johannesburg/sandton/craighall/T5624704"
+    },
+    {
+     "@context": "http://schema.org",
+     "@type": "Residence",
+     "photo": [
+      {
+       "@type": "ImageObject",
+       "contentUrl": "https://images.pp.co.za/listing/12016467/geib04fbxgMkyJbmL01Md6/600/450/contain/jpegorpng"
+      }
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Craighall, Sandton",
+      "addressRegion": "Gauteng"
+     },
+     "additionalProperty": [
+      {
+       "@type": "PropertyValue",
+       "name": "Bedrooms",
+       "value": "4"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Bathrooms",
+       "value": "3"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Garages",
+       "value": "3"
+      }
+     ],
+     "url": "https://www.privateproperty.co.za/for-sale/gauteng/johannesburg/sandton/craighall/T5590198"
+    },
+    {
+     "@context": "http://schema.org",
+     "@type": "Event",
+     "name": "Open House: 3PM - 5PM",
+     "description": " - Open House",
+     "startDate": "2026-09-27T13:00:00+00:00",
+     "endDate": "2026-09-27T15:00:00+00:00",
+     "location": {
+      "@type": "Place",
+      "address": {
+       "@type": "PostalAddress",
+       "addressLocality": "Craighall, Sandton",
+       "addressRegion": "Gauteng"
+      }
+     },
+     "image": {
+      "@type": "ImageObject",
+      "contentUrl": "https://images.pp.co.za/listing/12016467/geib04fbxgMkyJbmL01Md6/600/450/contain/jpegorpng"
+     }
+    },
+    {
+     "@context": "http://schema.org",
+     "@type": "Residence",
+     "photo": [
+      {
+       "@type": "ImageObject",
+       "contentUrl": "https://images.pp.co.za/listing/11119741/0aEWNJ6tTe5xh9rtthkoV7/600/450/contain/jpegorpng"
+      }
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Hurlingham, Sandton",
+      "addressRegion": "Gauteng"
+     },
+     "additionalProperty": [
+      {
+       "@type": "PropertyValue",
+       "name": "Bedrooms",
+       "value": "5"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Bathrooms",
+       "value": "3.5"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Garages",
+       "value": "2"
+      }
+     ],
+     "url": "https://www.privateproperty.co.za/for-sale/gauteng/johannesburg/sandton/hurlingham/T5065880"
+    },
+    {
+     "@context": "http://schema.org",
+     "@type": "Residence",
+     "photo": [
+      {
+       "@type": "ImageObject",
+       "contentUrl": "https://images.pp.co.za/listing/11911258/MePjt7tPWqxxltNtt3l9k2/600/450/contain/jpegorpng"
+      }
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Craighall, Sandton",
+      "addressRegion": "Gauteng"
+     },
+     "additionalProperty": [
+      {
+       "@type": "PropertyValue",
+       "name": "Bedrooms",
+       "value": "3"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Bathrooms",
+       "value": "2.5"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Garages",
+       "value": "2"
+      }
+     ],
+     "url": "https://www.privateproperty.co.za/for-sale/gauteng/johannesburg/sandton/craighall/T5529670"
+    },
+    {
+     "@context": "http://schema.org",
+     "@type": "Residence",
+     "photo": [
+      {
+       "@type": "ImageObject",
+       "contentUrl": "https://images.pp.co.za/listing/12076821/PNvzhDCVhAOhmtdIP6mrs3/600/450/contain/jpegorpng"
+      }
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Craighall, Sandton",
+      "addressRegion": "Gauteng"
+     },
+     "additionalProperty": [
+      {
+       "@type": "PropertyValue",
+       "name": "Bedrooms",
+       "value": "3"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Bathrooms",
+       "value": "2.5"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Garages",
+       "value": "2"
+      }
+     ],
+     "url": "https://www.privateproperty.co.za/for-sale/gauteng/johannesburg/sandton/craighall/T5623566"
+    },
+    {
+     "@context": "http://schema.org",
+     "@type": "Event",
+     "name": "Open House: 3PM - 5PM",
+     "description": " - Open House",
+     "startDate": "2026-09-27T13:00:00+00:00",
+     "endDate": "2026-09-27T15:00:00+00:00",
+     "location": {
+      "@type": "Place",
+      "address": {
+       "@type": "PostalAddress",
+       "addressLocality": "Craighall, Sandton",
+       "addressRegion": "Gauteng"
+      }
+     },
+     "image": {
+      "@type": "ImageObject",
+      "contentUrl": "https://images.pp.co.za/listing/12076821/PNvzhDCVhAOhmtdIP6mrs3/600/450/contain/jpegorpng"
+     }
+    },
+    {
+     "@context": "http://schema.org",
+     "@type": "Residence",
+     "photo": [
+      {
+       "@type": "ImageObject",
+       "contentUrl": "https://images.pp.co.za/listing/11835115/2kWlUVDeglRYxOIpRe1jT2/600/450/contain/jpegorpng"
+      }
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Craighall, Sandton",
+      "addressRegion": "Gauteng"
+     },
+     "additionalProperty": [
+      {
+       "@type": "PropertyValue",
+       "name": "Bedrooms",
+       "value": "4"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Bathrooms",
+       "value": "4.5"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Garages",
+       "value": "3"
+      }
+     ],
+     "url": "https://www.privateproperty.co.za/for-sale/gauteng/johannesburg/sandton/craighall/T5485913"
+    }
+   ],
+   "headers": {
+    "access-control-expose-headers": "Request-Context",
+    "cache-control": "private",
+    "content-encoding": "gzip",
+    "content-length": "20473",
+    "content-type": "text/html; charset=utf-8",
+    "date": "Thu, 24 Sep 2026 18:51:12 GMT",
+    "request-context": "appId=cid-v1:5b4bb0ff-c99e-4baa-a3eb-5ac874ea6840",
+    "server": "Microsoft-IIS/10.0",
+    "vary": "Accept-Encoding",
+    "x-aspnet-version": "4.0.30319",
+    "x-aspnetmvc-version": "5.2",
+    "x-frame-options": "sameorigin",
+    "x-powered-by": "ASP.NET",
+    "x-stackifyid": "V2|6a75821d-d599-49e6-ba7c-998c2ec7eb3c|C2143|CD897",
+    "set-cookie": "live-za.phoenix.dv=TFZgA-hZHEuEmKZN4u3snw; expires=Mon, 24-Sep-2125 18:51:12 GMT; path=/"
+   }
+  },
+  "query": "Hurlingham Sandton 5 bedroom house for sale R17 000 000 Pam Golding Emma Morris",
+  "markdown": "Property for sale by Emma Morris\n\n[](https://www.privateproperty.co.za/)Sign up\n\n# Property for sale by Emma Morris\n\n*   [Estate Agents](https://www.privateproperty.co.za/estate-agents-in-south-africa)\n*   [Pam Golding Properties](https://www.privateproperty.co.za/pamgolding)\n*   [Hyde Park](https://www.privateproperty.co.za/estate-agency/pam-golding-properties-hyde-park/3457)\n*   [Emma Morris](https://www.privateproperty.co.za/estate-agent/emma-morris/2154708/)\n\n1-20  of 25 results\n\n* * *\n\n[![2 Bedroom Apartment](https://images.pp.co.za/listing/11892146/zCezkRzvAKysJiZHQZhwl1/600/450/contain/jpegorpng \"2 Bedroom Apartment\")\n\nUnder Offer\n\nR 1 150 000\n\n2 Bedroom ApartmentCraighall\n\nCraighall\n\n2 2 2 79 m²\n\nWell situated, secure, 24hr guarded, south-entrynorth-facing garden apartment.. Sunny and bright in a small convenient complex. Pets ...\n\n![Pam Golding Properties](https://helium.privateproperty.co.za/live-za-images/offices/3457/image/57d34dfa95274487b256fab4692e229a_osm.jpg)\n\n](https://www.privateproperty.co.za/for-sale/gauteng/johannesburg/sandton/craighall/T5518582 \"2 Bedroom Apartment\")\n\n* * *\n\n[![2 Bedroom Apartment](https://images.pp.co.za/listing/12031385/2jT1epAZ3fikXV5d53cXy6/600/450/contain/jpegorpng \"2 Bedroom Apartment\")\n\nR 1 190 000\n\n2 Bedroom ApartmentCraighall Park\n\nCraighall Park\n\n2 2 1 102 m²\n\nSpacious and conveniently located 2 bedroom top-floor apartment at braemore with exceptional views and 24hr guards. This apartment in ...\n\n![Pam Golding Properties](https://helium.privateproperty.co.za/live-za-images/offices/3457/image/57d34dfa95274487b256fab4692e229a_osm.jpg)\n\n](https://www.privateproperty.co.za/for-sale/gauteng/johannesburg/johannesburg-central/craighall-park/T5598332 \"2 Bedroom Apartment\")\n\n* * *\n\n[![2 Bedroom Apartment](https://images.pp.co.za/listing/11799212/4VoZ1Y9jyTKGMtJnIySKO4/600/450/contain/jpegorpng \"2 Bedroom Apartment\")\n\nR 1 290 000\n\n2 Bedroom ApartmentCraighall Park\n\nCraighall Park\n\n2 1.5 2 106 m²\n\n106m² - 2 bedroom apartment in popular sun valley lodge.. Light, bright and sunny apartment with parquet floors flowing throughout. ...\n\n![Pam Golding Properties](https://helium.privateproperty.co.za/live-za-images/offices/3457/image/57d34dfa95274487b256fab4692e229a_osm.jpg)\n\n](https://www.privateproperty.co.za/for-sale/gauteng/johannesburg/johannesburg-central/craighall-park/T5465802 \"2 Bedroom Apartment\")\n\n* * *\n\n[![2 Bedroom Apartment](https://images.pp.co.za/listing/12006808/7F4z9sfr6VQzEAabiEW8A2/600/450/contain/jpegorpng \"2 Bedroom Apartment\")\n\nR 1 399 000\n\n2 Bedroom ApartmentCraighall Park\n\nCraighall Park\n\n2 2 102 m²\n\nTop floor, 2 bedroom apartment in sought-after complex with 24hr guards in craighall park.. 2 bedrooms, 2 bathrooms, main en suite ...\n\n![Pam Golding Properties](https://helium.privateproperty.co.za/live-za-images/offices/3457/image/57d34dfa95274487b256fab4692e229a_osm.jpg)\n\n](https://www.privateproperty.co.za/for-sale/gauteng/johannesburg/johannesburg-central/craighall-park/T5584799 \"2 Bedroom Apartment\")\n\n* * *\n\n[![2 Bedroom Apartment](https://images.pp.co.za/listing/11303414/ND6xN3oTNgLkW12TT2DZv6/600/450/contain/jpegorpng \"2 Bedroom Apartment\")\n\nR 1 399 000\n\n2 Bedroom ApartmentCraighall Park\n\nCraighall Park\n\n2 2 1 102 m²\n\nSpacious & conveniently located 2 bedroom 102m² apartment at braemore. This well-cared-for apartment in the heart of craighall park ...\n\n![Pam Golding Properties](https://helium.privateproperty.co.za/live-za-images/offices/3457/image/57d34dfa95274487b256fab4692e229a_osm.jpg)\n\n](https://www.privateproperty.co.za/for-sale/gauteng/johannesburg/johannesburg-central/craighall-park/T5174155 \"2 Bedroom Apartment\")\n\n* * *\n\n[![2 Bedroom Apartment](https://images.pp.co.za/listing/11929870/RfGj1IAumGD4puyCrh4n30/600/450/contain/jpegorpng \"2 Bedroom Apartment\")\n\nR 1 890 000\n\n2 Bedroom ApartmentHurlingham\n\nHurlingham\n\n2 2 2 94 m²\n\nSunny, bright and sophisticated 94m² north-facing garden apartment . Great for garden braais and entertaining. Modern, well-fitted, ...\n\n![Pam Golding Properties](https://helium.privateproperty.co.za/live-za-images/offices/3457/image/57d34dfa95274487b256fab4692e229a_osm.jpg)\n\n](https://www.privateproperty.co.za/for-sale/gauteng/johannesburg/sandton/hurlingham/T5540860 \"2 Bedroom Apartment\")\n\n* * *\n\n[![3 Bedroom Apartment](https://images.pp.co.za/listing/11818676/XEj4SlU9WqywDAEYB6p1R7/600/450/contain/jpegorpng \"3 Bedroom Apartment\")\n\nR 2 300 000\n\n3 Bedroom ApartmentCraighall\n\nCraighall\n\n3 2 3 125 m²\n\nLiving is easy in this spacious penthouse with sandton views which is a stones throw from hyde park corner.. From the entrance the ...\n\n![Pam Golding Properties](https://helium.privateproperty.co.za/live-za-images/offices/3457/image/57d34dfa95274487b256fab4692e229a_osm.jpg)\n\n](https://www.privateproperty.co.za/for-sale/gauteng/johannesburg/sandton/craighall/T5476851 \"3 Bedroom Apartment\")\n\n* * *\n\n[![3 Bedroom Cluster](https://images.pp.co.za/listing/11808804/afhvqXzFKMiKQFWZ1bT1d1/600/450/contain/jpegorpng \"3 Bedroom Cluster\")\n\nSold\n\nR 2 350 000\n\n3 Bedroom ClusterCraighall\n\nCraighall\n\n3 2.5 2 215 m²\n\nPrivate retreat.. Sought after quiet complex, set in charming riverside setting with remarkable bird life. Small complex of 25 ...\n\n![Pam Golding Properties](https://helium.privateproperty.co.za/live-za-images/offices/3457/image/57d34dfa95274487b256fab4692e229a_osm.jpg)\n\n](https://www.privateproperty.co.za/for-sale/gauteng/johannesburg/sandton/craighall/T5471354 \"3 Bedroom Cluster\")\n\n* * *\n\n[![4 Bedroom House](https://images.pp.co.za/listing/11812674/xaUZzCiyvAWC5oZfSQvpo0/600/450/contain/jpegorpng \"4 Bedroom House\")\n\nSold\n\nR 4 200 000\n\n4 Bedroom HouseCraighall\n\nCraighall\n\n4 2 2 1 338 m²\n\nExcellent elevated location set high and proud.. Entry level in the best location in sought-after douglas avenue in craighall. Located ...\n\n![Pam Golding Properties](https://helium.privateproperty.co.za/live-za-images/offices/3457/image/57d34dfa95274487b256fab4692e229a_osm.jpg)\n\n](https://www.privateproperty.co.za/for-sale/gauteng/johannesburg/sandton/craighall/T5473729 \"4 Bedroom House\")\n\n* * *\n\n[![3 Bedroom Apartment](https://images.pp.co.za/listing/11793984/GAunBXAID22zTwbFDhW1L1/600/450/contain/jpegorpng \"3 Bedroom Apartment\")\n\nR 4 850 000\n\n3 Bedroom ApartmentCraighall\n\nCraighall\n\n3 3.5 2 202 m²\n\nBreathtaking skyline views from this tastefully-appointed, north-facing penthouse.. Rare opportunity to purchase a stunning apartment ...\n\n![Pam Golding Properties](https://helium.privateproperty.co.za/live-za-images/offices/3457/image/57d34dfa95274487b256fab4692e229a_osm.jpg)\n\n](https://www.privateproperty.co.za/for-sale/gauteng/johannesburg/sandton/craighall/T5462806 \"3 Bedroom Apartment\")\n\n* * *\n\n[![4 Bedroom House](https://images.pp.co.za/listing/11872338/UDUuKzpmTLsSO0zAGsgEO4/600/450/contain/jpegorpng \"4 Bedroom House\")\n\nUnder Offer\n\nR 4 900 000\n\n4 Bedroom HouseCraighall\n\nCraighall\n\n4 2.5 4 2 324 m²\n\nSecure, quiet, north-facing craighall family home with panhandle access 2 bed cottage.. A beautifully proportioned 4 bedroom family ...\n\n![Pam Golding Properties](https://helium.privateproperty.co.za/live-za-images/offices/3457/image/57d34dfa95274487b256fab4692e229a_osm.jpg)\n\n](https://www.privateproperty.co.za/for-sale/gauteng/johannesburg/sandton/craighall/T5507509 \"4 Bedroom House\")\n\n* * *\n\n[![3 Bedroom Townhouse](https://images.pp.co.za/listing/10313410/AFsf9TAf9BidUdLs03zRI3/600/450/contain/jpegorpng \"3 Bedroom Townhouse\")\n\nR 5 500 000\n\n3 Bedroom TownhouseCraighall Park\n\nCraighall Park\n\n3 3.5 2 301 m²\n\nIdeal for professional couples, a perfect lock-and-go. 301m². . A striking structure in concrete and steel, this secure home is ...\n\n![Pam Golding Properties](https://helium.privateproperty.co.za/live-za-images/offices/3457/image/57d34dfa95274487b256fab4692e229a_osm.jpg)\n\n](https://www.privateproperty.co.za/for-sale/gauteng/johannesburg/johannesburg-central/craighall-park/T4584524 \"3 Bedroom Townhouse\")\n\n* * *\n\n[![4 Bedroom House](https://images.pp.co.za/listing/12038138/kkJ3SDmxjMmLIIqLVH7GV1/600/450/contain/jpegorpng \"4 Bedroom House\")\n\nR 6 990 000\n\n4 Bedroom HouseCraighall Park\n\nCraighall Park\n\n4 3 2 1 983 m²\n\nRefined family living in sought-after craighall park. Set in one of craighall parks most sought-after pockets, this beautifully ...\n\n![Pam Golding Properties](https://helium.privateproperty.co.za/live-za-images/offices/3457/image/57d34dfa95274487b256fab4692e229a_osm.jpg)\n\n](https://www.privateproperty.co.za/for-sale/gauteng/johannesburg/johannesburg-central/craighall-park/T5602135 \"4 Bedroom House\")\n\n* * *\n\n[![4 Bedroom Cluster](https://images.pp.co.za/listing/11952446/QZLWHUrTnfdYW7Zqsu3FB5/600/450/contain/jpegorpng \"4 Bedroom Cluster\")\n\nR 6 999 000\n\n4 Bedroom ClusterCraighall\n\nCraighall\n\n4 2.5 5 888 m²\n\nA true statement in style, exceptionally secure, this elegant cluster home set in the sought-after glenlovat enclosure with 24hr ...\n\n![Pam Golding Properties](https://helium.privateproperty.co.za/live-za-images/offices/3457/image/57d34dfa95274487b256fab4692e229a_osm.jpg)\n\n](https://www.privateproperty.co.za/for-sale/gauteng/johannesburg/sandton/craighall/T5553650 \"4 Bedroom Cluster\")\n\n* * *\n\n[![5 Bedroom House](https://images.pp.co.za/listing/12078834/KR27m9gQgn5oU4nOZdh5w1/600/450/contain/jpegorpng \"5 Bedroom House\")\n\nR 4 950 000\n\n5 Bedroom HouseCraighall\n\nCraighall\n\n5 3.5 2 999 m²\n\nExclusive, elevated, cluster-style home . Perfectly positioned on a quiet, elevated stand, this beautifully designed, free-standing ...\n\n![Pam Golding Properties](https://helium.privateproperty.co.za/live-za-images/offices/3457/image/57d34dfa95274487b256fab4692e229a_osm.jpg)\n\n](https://www.privateproperty.co.za/for-sale/gauteng/johannesburg/sandton/craighall/T5624704 \"5 Bedroom House\")\n\n* * *\n\n[![4 Bedroom House](https://images.pp.co.za/listing/12016467/geib04fbxgMkyJbmL01Md6/600/450/contain/jpegorpng \"4 Bedroom House\")\n\nOn Show:  27 Sep\n\nR 4 999 000\n\n4 Bedroom HouseCraighall\n\nCraighall\n\n4 3 3 1 501 m²\n\nA private craighall sanctuary designed for entertaining. Offers from r4,999 million. Tucked away at the end of a quiet panhandle, this ...\n\n![Pam Golding Properties](https://helium.privateproperty.co.za/live-za-images/offices/3457/image/57d34dfa95274487b256fab4692e229a_osm.jpg)\n\n](https://www.privateproperty.co.za/for-sale/gauteng/johannesburg/sandton/craighall/T5590198 \"4 Bedroom House\")\n\n* * *\n\n[![5 Bedroom House](https://images.pp.co.za/listing/11119741/0aEWNJ6tTe5xh9rtthkoV7/600/450/contain/jpegorpng \"5 Bedroom House\")\n\nUnder Offer\n\nR 5 499 000\n\n5 Bedroom HouseHurlingham\n\nHurlingham\n\n5 3.5 2 1 985 m²\n\nLocated in a secure boomed location with 24hr guards. This american colonial-style home with english charm has ample accommodation for ...\n\n![Pam Golding Properties](https://helium.privateproperty.co.za/live-za-images/offices/3457/image/57d34dfa95274487b256fab4692e229a_osm.jpg)\n\n](https://www.privateproperty.co.za/for-sale/gauteng/johannesburg/sandton/hurlingham/T5065880 \"5 Bedroom House\")\n\n* * *\n\n[![3 Bedroom House](https://images.pp.co.za/listing/11911258/MePjt7tPWqxxltNtt3l9k2/600/450/contain/jpegorpng \"3 Bedroom House\")\n\nUnder Offer\n\nR 5 750 000\n\n3 Bedroom HouseCraighall\n\nCraighall\n\n3 2.5 2 1 854 m²\n\nThis classical, elegant, well-maintained, family home embodies an air of classic charm. . South entry, north facing, under brosely ...\n\n![Pam Golding Properties](https://helium.privateproperty.co.za/live-za-images/offices/3457/image/57d34dfa95274487b256fab4692e229a_osm.jpg)\n\n](https://www.privateproperty.co.za/for-sale/gauteng/johannesburg/sandton/craighall/T5529670 \"3 Bedroom House\")\n\n* * *\n\n[![3 Bedroom House](https://images.pp.co.za/listing/12076821/PNvzhDCVhAOhmtdIP6mrs3/600/450/contain/jpegorpng \"3 Bedroom House\")\n\nOn Show:  27 Sep\n\nR 6 450 000\n\n3 Bedroom HouseCraighall\n\nCraighall\n\n3 2.5 2 995 m²\n\nA truly exceptional owner-built residence of grand proportions. Architectural scale, luxurious entertaining and sophisticated family ...\n\n![Pam Golding Properties](https://helium.privateproperty.co.za/live-za-images/offices/3457/image/57d34dfa95274487b256fab4692e229a_osm.jpg)\n\n](https://www.privateproperty.co.za/for-sale/gauteng/johannesburg/sandton/craighall/T5623566 \"3 Bedroom House\")\n\n* * *\n\n[![4 Bedroom House](https://images.pp.co.za/listing/11835115/2kWlUVDeglRYxOIpRe1jT2/600/450/contain/jpegorpng \"4 Bedroom House\")\n\nR 6 800 000\n\n4 Bedroom HouseCraighall\n\nCraighall\n\n4 4.5 3 1 995 m²\n\nContemporary family living with space, style and complete privacy. . Totally renovated and designed for effortless modern living. This ...\n\n![Pam Golding Properties](https://helium.privateproperty.co.za/live-za-images/offices/3457/image/57d34dfa95274487b256fab4692e229a_osm.jpg)\n\n](https://www.privateproperty.co.za/for-sale/gauteng/johannesburg/sandton/craighall/T5485913 \"4 Bedroom House\")\n\n* * *\n\n* * *\n\n![](https://helium.privateproperty.co.za/live-za-images/offices/3457/image/57d34dfa95274487b256fab4692e229a_ola.jpg)\n\n[Pam Golding Properties, Hyde Park](https://www.privateproperty.co.za/estate-agency/pam-golding-properties-hyde-park/3457)\n\n*   [![Emma Morris](https://helium.privateproperty.co.za/live-za-images/accountholders/2154708/image/658835548f534d81959ee96fc81066a4_ach.jpg)\n    \n    Emma Morris\n    \n    25 Properties\n    \n    Contact Me\n    \n    ](https://www.privateproperty.co.za/estate-agent/emma-morris/2154708/)"
+ },
+ {
+  "crawl": {
+   "httpStatusCode": 200,
+   "httpStatusMessage": "OK",
+   "loadedAt": "2026-09-24T18:51:14.098Z",
+   "uniqueKey": "7eChL1Bw6Q",
+   "requestStatus": "handled"
+  },
+  "searchResult": {
+   "title": "House for Sale | Hurlingham | HP1699217",
+   "description": "House for Sale by Pam Golding Properties in Hurlingham. This American colonial-style … $ 3,442 / month * 5 bedrooms3.5 bathrooms2 garagesErf. Easy access to  ...",
+   "url": "http://www.google.com/goto?url=CAESiQEB6zswFfXEkMrB0HMeZN14fGOxc0JoNeu3SaD6wk_6IPNH2egbb-MNIjiFCEIfuh6poM6T1mwevQ--6Q77Vh17dP-75iQKTSKBaU5JTUun9wwNDCfuWjOBEqvveHCgX2spW_D8XOLjjGYYy955-82aNHouwB4XhE99PlZh9wejhZKBCNEtZFcrJA",
+   "resultType": "ORGANIC",
+   "rank": 1
+  },
+  "metadata": {
+   "title": "House for Sale | Hurlingham | HP1699217 | Pam Golding Properties",
+   "description": "House for Sale by Pam Golding Properties in Hurlingham. This American colonial-style home with English charm has ample accommodation for large growing families.  South entry, north facing, pillared covered patio faces the garden with tall trees, pool and a riverside setting.  Country living within the bounds of the city.  Easy access to Sandton, Hyde Park, Rosebank and excellent schools.  \nLarge rooms, separate cottage + staff accommodation.  \nEntrance hall, large lounge, separate dining, study/entertainers bar room, large eat-in kitchen, guest cloakroom and baronial main suite with walk in dressing and full bathroom.\n\nUpstairs 4 sunny bedrooms with doors all opening to balconies and garden views.2 bathrooms, 1 en-suite. Upstairs playroom/pyjama lounge or teenage rumpus room.\n\nSeparate cottage comprising of bedroom/lounge, bathroom, fitted kitchen ideal for guests, WFH or rental income overlooking the pool and garden.\nStaff accommodation, double garage and off street parking.10kl JoJo tank, irrigation system, and gas geysers. \n. Our qualified estate agents are waiting for your call!",
+   "keywords": "",
+   "url": "https://www.pamgolding.co.za/property-details/house-for-sale-hurlingham/hp1699217",
+   "redirectedUrl": "https://www.pamgolding.co.za/property-details/house-for-sale-hurlingham/hp1699217",
+   "canonicalUrl": "https://www.pamgolding.co.za/property-details/house-for-sale-hurlingham/hp1699217",
+   "openGraph": [
+    {
+     "property": "og:title",
+     "content": "House for Sale | Hurlingham | HP1699217 | Pam Golding Properties"
+    },
+    {
+     "property": "og:description",
+     "content": "Take a look at this property and discover more about its features, price and location to find out why it caught my eye."
+    },
+    {
+     "property": "og:image",
+     "content": "https://resources.pamgolding.co.za/content/properties/202505/1073116/h/1073116_H_19.jpg?w=1200"
+    },
+    {
+     "property": "og:url",
+     "content": "https://www.pamgolding.co.za/property-details/house-for-sale-hurlingham/hp1699217"
+    },
+    {
+     "property": "og:type",
+     "content": "website"
+    }
+   ],
+   "headers": {
+    "content-encoding": "gzip",
+    "content-security-policy": "frame-ancestors 'self' https://alchemy.pamgolding.co.za/",
+    "content-type": "text/html;charset=utf-8",
+    "date": "Thu, 24 Sep 2026 18:51:13 GMT",
+    "server": "nginx/1.24.0 (Ubuntu)",
+    "vary": "Accept-Encoding, Accept-Encoding",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "Nuxt",
+    "set-cookie": [
+     "mobile_user=false; Max-Age=2592000; Path=/",
+     "currency_id=5; Max-Age=2592000; Path=/",
+     "size_unit_id=1; Max-Age=2592000; Path=/",
+     "theme_id=1; Max-Age=2592000; Path=/",
+     "search_preference=1; Max-Age=2592000; Path=/",
+     "sort_id=3; Max-Age=2592000; Path=/",
+     "dev_sort_id=3; Max-Age=2592000; Path=/"
+    ]
+   }
+  },
+  "query": "Hurlingham Sandton 5 bedroom house for sale R17 000 000 Pam Golding Emma Morris",
+  "markdown": "House for Sale | Hurlingham | HP1699217 | Pam Golding Properties\n\n# House for sale in Hurlingham\n\n![House for sale in Hurlingham - HP1699217](https://resources.pamgolding.co.za/content/properties/202505/1073116/h/1073116_H_19.jpg)\n\n40PhotosMap\n\n*   Under offer\n*   Exclusive mandate\n\n*   [For Sale](https://www.pamgolding.co.za/property-search/properties-for-sale)\n*   /\n*   [South Africa](https://www.pamgolding.co.za/property-search/properties-for-sale-south-africa/2661)\n*   /\n*   [Gauteng](https://www.pamgolding.co.za/property-search/properties-for-sale-gauteng/572)\n*   /\n*   [Johannesburg North](https://www.pamgolding.co.za/property-search/properties-for-sale-johannesburg-north-gauteng/624)\n*   /\n*   [Sandton](https://www.pamgolding.co.za/property-search/properties-for-sale-sandton/681)\n*   /\n*   [Hurlingham](https://www.pamgolding.co.za/property-search/properties-for-sale-hurlingham/690)\n*   /\n*   [HP1699217](https://www.pamgolding.co.za/property-details/house-for-sale-hurlingham/hp1699217)\n\n## \n\nR 5,499,000\n\n5 bedrooms3.5 bathrooms2 garagesErf 1985 m²\n\n*   Aircon\n    \n*   Flatlet\n    \n*   Garage\n    \n*   Garden\n    \n*   Pool\n    \n\nListing #: HP1699217\n\n## Located in a secure boomed location with 24hr guards\n\nThis American colonial-style home with English charm has ample accommodation for large growing families. South entry, north facing, pillared covered patio faces the garden with tall trees, pool and a riverside setting. Country living within the bounds of the city. Easy access to Sandton, Hyde Park, Rosebank and excellent schools.\n\nLarge rooms, separate cottage + staff accommodation.\n\nEntrance hall, large lounge, separate dining, study/entertainers bar room, large eat-in kitchen, guest cloakroom and baronial main suite with walk in dressing and full bathroom.\n\nUpstairs 4 sunny bedrooms with doors all opening to balconies and garden views.2 bathrooms, 1 en-suite. Upstairs playroom/pyjama lounge or teenage rumpus room.\n\nSeparate cottage comprising of bedroom/lounge, bathroom, fitted kitchen ideal for guests, WFH or rental income overlooking the pool and garden.\n\nStaff accommodation, double garage and off street parking.10kl JoJo tank, irrigation system, and gas geysers.\n\nRead more\n\n## Listing details\n\n### Rooms\n\n*   *   5 Bedrooms\n    *   *   Main Bedroom\n        *   Main bedroom with en-suite bathroom, carpeted floors and walk-in dressing room\n    *   *   Bedroom 2\n        *   Bedroom with balcony, built-in cupboards, carpeted floors and ceiling fan\n    *   *   Bedroom 3\n        *   Bedroom with built-in cupboards, carpeted floors and ceiling fan\n    *   *   Bedroom 4\n        *   Bedroom with balcony, built-in cupboards, carpeted floors and ceiling fan\n    *   *   Bedroom 5\n        *   Bedroom with en-suite bathroom, built-in cupboards, carpeted floors and ceiling fan\n*   *   3 Bathrooms\n    *   *   Bathroom 1\n        *   Bathroom with bath, double shower, double vanity, tiled floors and toilet\n    *   *   Bathroom 2\n        *   Bathroom with basin, bath, shower, tiled floors and toilet\n    *   *   Bathroom 3\n        *   Bathroom with basin, bath, shower, tiled floors and toilet\n*   *   Other rooms\n    *   *   Dining Room\n        *   Dining room with laminate wood floors\n    *   *   Entrance Hall\n        *   Entrance hall with tiled floors\n    *   *   Kitchen\n        *   Kitchen with double eye-level oven, gas hob, granite tops, tiled floors and walk-in pantry\n    *   *   Formal Lounge\n        *   Formal lounge with gas fireplace\n    *   *   Entertainment Room\n        *   Entertainment room with tiled floors\n    *   *   Guest Cloakroom\n        *   Guest cloakroom with tiled floors\n    *   *   Pyjama Lounge\n        *   Pyjama lounge with air conditioner, carpeted floors and ceiling fan\n    *   *   Scullery\n        *   Scullery with dish-wash machine connection, granite tops, tiled floors and tumble dryer connection\n\n### Other features\n\n*   *   Roof\n    *   Slate roof\n*   *   Garden\n    \n*   *   Pool\n    *   Swimming pool\n*   *   Security\n    *   24 hour manned security\n*   *   Other\n    *   Gas geyser\n\n### Additional buildings\n\n*   *   Cottage\n    *   1 Bedroom, 1 Bathroom\n\n## We are your local property experts in Hurlingham, South Africa\n\n### Kass Bunkell\n\n[![Kass Bunkell, your local property expert in Hurlingham, South Africa](https://images.pamgolding.co.za/content/agents_lifestyle_campaign/rgb/landscape_lockup/bunk01.jpg \"Kass Bunkell, your local property expert in Hurlingham, South Africa\")](https://www.pamgolding.co.za/property-consultant/hyde-park/kass-bunkell/bunk01)\n\n[WhatsApp](https://wa.me/+27825658658/?text=Hi%20Kass%20Bunkell%2C%20I%27d%20like%20to%20chat%20about%20the%20House%20for%20sale%20in%20Hurlingham%20\\(HP1699217\\)%2C%20that%20I%20saw%20on%20the%20Pam%20Golding%20Website.%20Please%20contact%20me.%20https%3A%2F%2Fwww.pamgolding.co.za%2Fproperty-details%2Fhouse-for-sale-hurlingham%2Fhp1699217)PhoneEmail[My profile](https://www.pamgolding.co.za/property-consultant/hyde-park/kass-bunkell/bunk01)\n\nGoldClub 5 Year Elite Agent\n\nRegistered with the PPRA - Full Status FFC\n\n#### Kass Bunkell\n\n![Kass Bunkell - GoldClub 5 Year Elite Agent](/img/general/agent_recognition_gold.png \"Kass Bunkell - GoldClub 5 Year Elite Agent\")GoldClub 5 Year Elite Agent\n\nGoldClub status recognises the highest levels of service excellence and outstanding sales & rentals success for which the Pam Golding Properties brand is renowned.\n\n### Emma Morris\n\n[![Emma Morris, your local property expert in Hurlingham, South Africa](https://images.pamgolding.co.za/content/agents_lifestyle_campaign/rgb/landscape_lockup/more02.jpg \"Emma Morris, your local property expert in Hurlingham, South Africa\")](https://www.pamgolding.co.za/property-consultant/hyde-park/emma-morris/more02)\n\n[WhatsApp](https://wa.me/+27835044420/?text=Hi%20Emma%20Morris%2C%20I%27d%20like%20to%20chat%20about%20the%20House%20for%20sale%20in%20Hurlingham%20\\(HP1699217\\)%2C%20that%20I%20saw%20on%20the%20Pam%20Golding%20Website.%20Please%20contact%20me.%20https%3A%2F%2Fwww.pamgolding.co.za%2Fproperty-details%2Fhouse-for-sale-hurlingham%2Fhp1699217)PhoneEmail[My profile](https://www.pamgolding.co.za/property-consultant/hyde-park/emma-morris/more02)\n\nGoldClub 5 Year Elite Agent\n\nRegistered with the PPRA - Full Status FFC\n\n#### Emma Morris\n\n![Emma Morris - GoldClub 5 Year Elite Agent](/img/general/agent_recognition_gold.png \"Emma Morris - GoldClub 5 Year Elite Agent\")GoldClub 5 Year Elite Agent\n\nGoldClub status recognises the highest levels of service excellence and outstanding sales & rentals success for which the Pam Golding Properties brand is renowned.\n\n[More of our listings](https://www.pamgolding.co.za/property-search/properties-for-sale?par=4997)[Properties we've sold](https://www.pamgolding.co.za/property-search/properties-sold?par=4997)\n\n## Hyde Park Office\n\nInvestment Place, 2nd Road off Winnie Mandela Drive, Hyde Park, Gauteng\n\nRegistered with the PPRA.Holder of a Business Property Practitioner FFC. Operating a Trust Account.\n\n[Hyde Park Office details](https://www.pamgolding.co.za/contact-us/office-details/hyde-park/117)\n\n## Looking to sell or let your property?\n\nOur property specialists can give you a professional, no-obligation market evaluation.\n\nWhere is your property located?\n\n![Kass and Emma, your local property experts in Hurlingham, South Africa](https://images.pamgolding.co.za/content/partnerships_lifestyle_campaign/rgb/alchemy_lockup/kbme.jpg?w=760 \"Kass and Emma, your local property experts in Hurlingham, South Africa\")\n\nContact details\n\nWebsite\n\nWebsite\n\nFirst name\n\nFirst name\n\nLast name\n\nLast name\n\nEmail address\n\nEmail address\n\nPhone (optional)\n\nPhone (optional)\n\nAdditional information (optional)I am interested in the House for sale in Hurlingham - HP1699217.\n\nAdditional information (optional)\n\nUsername (required)\n\nUsername (required)\n\nI agree to the [Terms of use](https://www.pamgolding.co.za/terms-and-conditions) and [Privacy Policy](https://www.pamgolding.co.za/privacy-policy)\n\nSubmit\n\nContact detailsRequest details"
+ },
+ {
+  "crawl": {
+   "httpStatusCode": 200,
+   "httpStatusMessage": "OK",
+   "loadedAt": "2026-09-24T18:51:16.735Z",
+   "uniqueKey": "pBsbilxBVE",
+   "requestStatus": "handled"
+  },
+  "searchResult": {
+   "title": "Houses for sale by Emma Morris",
+   "description": "Houses for sale by Emma Morris. 5 Bedroom House for sale. Hurlingham - Sandton",
+   "url": "http://www.google.com/goto?url=CAESlgEB6zswFS6WvE1HI5q_UCnLlO2m_GhG_iXS_VqBrKAOvHQ-g_LRWz_LvqNUEU871WzPuIwF1oYjjVOQhsA_svI8kGrxGEcTO1W7kqQj6wv6jCZ-CdO1kJopl_AIcGXi1sfpei6EW1FQuuUEtoQTJmtZLUsOAxg2XFuhClz2b1H09ZOSsUb9df4nTKICwkRD0OezDsNf0qk",
+   "resultType": "ORGANIC",
+   "rank": 3
+  },
+  "metadata": {
+   "title": "Houses for sale by Emma Morris",
+   "description": "Houses for sale by Emma Morris.",
+   "languageCode": "en",
+   "url": "https://www.property24.com/for-sale/agency/pam-golding-properties-hyde-park/emma-morris/355285",
+   "redirectedUrl": "https://www.property24.com/for-sale/agency/pam-golding-properties-hyde-park/emma-morris/355285",
+   "canonicalUrl": "https://www.property24.com/for-sale/agency/pam-golding-properties-hyde-park/emma-morris/355285",
+   "openGraph": [
+    {
+     "property": "og:title",
+     "content": "Houses for sale by Emma Morris"
+    },
+    {
+     "property": "og:description",
+     "content": "Houses for sale by Emma Morris."
+    },
+    {
+     "property": "og:image",
+     "content": "https://www.property24.com/Content/images/Optimized/Logos/property24_logo_social_media_share.png?z=e2db65075e854545643"
+    },
+    {
+     "property": "og:image:type",
+     "content": "image/png"
+    },
+    {
+     "property": "og:image:width",
+     "content": "1200"
+    },
+    {
+     "property": "og:image:height",
+     "content": "1200"
+    },
+    {
+     "property": "og:url",
+     "content": "https://www.property24.com/for-sale/agency/pam-golding-properties-hyde-park/emma-morris/355285"
+    }
+   ],
+   "headers": {
+    "cache-control": "private",
+    "content-encoding": "br",
+    "content-security-policy": "object-src none, frame-ancestors 'self'",
+    "content-type": "text/html; charset=utf-8",
+    "date": "Thu, 24 Sep 2026 18:51:15 GMT",
+    "pragma": "no-cache",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "request-context": "appId=cid-v1:f9163f9a-ba0a-4b0b-8e66-863fa1a682d9",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "Accept-Encoding",
+    "x-cache": "MISS",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-proxied-by": "P24HB:10.26.29.27>10.26.29.6, P24HB:10.24.144.86>20.87.178.51, P24HB:10.24.148.30>10.24.144.86",
+    "x-requestid": "060629dc4c509acd985f485c38e823b9",
+    "x-td-connected": "Connected",
+    "x-td-result": "Allowed",
+    "x-uniqueuserid": "pttn4ogetwv1lilwh30a4i34",
+    "set-cookie": [
+     "P24SEYED=742546c9-19c7-4603-96da-b6e2f14cfbb9; path=/; secure; httponly",
+     "P24UUEYED=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/",
+     "P24UUEYED=Id%3Dpttn4ogetwv1lilwh30a4i34%26Date%3D639258798762031116; expires=Sun, 24 Sep 2028 18:51:16 GMT; domain=.property24.com; path=/; secure; httponly",
+     "__RequestVerificationToken=CfDJ8GBCS__IpUZHpFW4XQtSl_1hVvTHPnrk6TM3eZoNNjHW6I8hvuSzrlak7at4m-OuCXfWiGEYL4cRbmQMLcbpjJGRssMRsbuWRMlxZZqc86vvI6H4H8satKmrFvQYAyNIO8eDnK5tCw3eqGZWxKVN1rk; path=/; secure; samesite=lax; httponly"
+    ]
+   }
+  },
+  "query": "Hurlingham Sandton 5 bedroom house for sale R17 000 000 Pam Golding Emma Morris",
+  "markdown": "Houses for sale by Emma Morris\n\nPlease note that you are using an outdated browser which is not compatible with some elements of the site. We strongly urge you to update to [Edge](https://www.microsoft.com/en-us/edge \"Download Edge\") for an optimal browsing experience.\n\n*   \n\n \n\n \n\n 0\n\n \n\n# Pam Golding Properties - Hyde Park: Property For Sale by Emma Morris\n\n![Emma Morris](https://images.prop24.com/385628030/UpperCrop200x200)\n\n##### Emma Morris\n\nI am Emma Morris, the Pam Golding area agent for Craighall, Craighall Park, Hurlingham and Glenadrienne. I have worked within the real estate industry for the past 22 years.\n\nIn that time I have helped young professionals find the perfect space for their budget, walked the journey with young families looking to turn a house into a home, and assisted in times of need when a downsize was not wanted but necessary.\n\nI personally believe buying and selling a property is not only a financial decision, it's a human interaction and ultimately an emotional connection. I don't just sell meters squared, I sell memories to be made, I sell a safe space to play, I sell opportunities in the market and turn finding a buyer's dream home into a reality.\n\nWhether it's your first home or just an investment, I'll be happy and willing to get you the property you deserve.\n\nContact me today.\n\nI am Emma Morris, the Pam Golding area agent for Craighall, Craighall Park, Hurlingham and Glenadrienne. I have worked within the real estate industry for the past 22 years.\n\nIn that time I have helped young professionals find the perfect space for their budget, walked the journey with young families looking to turn a house into a home, and assisted in times of need when a downsize was not wanted but necessary.\n\nI personally believe buying and selling a property is not only a financial decision, it's a human interaction and ultimately an emotional connection. I don't just sell meters squared, I sell memories to be made, I sell a safe space to play, I sell opportunities in the market and turn finding a buyer's dream home into a reality.\n\nWhether it's your first home or just an investment, I'll be happy and willing to get you the property you deserve.\n\nContact me today.\n\n[Contact Details](https://www.property24.com/estate-agents/pam-golding-properties-hyde-park/emma-morris/355285 \"Contact Details\")\n\n25results\n\nSort by:   Default ![Sort by](/Content/images/Optimized/Icons/icon_arrow_right_updated.svg?z=668f440cafaa8773098e) \n\n*   [Default](https://www.property24.com/for-sale/agency/pam-golding-properties-hyde-park/emma-morris/355285#SortOrder \"Default\")\n*   [Price - low to high](https://www.property24.com/for-sale/agency/pam-golding-properties-hyde-park/emma-morris/355285?sp=so%3dPriceLow#SortOrder \"Price - low to high\")\n*   [Price - high to low](https://www.property24.com/for-sale/agency/pam-golding-properties-hyde-park/emma-morris/355285?sp=so%3dPriceHigh#SortOrder \"Price - high to low\")\n*   [Most recent](https://www.property24.com/for-sale/agency/pam-golding-properties-hyde-park/emma-morris/355285?sp=so%3dNewest#SortOrder \"Most recent\")\n*   [Property type](https://www.property24.com/for-sale/agency/pam-golding-properties-hyde-park/emma-morris/355285?sp=so%3dType#SortOrder \"Property type\")\n*   [Size](https://www.property24.com/for-sale/agency/pam-golding-properties-hyde-park/emma-morris/355285?sp=so%3dSize#SortOrder \"Size\")\n\n[![Set in one of Craighall Park’s most sought-after pockets, this beautifully renovated family home offers an exceptional blend of ...](https://images.prop24.com/385582077/Crop600x400 \"4 Bedroom House for sale in Craighall Park - Johannesburg\")\n\n*   Reduced\n\n](https://www.property24.com/for-sale/craighall-park/johannesburg/gauteng/5821/117569304)   ![Pam Golding Properties - Hyde Park](https://images.prop24.com/206466645/Ensure264x153)[ R 6 990 000 4 Bedroom House Craighall Park Set in one of Craighall Park’s most sought-after pockets, this beautifully renovated family home offers an exceptional blend of ... 4 3 2 ![Erf Size](/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543) 1 983 m²](https://www.property24.com/for-sale/craighall-park/johannesburg/gauteng/5821/117569304)\n\n [![Perfectly positioned on a quiet, elevated stand, this beautifully designed, free-standing cluster-style home offers an exceptional ...](https://images.prop24.com/386751854/Crop600x400 \"5 Bedroom House for sale in Craighall - Johannesburg\")](https://www.property24.com/for-sale/craighall/johannesburg/gauteng/5820/117630045)![Pam Golding Properties - Hyde Park](https://images.prop24.com/206466645/Ensure264x153)   [ R 4 950 000 5 Bedroom House Craighall Perfectly positioned on a quiet, elevated stand, this beautifully designed, free-standing cluster-style home offers an exceptional ... 5 3.5 2 ![Erf Size](/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543) 999 m²](https://www.property24.com/for-sale/craighall/johannesburg/gauteng/5820/117630045)\n\n [![Set high within a secure 24hr boomed and guarded enclave, this exceptional family residence offers generous accommodation, refined ...](https://images.prop24.com/387093587/Crop600x400 \"4 Bedroom House for sale in Craighall - Johannesburg\")](https://www.property24.com/for-sale/craighall/johannesburg/gauteng/5820/117648590)![Pam Golding Properties - Hyde Park](https://images.prop24.com/206466645/Ensure264x153)   [ R 7 200 000 4 Bedroom House Craighall Set high within a secure 24hr boomed and guarded enclave, this exceptional family residence offers generous accommodation, refined ... 4 4.5 ![Erf Size](/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543) 2 374 m²](https://www.property24.com/for-sale/craighall/johannesburg/gauteng/5820/117648590)\n\n[![Architectural scale, luxurious entertaining and sophisticated family living come together in a private, secure and beautifully ...](/blank.gif \"3 Bedroom House for sale in Craighall - Johannesburg\")\n\n*   On Show: 27 SEP\n\n](https://www.property24.com/for-sale/craighall/johannesburg/gauteng/5820/117626996)   ![Pam Golding Properties - Hyde Park](https://images.prop24.com/206466645/Ensure264x153)[ R 6 450 000 3 Bedroom House Craighall Architectural scale, luxurious entertaining and sophisticated family living come together in a private, secure and beautifully ... 3 2.5 2 ![Erf Size](/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543) 995 m²](https://www.property24.com/for-sale/craighall/johannesburg/gauteng/5820/117626996)\n\n[![Offers from R4,999 million.\nTucked away at the end of a quiet panhandle, this exceptional 4-bedroom, 3-bathroom home offers privacy ...](/blank.gif \"4 Bedroom House for sale in Craighall - Johannesburg\")\n\n*   On Show: 27 SEP\n\n](https://www.property24.com/for-sale/craighall/johannesburg/gauteng/5820/117535792)   ![Pam Golding Properties - Hyde Park](https://images.prop24.com/206466645/Ensure264x153)[ R 4 999 000 4 Bedroom House Craighall Offers from R4,999 million. Tucked away at the end of a quiet panhandle, this exceptional 4-bedroom, 3-bathroom home offers privacy ... 4 3 3 ![Erf Size](/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543) 1 501 m²](https://www.property24.com/for-sale/craighall/johannesburg/gauteng/5820/117535792)\n\n [![This apartment in the heart of Craighall Park offers a convenient lifestyle with Delta Park, biking trails and several excellent ...](/blank.gif \"2 Bedroom Apartment / flat for sale in Craighall Park - Johannesburg\")](https://www.property24.com/for-sale/craighall-park/johannesburg/gauteng/5821/117558909)![Pam Golding Properties - Hyde Park](https://images.prop24.com/206466645/Ensure264x153)   [ R 1 190 000 2 Bedroom Apartment Craighall Park This apartment in the heart of Craighall Park offers a convenient lifestyle with Delta Park, biking trails and several excellent ... 2 2 1 ![Floor Size](/Content/images/Optimized/Icons/icon_floor_updated.svg?z=fcacf780bdee314ed65c) 102 m²](https://www.property24.com/for-sale/craighall-park/johannesburg/gauteng/5821/117558909)\n\n [![2 Bedrooms, 2 bathrooms, main en suite with bath, 2nd bathroom with shower.\nGenerous open-plan living and dining with wood-look floors ...](/blank.gif \"2 Bedroom Apartment / flat for sale in Craighall Park - Johannesburg\")](https://www.property24.com/for-sale/craighall-park/johannesburg/gauteng/5821/117520729)![Pam Golding Properties - Hyde Park](https://images.prop24.com/206466645/Ensure264x153)   [ R 1 399 000 2 Bedroom Apartment Craighall Park 2 Bedrooms, 2 bathrooms, main en suite with bath, 2nd bathroom with shower. Generous open-plan living and dining with wood-look floors ... 2 2 ![Floor Size](/Content/images/Optimized/Icons/icon_floor_updated.svg?z=fcacf780bdee314ed65c) 102 m²](https://www.property24.com/for-sale/craighall-park/johannesburg/gauteng/5821/117520729)\n\n [![South entry/north facing, totally renovated for young professionals, empty nesters or busy executives seeking a sophisticated and ...](/blank.gif \"4 Bedroom House for sale in Craighall - Johannesburg\")](https://www.property24.com/for-sale/craighall/johannesburg/gauteng/5820/117414178)![Pam Golding Properties - Hyde Park](https://images.prop24.com/206466645/Ensure264x153)   [ R 6 999 000 4 Bedroom House Craighall South entry/north facing, totally renovated for young professionals, empty nesters or busy executives seeking a sophisticated and ... 4 2.5 5 ![Erf Size](/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543) 888 m²](https://www.property24.com/for-sale/craighall/johannesburg/gauteng/5820/117414178)\n\n[![Totally renovated, charming home for 1.\nNew aluminum windows, new flooring, new fixtures and fittings - brand new from top to toe. ...](/blank.gif \"1 Bedroom Apartment / flat for sale in Craighall - Johannesburg\")\n\n*   Reduced\n\n](https://www.property24.com/for-sale/craighall/johannesburg/gauteng/5820/117427296)   ![Pam Golding Properties - Hyde Park](https://images.prop24.com/206466645/Ensure264x153)[ R 850 000 1 Bedroom Apartment Craighall Totally renovated, charming home for 1. New aluminum windows, new flooring, new fixtures and fittings - brand new from top to toe. ... 1 1 1 ![Floor Size](/Content/images/Optimized/Icons/icon_floor_updated.svg?z=fcacf780bdee314ed65c) 46 m²](https://www.property24.com/for-sale/craighall/johannesburg/gauteng/5820/117427296)\n\n [![Great for garden braais and entertaining. Modern, well-fitted, open-plan chef’s kitchen with Caesarstone tops and space for 2 ...](/blank.gif \"2 Bedroom Apartment / flat for sale in Hurlingham - Sandton\")](https://www.property24.com/for-sale/hurlingham/sandton/gauteng/5860/117376008)![Pam Golding Properties - Hyde Park](https://images.prop24.com/206466645/Ensure264x153)   [ R 1 890 000 2 Bedroom Apartment Hurlingham Great for garden braais and entertaining. Modern, well-fitted, open-plan chef’s kitchen with Caesarstone tops and space for 2 ... 2 2 2 ![Floor Size](/Content/images/Optimized/Icons/icon_floor_updated.svg?z=fcacf780bdee314ed65c) 94 m²](https://www.property24.com/for-sale/hurlingham/sandton/gauteng/5860/117376008)\n\n[![Positioned in one of the area&#39;s most sought-after addresses within a secured boomed road, this exclusive cluster home is one of ...](/blank.gif \"3 Bedroom House for sale in Hurlingham - Sandton\")\n\n*   Under Offer\n\n](https://www.property24.com/for-sale/hurlingham/sandton/gauteng/5860/117492526)   ![Pam Golding Properties - Hyde Park](https://images.prop24.com/206466645/Ensure264x153)[ R 7 750 000 3 Bedroom House Hurlingham Positioned in one of the area's most sought-after addresses within a secured boomed road, this exclusive cluster home is one of ... 3 2.5 2 ![Erf Size](/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543) 1 123 m²](https://www.property24.com/for-sale/hurlingham/sandton/gauteng/5860/117492526)\n\n [![Set on &#177;2 207m&#178; of beautifully established grounds, this exceptional, north-facing family residence offers generous ...](/blank.gif \"5 Bedroom House for sale in Craighall - Johannesburg\")](https://www.property24.com/for-sale/craighall/johannesburg/gauteng/5820/117454704)![Pam Golding Properties - Hyde Park](https://images.prop24.com/206466645/Ensure264x153)   [ R 7 990 000 5 Bedroom House Craighall Set on ±2 207m² of beautifully established grounds, this exceptional, north-facing family residence offers generous ... 5 3.5 4 ![Erf Size](/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543) 2 207 m²](https://www.property24.com/for-sale/craighall/johannesburg/gauteng/5820/117454704)\n\n[![Sunny and bright in a small convenient complex. Pets allowed with the Body Corporate permission. Well-fitted kitchen, pantry cupboard ...](/blank.gif \"2 Bedroom Apartment / flat for sale in Craighall - Johannesburg\")\n\n*   Under Offer\n\n](https://www.property24.com/for-sale/craighall/johannesburg/gauteng/5820/117311600)   ![Pam Golding Properties - Hyde Park](https://images.prop24.com/206466645/Ensure264x153)[ R 1 150 000 2 Bedroom Apartment Craighall Sunny and bright in a small convenient complex. Pets allowed with the Body Corporate permission. Well-fitted kitchen, pantry cupboard ... 2 2 2 ![Floor Size](/Content/images/Optimized/Icons/icon_floor_updated.svg?z=fcacf780bdee314ed65c) 79 m²](https://www.property24.com/for-sale/craighall/johannesburg/gauteng/5820/117311600)\n\n[![South entry, north facing, under Brosely tile of matchless elegance cloistered behind high walls. Solid teak windows, doors and ...](/blank.gif \"3 Bedroom House for sale in Craighall - Johannesburg\")\n\n*   Under Offer\n\n](https://www.property24.com/for-sale/craighall/johannesburg/gauteng/5820/117345496)   ![Pam Golding Properties - Hyde Park](https://images.prop24.com/206466645/Ensure264x153)[ R 5 750 000 3 Bedroom House Craighall South entry, north facing, under Brosely tile of matchless elegance cloistered behind high walls. Solid teak windows, doors and ... 3 2.5 2 ![Erf Size](/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543) 1 854 m²](https://www.property24.com/for-sale/craighall/johannesburg/gauteng/5820/117345496)\n\n [![Totally renovated and designed for effortless modern living. This exceptional family residence combines striking, contemporary style ...](/blank.gif \"4 Bedroom House for sale in Craighall - Johannesburg\")](https://www.property24.com/for-sale/craighall/johannesburg/gauteng/5820/117214953)![Pam Golding Properties - Hyde Park](https://images.prop24.com/206466645/Ensure264x153)   [ R 6 800 000 4 Bedroom House Craighall Totally renovated and designed for effortless modern living. This exceptional family residence combines striking, contemporary style ... 4 4.5 3 ![Erf Size](/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543) 1 995 m²](https://www.property24.com/for-sale/craighall/johannesburg/gauteng/5820/117214953)\n\n [![Light, bright and sunny apartment with parquet floors flowing throughout. Well-fitted kitchen with granite countertops and space for 1 ...](/blank.gif \"2 Bedroom Apartment / flat for sale in Craighall Park - Johannesburg\")](https://www.property24.com/for-sale/craighall-park/johannesburg/gauteng/5821/117150380)![Pam Golding Properties - Hyde Park](https://images.prop24.com/206466645/Ensure264x153)   [ R 1 290 000 2 Bedroom Apartment Craighall Park Light, bright and sunny apartment with parquet floors flowing throughout. Well-fitted kitchen with granite countertops and space for 1 ... 2 1.5 2 ![Floor Size](/Content/images/Optimized/Icons/icon_floor_updated.svg?z=fcacf780bdee314ed65c) 106 m²](https://www.property24.com/for-sale/craighall-park/johannesburg/gauteng/5821/117150380)\n\n[![Entry level in the best location in sought-after Douglas Avenue in Craighall. Located in a 24hr guarded road.  \nThis period home boasts ...](/blank.gif \"4 Bedroom House for sale in Craighall - Johannesburg\")\n\n*   Sold\n\n](https://www.property24.com/for-sale/craighall/johannesburg/gauteng/5820/117175538)   ![Pam Golding Properties - Hyde Park](https://images.prop24.com/206466645/Ensure264x153)[ R 4 200 000 4 Bedroom House Craighall Entry level in the best location in sought-after Douglas Avenue in Craighall. Located in a 24hr guarded road. This period home boasts ... 4 2 2 ![Erf Size](/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543) 1 338 m²](https://www.property24.com/for-sale/craighall/johannesburg/gauteng/5820/117175538)\n\n[![A beautifully proportioned 4 bedroom family residence set on a generous &#177; 2 324m&#178; stand in the heart of Craighall. Designed ...](/blank.gif \"4 Bedroom House for sale in Craighall - Johannesburg\")\n\n*   Under Offer\n\n](https://www.property24.com/for-sale/craighall/johannesburg/gauteng/5820/117278520)   ![Pam Golding Properties - Hyde Park](https://images.prop24.com/206466645/Ensure264x153)[ R 4 900 000 4 Bedroom House Craighall A beautifully proportioned 4 bedroom family residence set on a generous ± 2 324m² stand in the heart of Craighall. Designed ... 4 2.5 4 ![Erf Size](/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543) 2 324 m²](https://www.property24.com/for-sale/craighall/johannesburg/gauteng/5820/117278520)\n\n [![From the entrance the apartment has tiles that flow through the apartment. The open floor plan encompasses 3 bedrooms with built-in ...](/blank.gif \"3 Bedroom Apartment / flat for sale in Craighall - Johannesburg\")](https://www.property24.com/for-sale/craighall/johannesburg/gauteng/5820/117186039)![Pam Golding Properties - Hyde Park](https://images.prop24.com/206466645/Ensure264x153)   [ R 2 300 000 3 Bedroom Apartment Craighall From the entrance the apartment has tiles that flow through the apartment. The open floor plan encompasses 3 bedrooms with built-in ... 3 2 3 ![Floor Size](/Content/images/Optimized/Icons/icon_floor_updated.svg?z=fcacf780bdee314ed65c) 125 m²](https://www.property24.com/for-sale/craighall/johannesburg/gauteng/5820/117186039)\n\n [![Rare opportunity to purchase a stunning apartment situated on 3 levels, the third being a rooftop sundowner terrace with 180&#186; ...](/blank.gif \"3 Bedroom Apartment / flat for sale in Craighall - Johannesburg\")](https://www.property24.com/for-sale/craighall/johannesburg/gauteng/5820/117141737)![Pam Golding Properties - Hyde Park](https://images.prop24.com/206466645/Ensure264x153)   [ R 4 850 000 3 Bedroom Apartment Craighall Rare opportunity to purchase a stunning apartment situated on 3 levels, the third being a rooftop sundowner terrace with 180º ... 3 3.5 2 ![Floor Size](/Content/images/Optimized/Icons/icon_floor_updated.svg?z=fcacf780bdee314ed65c) 202 m²](https://www.property24.com/for-sale/craighall/johannesburg/gauteng/5820/117141737)\n\n[![South entry, north facing, under Brosely tile of matchless elegance cloistered behind high walls. Solid teak windows, doors and ...](/blank.gif \"3 Bedroom House for sale in Craighall - Johannesburg\")\n\n*   Under Offer\n\n](https://www.property24.com/for-sale/craighall/johannesburg/gauteng/5820/117642928)   ![Pam Golding Properties - Hyde Park](https://images.prop24.com/206466645/Ensure264x153)[ R 5 750 000 3 Bedroom House Craighall South entry, north facing, under Brosely tile of matchless elegance cloistered behind high walls. Solid teak windows, doors and ... 3 2.5 2 ![Erf Size](/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543) 1 854 m²](https://www.property24.com/for-sale/craighall/johannesburg/gauteng/5820/117642928)\n\n [![Previous](/Content/images/Optimized/Icons/icon_arrow_right_updated.svg?z=668f440cafaa8773098e) Previous](javascript:;) [Next ![Next](/Content/images/Optimized/Icons/icon_arrow_right_updated.svg?z=668f440cafaa8773098e)](https://www.property24.com/for-sale/agency/pam-golding-properties-hyde-park/emma-morris/355285/p2) \n\n*   [1](https://www.property24.com/for-sale/agency/pam-golding-properties-hyde-park/emma-morris/355285)\n*   [2](https://www.property24.com/for-sale/agency/pam-golding-properties-hyde-park/emma-morris/355285/p2)\n\n![newsletter](/Content/images/Optimized/Icons/icon_newsletter.svg?z=6701a7)\n\n### Get the latest property news\n\nWeekly Newsletter\n\nHot Properties\n\nHome Lifestyle\n\nSubscribe\n\nBy continuing I understand and agree with [Property24's Terms & Conditions](https://www.property24.com/terms-and-conditions) and [Privacy Policy](https://www.property24.com/privacy-policy).\n\n![newsletter](/Content/images/Optimized/Icons/icon_newsletter.svg?z=6701a7)\n\n### Get the latest property news\n\nWeekly Newsletter\n\nHot Properties\n\nHome Lifestyle\n\nSubscribe\n\nBy continuing I understand and agree with [Property24's Terms & Conditions](https://www.property24.com/terms-and-conditions) and [Privacy Policy](https://www.property24.com/privacy-policy).\n\n[Property for sale in Gauteng](https://www.property24.com/for-sale/gauteng/1 \"Property for sale in Gauteng : Property and houses for sale in Gauteng : Property24.com\")\n\n[Property for sale in KwaZulu Natal](https://www.property24.com/for-sale/kwazulu-natal/2 \"Property for sale in KwaZulu Natal : Property and houses for sale in KwaZulu Natal : Property24.com\")\n\n[Property for sale in Western Cape](https://www.property24.com/for-sale/western-cape/9 \"Property for sale in Western Cape : Property and houses for sale in Western Cape : Property24.com\")\n\nRest of South Africa\n\n*   [Alberton](https://www.property24.com/for-sale/alberton/gauteng/19 \"Property and houses for sale in Alberton : Alberton Property : Property24.com\")\n*   [Benoni](https://www.property24.com/for-sale/benoni/gauteng/22 \"Property and houses for sale in Benoni : Benoni Property : Property24.com\")\n*   [Boksburg](https://www.property24.com/for-sale/boksburg/gauteng/20 \"Property and houses for sale in Boksburg : Boksburg Property : Property24.com\")\n*   [Centurion](https://www.property24.com/for-sale/centurion/gauteng/3 \"Property and houses for sale in Centurion : Centurion Property : Property24.com\")\n*   [Edenvale](https://www.property24.com/for-sale/edenvale/gauteng/14 \"Property and houses for sale in Edenvale : Edenvale Property : Property24.com\")\n*   [Johannesburg](https://www.property24.com/for-sale/johannesburg/gauteng/100 \"Property and houses for sale in Johannesburg : Johannesburg Property : Property24.com\")\n*   [Kempton Park](https://www.property24.com/for-sale/kempton-park/gauteng/12 \"Property and houses for sale in Kempton Park : Kempton Park Property : Property24.com\")\n\n*   [Midrand](https://www.property24.com/for-sale/midrand/gauteng/16 \"Property and houses for sale in Midrand : Midrand Property : Property24.com\")\n*   [Pretoria](https://www.property24.com/for-sale/pretoria/gauteng/1 \"Property and houses for sale in Pretoria : Pretoria Property : Property24.com\")\n*   [Randburg](https://www.property24.com/for-sale/randburg/gauteng/8 \"Property and houses for sale in Randburg : Randburg Property : Property24.com\")\n*   [Roodepoort](https://www.property24.com/for-sale/roodepoort/gauteng/5 \"Property and houses for sale in Roodepoort : Roodepoort Property : Property24.com\")\n*   [Sandton](https://www.property24.com/for-sale/sandton/gauteng/109 \"Property and houses for sale in Sandton : Sandton Property : Property24.com\")\n*   [Soweto](https://www.property24.com/for-sale/soweto/gauteng/102 \"Property and houses for sale in Soweto : Soweto Property : Property24.com\")\n\n*   [Ballito](https://www.property24.com/for-sale/ballito/kwazulu-natal/361 \"Property and houses for sale in Ballito : Ballito Property : Property24.com\")\n*   [Durban](https://www.property24.com/for-sale/durban/kwazulu-natal/169 \"Property and houses for sale in Durban : Durban Property : Property24.com\")\n*   [Hillcrest](https://www.property24.com/for-sale/hillcrest/kwazulu-natal/171 \"Property and houses for sale in Hillcrest : Hillcrest Property : Property24.com\")\n*   [Pietermaritzburg](https://www.property24.com/for-sale/pietermaritzburg/kwazulu-natal/147 \"Property and houses for sale in Pietermaritzburg : Pietermaritzburg Property : Property24.com\")\n*   [Pinetown](https://www.property24.com/for-sale/pinetown/kwazulu-natal/173 \"Property and houses for sale in Pinetown : Pinetown Property : Property24.com\")\n*   [Umhlanga](https://www.property24.com/for-sale/umhlanga/kwazulu-natal/185 \"Property and houses for sale in Umhlanga : Umhlanga Property : Property24.com\")\n\n*   [Bellville](https://www.property24.com/for-sale/bellville/western-cape/441 \"Property and houses for sale in Bellville : Bellville Property : Property24.com\")\n*   [Cape Town](https://www.property24.com/for-sale/cape-town/western-cape/432 \"Property and houses for sale in Cape Town : Cape Town Property : Property24.com\")\n*   [Durbanville](https://www.property24.com/for-sale/durbanville/western-cape/439 \"Property and houses for sale in Durbanville : Durbanville Property : Property24.com\")\n*   [Hermanus](https://www.property24.com/for-sale/hermanus/western-cape/400 \"Property and houses for sale in Hermanus : Hermanus Property : Property24.com\")\n*   [Paarl](https://www.property24.com/for-sale/paarl/western-cape/344 \"Property and houses for sale in Paarl : Paarl Property : Property24.com\")\n*   [Somerset West](https://www.property24.com/for-sale/somerset-west/western-cape/390 \"Property and houses for sale in Somerset West : Somerset West Property : Property24.com\")\n*   [Stellenbosch](https://www.property24.com/for-sale/stellenbosch/western-cape/459 \"Property and houses for sale in Stellenbosch : Stellenbosch Property : Property24.com\")\n\n*   [Bloemfontein](https://www.property24.com/for-sale/bloemfontein/free-state/18 \"Property and houses for sale in Bloemfontein : Bloemfontein Property : Property24.com\")\n*   [East London](https://www.property24.com/for-sale/east-london/eastern-cape/216 \"Property and houses for sale in East London : East London Property : Property24.com\")\n*   [Gqeberha](https://www.property24.com/for-sale/gqeberha/eastern-cape/270 \"Property and houses for sale in Gqeberha : Gqeberha Property : Property24.com\")\n*   [Nelspruit](https://www.property24.com/for-sale/nelspruit/mpumalanga/60 \"Property and houses for sale in Nelspruit : Nelspruit Property : Property24.com\")\n*   [Polokwane](https://www.property24.com/for-sale/polokwane/limpopo/703 \"Property and houses for sale in Polokwane : Polokwane Property : Property24.com\")\n*   [Rustenburg](https://www.property24.com/for-sale/rustenburg/north-west/82 \"Property and houses for sale in Rustenburg : Rustenburg Property : Property24.com\")\n*   [Witbank](https://www.property24.com/for-sale/witbank/mpumalanga/44 \"Property and houses for sale in Witbank : Witbank Property : Property24.com\")\n\n[![Property for sale: Houses for sale: Property24](/Content/images/Optimized/Logos/footer_logo_white_large.svg?z=8108a8253dc9f8d0d0d1)](https://www.property24.com/ \"Property for sale: Houses for sale: Property24\")\n\n[![instagram](/Content/images/Optimized/Icons/icon_instagram_rounded.svg?z=befcb56eeefeca2b7157)](https://www.instagram.com/property24_sa/ \"Find Property24 on Instagram\") [![facebook](/Content/images/Optimized/Icons/icon_facebook_rounded.svg?z=38bfdb8180de4b2ec66a)](https://www.facebook.com/property24 \"Find Property24 on Facebook\") [![twitter](/Content/images/Optimized/Icons/icon_twitter_rounded.svg?z=a4e31f27df144d88a0ea)](https://twitter.com/Property24 \"Find Property24 on Twitter\") [![youtube](/Content/images/Optimized/Icons/icon_youtube_rounded.svg?z=4e7743d439878c62a49f)](https://www.youtube.com/user/Property24 \"Find Property24 on Youtube\") [![pinterest](/Content/images/Optimized/Icons/icon_pinterest_rounded.svg?z=d70f8a6856fc28aea94c)](https://www.pinterest.com/property24/ \"Find Property24 on Pinterest\")\n\n* * *\n\n*   [About Us](https://www.property24.com/about-us)\n*   [Contact Us](https://www.property24.com/contact-us)\n*   [Feedback](https://www.property24.com/feedback)\n*   [Sitemap](https://www.property24.com/sitemap)\n\n*   [Terms & Conditions](https://www.property24.com/terms-and-conditions)\n*   [Privacy Policy](https://www.property24.com/privacy-policy)\n*   [Cookie Policy](https://www.property24.com/cookie-policy)\n*   [PAIA Manual](https://www.property24.com/paia-manual)\n\n*   [Join Our Team](https://www.property24.com/careers)\n*   [Agent Zone](https://manage.property24.com/)\n*   [Agency Products](https://www.property24.com/products/products-overview)\n\nCopyright © 2026 Property24\n\nDownload the App\n\n[![Available on the App Store](/Content/images/Optimized/Icons/footer_apple_store.svg?z=5de7839dd2c149b09824)](https://itunes.apple.com/za/app/property24.com-property-for/id486012121?mt=8) [![Available on the App Store](/Content/images/Optimized/Icons/footer_google_store.svg?z=c8260857661db3a84c9d)](https://play.google.com/store/apps/details?id=com.korbitec.property24)\n\n![Loading](/Content/images/Optimized/loading.gif?z=06483dd6d616a2608023)\n\n![Close](/Content/images/Optimized/Icons/icon_close_grey.png?z=1cc08bf7b63ad90d18b7)\n\nset at runtime - Property24\n\nset at runtime\n\nset at runtime\n\n* * *\n\n[Close](javascript:;)"
+ }
+]

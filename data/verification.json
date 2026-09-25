@@ -1,0 +1,104 @@
+{
+  "_note": "Manual web verification log. Every non-'unknown' status in properties.json must trace to an entry here. Raw captures live in data/raw/web/.",
+  "checkedAt": "2026-09-24",
+  "checks": [
+    {
+      "post": "DcjTeOlF_iW",
+      "result": "for-sale",
+      "confidence": "high",
+      "summary": "Live on 12LVE Property Group's own site at R 9 000 000; 4 bed / 4.5 bath / 4 parking, pool, solar; Eye Of Africa Estate, Eikenhof. Agent Gabriel Masilo, 078 130 8585 (published on the listing page). Description matches the Instagram caption (double-volume entrance, enclosed entertainment lounge, private pool, solar, automated garage doors).",
+      "sources": [
+        "https://www.12lve.co.za/4-bedroom-house-for-sale-in-eye-of-africa-estate-117548729",
+        "https://www.12lve.co.za/property-for-sale-in-eye-of-africa-estate-s12508"
+      ],
+      "raw": ["data/raw/web/12lve-eoa-listing.md", "data/raw/web/12lve-eoa-area.md"],
+      "listingRef": "12LVE 117548729"
+    },
+    {
+      "post": "C30f5-stbJx",
+      "result": "no-longer-listed",
+      "confidence": "high",
+      "summary": "Property24 P24-113338790 (6 Bedroom House, Steyn City, 6140 Views Lane, R 29 000 000, Rawson Properties Fourways Lifestyle) returns 404: 'The property you are looking for is no longer available on Property24'. Sold vs withdrawn cannot be distinguished.",
+      "sources": ["https://www.property24.com/for-sale/steyn-city/midrand/gauteng/15742/113338790"],
+      "raw": ["data/raw/web/p24-steyn-6140.md"]
+    },
+    {
+      "post": "C33Iy7VNgX4",
+      "result": "not-found",
+      "confidence": "medium",
+      "summary": "Not among Karryn Cartoulis's current RE/MAX Living listings on Property24 or Private Property (no 4-bed Fresnaye at R54.05m).",
+      "sources": [
+        "https://www.property24.com/for-sale/agency/re-max-living/karryn-cartoulis/33728",
+        "https://www.privateproperty.co.za/estate-agent/karryn-cartoulis/sale-listings/1063138"
+      ],
+      "raw": ["data/raw/web/p24-karryn.md", "data/raw/web/pp-karryn.md"]
+    },
+    {
+      "post": "CrL-VF-N7nj",
+      "result": "not-found",
+      "confidence": "medium",
+      "summary": "Not among Prakashan Naidoo's (Seeff Zimbali) current Property24 listings; no 4-bed Zimbali house at R18.95m.",
+      "sources": ["https://www.property24.com/for-sale/agency/seeff-zimbali/prakashan-naidoo/422560"],
+      "raw": ["data/raw/web/p24-prakashan.md"]
+    },
+    {
+      "post": "Cah8irEslSc",
+      "result": "possible-match-unconfirmed",
+      "confidence": "low",
+      "summary": "Seeff Zimbali lists P24-117247114, 8 Palm Avenue, Zimbali Estate, 4 bed, R 19 700 000 (dual mandate) - same price and estate as this Feb-2022 feature, but specs differ (5 bath vs 4, 2 garages vs 3, erf 1 492 m2 vs 1 048 m2; described as 'refurbished'). Listing photos did not load, so identity is NOT confirmed. Not published as for sale.",
+      "sources": ["https://www.property24.com/for-sale/zimbali-estate/ballito/kwazulu-natal/12884/117247114"],
+      "raw": ["data/raw/web/p24-zimbali-8palm.md"]
+    },
+    {
+      "post": "CwnrS3iNybB",
+      "result": "not-confirmed",
+      "confidence": "low",
+      "summary": "Property24 shows a Meyersdal Eco Estate house at the same R 17 990 000 (P24-117286287, Law Real Estate, agent Ryan Kwan) marked Under Offer, but it is 4 bed / 6.5 bath on 2 066 m2 and its description shares none of the distinctive features in the 2023 caption (Giesse frames, Gaggenau, Danish oak). Treated as a different property.",
+      "sources": ["https://www.property24.com/for-sale/meyersdal-eco-estate/alberton/gauteng/14737/117286287"],
+      "raw": ["data/raw/web/p24-meyersdal-117286287.md", "data/raw/web/p24-meyersdal-eco.md"]
+    },
+    {
+      "post": "CuUo2ect4ej",
+      "result": "not-found",
+      "confidence": "medium",
+      "summary": "Emma Morris (Pam Golding Hyde Park) current listings contain no 5-bed Hurlingham at R17m; the only PGP Hurlingham result is a different R5.499m colonial-style home (HP1699217, under offer).",
+      "sources": ["https://www.property24.com/for-sale/agency/pam-golding-properties-hyde-park/emma-morris/355285", "https://www.pamgolding.co.za/property-details/house-for-sale-hurlingham/hp1699217"],
+      "raw": ["data/raw/web/q-hurlingham.md"]
+    },
+    {
+      "post": "C-nf1FfNNnK",
+      "result": "not-found",
+      "confidence": "low",
+      "summary": "Alex van der Merwe's Property24 agent page (eXp South Africa) returns 404 and the Azure agent page returned HTTP 500; web search found no live 6-bed Ballito listing at R24m.",
+      "sources": ["https://www.property24.com/for-sale/agency/exp-south-africa/alex-van-der-merwe/481799", "https://azurecoastalrealestate.com/agent/alex-van-der-merwe/"],
+      "raw": ["data/raw/web/p24-alex-vdm.md", "data/raw/web/azure-alex.md"]
+    },
+    {
+      "post": "CrJbjU8ttlW",
+      "result": "not-found",
+      "confidence": "low",
+      "summary": "Pam Golding Bakoven search and web search show no 4-bed Bakoven house at R49.995m.",
+      "sources": ["https://www.pamgolding.co.za/property-search/properties-for-sale-bakoven/2111"],
+      "raw": ["data/raw/web/pgp-bakoven.md"]
+    },
+    {
+      "post": "Co7yc0et5AH",
+      "result": "not-confirmed",
+      "confidence": "low",
+      "summary": "Web search surfaces third-party reposts of an 'R82 million' Waterfall Equestrian house designed by Karel Keuler Architects (Facebook, SA Living, an Instagram reel) but no live agency listing was confirmed.",
+      "sources": ["https://sa-living.co.za/products/6-bedroom-equestrian-property-for-sale-in-waterfall-equestrian-estate"],
+      "raw": ["data/raw/web/q-waterfall-keuler.md"]
+    }
+  ],
+  "business": [
+    {
+      "fact": "Instagram bio: 'Proudly South African / Showcasing SA's most beautiful homes & destinations | Luxury rentals & sales / Business : beautifulsahomes@gmail.com'. Business account, category 'Real Estate'. No external website link.",
+      "source": "https://www.instagram.com/beautifulsouthafricanhomes/",
+      "raw": "data/raw/profile.json"
+    },
+    {
+      "fact": "12 Digital Media (collaborator on the Aug-2026 post) is co-founded by Gabriel Masilo, principal of 12LVE Property Group - the listing agent on that post.",
+      "source": "https://za.linkedin.com/in/gabriel-masilo-541403259 (via web search summary)"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block title %}Contact | {{ brand.name }}{% endblock %}
+{% block main %}
+<header class="page-head">
+  <h1 class="display page-h">Write to us</h1>
+  <p class="lede">For a residence that is for sale, contact the credited agent on its page. For everything else, write to us.</p>
+</header>
+<div class="contact-cols contact-page">
+  <div><p class="k">Email</p><p class="display contact-big"><a href="mailto:{{ brand.email }}">{{ brand.email }}</a></p></div>
+  <div><p class="k">Instagram</p><p class="display contact-big"><a href="{{ brand.instagram }}" rel="noopener">{{ brand.instagramHandle }}</a></p><p class="muted">Or send a direct message.</p></div>
+</div>
+{% endblock %}

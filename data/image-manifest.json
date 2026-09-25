@@ -1,0 +1,8976 @@
+{
+"data/raw/media/DcjTeOlF_iW/00.jpg": {
+"w": 1085,
+"h": 814,
+"variants": [
+{
+"w": 640,
+"h": 480,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-4-bedroom-house/00-640.avif",
+"bytes": 35027
+},
+{
+"w": 640,
+"h": 480,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-4-bedroom-house/00-640.webp",
+"bytes": 47900
+},
+{
+"w": 1085,
+"h": 814,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-4-bedroom-house/00-1085.avif",
+"bytes": 102538
+},
+{
+"w": 1085,
+"h": 814,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-4-bedroom-house/00-1085.webp",
+"bytes": 129628
+}
+]
+},
+"data/raw/media/DcjTeOlF_iW/01.jpg": {
+"w": 1085,
+"h": 814,
+"variants": [
+{
+"w": 640,
+"h": 480,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-4-bedroom-house/01-640.avif",
+"bytes": 27630
+},
+{
+"w": 640,
+"h": 480,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-4-bedroom-house/01-640.webp",
+"bytes": 38432
+},
+{
+"w": 1085,
+"h": 814,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-4-bedroom-house/01-1085.avif",
+"bytes": 83131
+},
+{
+"w": 1085,
+"h": 814,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-4-bedroom-house/01-1085.webp",
+"bytes": 111312
+}
+]
+},
+"data/raw/media/DcjTeOlF_iW/02.jpg": {
+"w": 1439,
+"h": 1079,
+"variants": [
+{
+"w": 640,
+"h": 480,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-4-bedroom-house/02-640.avif",
+"bytes": 16045
+},
+{
+"w": 640,
+"h": 480,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-4-bedroom-house/02-640.webp",
+"bytes": 19830
+},
+{
+"w": 1439,
+"h": 1079,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-4-bedroom-house/02-1439.avif",
+"bytes": 51632
+},
+{
+"w": 1439,
+"h": 1079,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-4-bedroom-house/02-1439.webp",
+"bytes": 57530
+}
+]
+},
+"data/raw/media/DcjTeOlF_iW/03.jpg": {
+"w": 1152,
+"h": 864,
+"variants": [
+{
+"w": 640,
+"h": 480,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-4-bedroom-house/03-640.avif",
+"bytes": 14679
+},
+{
+"w": 640,
+"h": 480,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-4-bedroom-house/03-640.webp",
+"bytes": 18572
+},
+{
+"w": 1152,
+"h": 864,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-4-bedroom-house/03-1152.avif",
+"bytes": 36679
+},
+{
+"w": 1152,
+"h": 864,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-4-bedroom-house/03-1152.webp",
+"bytes": 42000
+}
+]
+},
+"data/raw/media/DcjTeOlF_iW/04.jpg": {
+"w": 1152,
+"h": 864,
+"variants": [
+{
+"w": 640,
+"h": 480,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-4-bedroom-house/04-640.avif",
+"bytes": 14796
+},
+{
+"w": 640,
+"h": 480,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-4-bedroom-house/04-640.webp",
+"bytes": 17304
+},
+{
+"w": 1152,
+"h": 864,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-4-bedroom-house/04-1152.avif",
+"bytes": 38439
+},
+{
+"w": 1152,
+"h": 864,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-4-bedroom-house/04-1152.webp",
+"bytes": 41700
+}
+]
+},
+"data/raw/media/DcjTeOlF_iW/05.jpg": {
+"w": 1152,
+"h": 864,
+"variants": [
+{
+"w": 640,
+"h": 480,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-4-bedroom-house/05-640.avif",
+"bytes": 19784
+},
+{
+"w": 640,
+"h": 480,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-4-bedroom-house/05-640.webp",
+"bytes": 26276
+},
+{
+"w": 1152,
+"h": 864,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-4-bedroom-house/05-1152.avif",
+"bytes": 48772
+},
+{
+"w": 1152,
+"h": 864,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-4-bedroom-house/05-1152.webp",
+"bytes": 59810
+}
+]
+},
+"data/raw/media/DcjTeOlF_iW/06.jpg": {
+"w": 1439,
+"h": 1079,
+"variants": [
+{
+"w": 640,
+"h": 480,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-4-bedroom-house/06-640.avif",
+"bytes": 19396
+},
+{
+"w": 640,
+"h": 480,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-4-bedroom-house/06-640.webp",
+"bytes": 25876
+},
+{
+"w": 1439,
+"h": 1079,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-4-bedroom-house/06-1439.avif",
+"bytes": 62214
+},
+{
+"w": 1439,
+"h": 1079,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-4-bedroom-house/06-1439.webp",
+"bytes": 76448
+}
+]
+},
+"data/raw/media/DcjTeOlF_iW/07.jpg": {
+"w": 1152,
+"h": 864,
+"variants": [
+{
+"w": 640,
+"h": 480,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-4-bedroom-house/07-640.avif",
+"bytes": 17065
+},
+{
+"w": 640,
+"h": 480,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-4-bedroom-house/07-640.webp",
+"bytes": 22354
+},
+{
+"w": 1152,
+"h": 864,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-4-bedroom-house/07-1152.avif",
+"bytes": 46013
+},
+{
+"w": 1152,
+"h": 864,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-4-bedroom-house/07-1152.webp",
+"bytes": 55146
+}
+]
+},
+"data/raw/media/DcjTeOlF_iW/08.jpg": {
+"w": 1439,
+"h": 1079,
+"variants": [
+{
+"w": 640,
+"h": 480,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-4-bedroom-house/08-640.avif",
+"bytes": 20246
+},
+{
+"w": 640,
+"h": 480,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-4-bedroom-house/08-640.webp",
+"bytes": 28632
+},
+{
+"w": 1439,
+"h": 1079,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-4-bedroom-house/08-1439.avif",
+"bytes": 69815
+},
+{
+"w": 1439,
+"h": 1079,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-4-bedroom-house/08-1439.webp",
+"bytes": 95622
+}
+]
+},
+"data/raw/media/DcjTeOlF_iW/09.jpg": {
+"w": 1439,
+"h": 1079,
+"variants": [
+{
+"w": 640,
+"h": 480,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-4-bedroom-house/09-640.avif",
+"bytes": 18166
+},
+{
+"w": 640,
+"h": 480,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-4-bedroom-house/09-640.webp",
+"bytes": 26732
+},
+{
+"w": 1439,
+"h": 1079,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-4-bedroom-house/09-1439.avif",
+"bytes": 67844
+},
+{
+"w": 1439,
+"h": 1079,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-4-bedroom-house/09-1439.webp",
+"bytes": 92140
+}
+]
+},
+"data/raw/media/DcjTeOlF_iW/10.jpg": {
+"w": 1152,
+"h": 864,
+"variants": [
+{
+"w": 640,
+"h": 480,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-4-bedroom-house/10-640.avif",
+"bytes": 26160
+},
+{
+"w": 640,
+"h": 480,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-4-bedroom-house/10-640.webp",
+"bytes": 35316
+},
+{
+"w": 1152,
+"h": 864,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-4-bedroom-house/10-1152.avif",
+"bytes": 69667
+},
+{
+"w": 1152,
+"h": 864,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-4-bedroom-house/10-1152.webp",
+"bytes": 82192
+}
+]
+},
+"data/raw/media/DcjTeOlF_iW/11.jpg": {
+"w": 1085,
+"h": 814,
+"variants": [
+{
+"w": 640,
+"h": 480,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-4-bedroom-house/11-640.avif",
+"bytes": 26637
+},
+{
+"w": 640,
+"h": 480,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-4-bedroom-house/11-640.webp",
+"bytes": 37294
+},
+{
+"w": 1085,
+"h": 814,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-4-bedroom-house/11-1085.avif",
+"bytes": 64401
+},
+{
+"w": 1085,
+"h": 814,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-4-bedroom-house/11-1085.webp",
+"bytes": 80846
+}
+]
+},
+"data/raw/media/DcjTeOlF_iW/12.jpg": {
+"w": 1152,
+"h": 864,
+"variants": [
+{
+"w": 640,
+"h": 480,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-4-bedroom-house/12-640.avif",
+"bytes": 27556
+},
+{
+"w": 640,
+"h": 480,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-4-bedroom-house/12-640.webp",
+"bytes": 38894
+},
+{
+"w": 1152,
+"h": 864,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-4-bedroom-house/12-1152.avif",
+"bytes": 77129
+},
+{
+"w": 1152,
+"h": 864,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-4-bedroom-house/12-1152.webp",
+"bytes": 96722
+}
+]
+},
+"data/raw/media/DcjTeOlF_iW/13.jpg": {
+"w": 1152,
+"h": 864,
+"variants": [
+{
+"w": 640,
+"h": 480,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-4-bedroom-house/13-640.avif",
+"bytes": 44056
+},
+{
+"w": 640,
+"h": 480,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-4-bedroom-house/13-640.webp",
+"bytes": 64876
+},
+{
+"w": 1152,
+"h": 864,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-4-bedroom-house/13-1152.avif",
+"bytes": 124425
+},
+{
+"w": 1152,
+"h": 864,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-4-bedroom-house/13-1152.webp",
+"bytes": 158676
+}
+]
+},
+"data/raw/media/DcjTeOlF_iW/14.jpg": {
+"w": 1085,
+"h": 814,
+"variants": [
+{
+"w": 640,
+"h": 480,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-4-bedroom-house/14-640.avif",
+"bytes": 34188
+},
+{
+"w": 640,
+"h": 480,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-4-bedroom-house/14-640.webp",
+"bytes": 46502
+},
+{
+"w": 1085,
+"h": 814,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-4-bedroom-house/14-1085.avif",
+"bytes": 94560
+},
+{
+"w": 1085,
+"h": 814,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-4-bedroom-house/14-1085.webp",
+"bytes": 112886
+}
+]
+},
+"data/raw/media/DcjTeOlF_iW/15.jpg": {
+"w": 1152,
+"h": 864,
+"variants": [
+{
+"w": 640,
+"h": 480,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-4-bedroom-house/15-640.avif",
+"bytes": 32100
+},
+{
+"w": 640,
+"h": 480,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-4-bedroom-house/15-640.webp",
+"bytes": 46194
+},
+{
+"w": 1152,
+"h": 864,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-4-bedroom-house/15-1152.avif",
+"bytes": 78203
+},
+{
+"w": 1152,
+"h": 864,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-4-bedroom-house/15-1152.webp",
+"bytes": 100680
+}
+]
+},
+"data/raw/media/DcjTeOlF_iW/16.jpg": {
+"w": 768,
+"h": 576,
+"variants": [
+{
+"w": 640,
+"h": 480,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-4-bedroom-house/16-640.avif",
+"bytes": 47223
+},
+{
+"w": 640,
+"h": 480,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-4-bedroom-house/16-640.webp",
+"bytes": 73802
+},
+{
+"w": 768,
+"h": 576,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-4-bedroom-house/16-768.avif",
+"bytes": 66693
+},
+{
+"w": 768,
+"h": 576,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-4-bedroom-house/16-768.webp",
+"bytes": 103528
+}
+]
+},
+"data/raw/media/DcjTeOlF_iW/17.jpg": {
+"w": 1151,
+"h": 863,
+"variants": [
+{
+"w": 640,
+"h": 480,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-4-bedroom-house/17-640.avif",
+"bytes": 38627
+},
+{
+"w": 640,
+"h": 480,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-4-bedroom-house/17-640.webp",
+"bytes": 54366
+},
+{
+"w": 1151,
+"h": 863,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-4-bedroom-house/17-1151.avif",
+"bytes": 112766
+},
+{
+"w": 1151,
+"h": 863,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-4-bedroom-house/17-1151.webp",
+"bytes": 132682
+}
+]
+},
+"data/raw/media/DcjTeOlF_iW/18.jpg": {
+"w": 1253,
+"h": 940,
+"variants": [
+{
+"w": 640,
+"h": 480,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-4-bedroom-house/18-640.avif",
+"bytes": 38219
+},
+{
+"w": 640,
+"h": 480,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-4-bedroom-house/18-640.webp",
+"bytes": 51962
+},
+{
+"w": 1253,
+"h": 940,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-4-bedroom-house/18-1253.avif",
+"bytes": 116106
+},
+{
+"w": 1253,
+"h": 940,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-4-bedroom-house/18-1253.webp",
+"bytes": 135454
+}
+]
+},
+"data/raw/media/DcjTeOlF_iW/19.jpg": {
+"w": 1085,
+"h": 814,
+"variants": [
+{
+"w": 640,
+"h": 480,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-4-bedroom-house/19-640.avif",
+"bytes": 51051
+},
+{
+"w": 640,
+"h": 480,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-4-bedroom-house/19-640.webp",
+"bytes": 78530
+},
+{
+"w": 1085,
+"h": 814,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-4-bedroom-house/19-1085.avif",
+"bytes": 137617
+},
+{
+"w": 1085,
+"h": 814,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-4-bedroom-house/19-1085.webp",
+"bytes": 200956
+}
+]
+},
+"data/raw/media/C-nf1FfNNnK/00.jpg": {
+"w": 667,
+"h": 444,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/ballito-6-bedroom-house/00-640.avif",
+"bytes": 34088
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/ballito-6-bedroom-house/00-640.webp",
+"bytes": 48740
+},
+{
+"w": 667,
+"h": 444,
+"fmt": "avif",
+"path": "assets/img/ballito-6-bedroom-house/00-667.avif",
+"bytes": 38953
+},
+{
+"w": 667,
+"h": 444,
+"fmt": "webp",
+"path": "assets/img/ballito-6-bedroom-house/00-667.webp",
+"bytes": 54800
+}
+]
+},
+"data/raw/media/C-nf1FfNNnK/01.jpg": {
+"w": 667,
+"h": 444,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/ballito-6-bedroom-house/01-640.avif",
+"bytes": 42528
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/ballito-6-bedroom-house/01-640.webp",
+"bytes": 62616
+},
+{
+"w": 667,
+"h": 444,
+"fmt": "avif",
+"path": "assets/img/ballito-6-bedroom-house/01-667.avif",
+"bytes": 48629
+},
+{
+"w": 667,
+"h": 444,
+"fmt": "webp",
+"path": "assets/img/ballito-6-bedroom-house/01-667.webp",
+"bytes": 70160
+}
+]
+},
+"data/raw/media/C-nf1FfNNnK/02.jpg": {
+"w": 667,
+"h": 444,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/ballito-6-bedroom-house/02-640.avif",
+"bytes": 22810
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/ballito-6-bedroom-house/02-640.webp",
+"bytes": 33338
+},
+{
+"w": 667,
+"h": 444,
+"fmt": "avif",
+"path": "assets/img/ballito-6-bedroom-house/02-667.avif",
+"bytes": 25726
+},
+{
+"w": 667,
+"h": 444,
+"fmt": "webp",
+"path": "assets/img/ballito-6-bedroom-house/02-667.webp",
+"bytes": 37528
+}
+]
+},
+"data/raw/media/C-nf1FfNNnK/03.jpg": {
+"w": 667,
+"h": 444,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/ballito-6-bedroom-house/03-640.avif",
+"bytes": 19939
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/ballito-6-bedroom-house/03-640.webp",
+"bytes": 26294
+},
+{
+"w": 667,
+"h": 444,
+"fmt": "avif",
+"path": "assets/img/ballito-6-bedroom-house/03-667.avif",
+"bytes": 22332
+},
+{
+"w": 667,
+"h": 444,
+"fmt": "webp",
+"path": "assets/img/ballito-6-bedroom-house/03-667.webp",
+"bytes": 29022
+}
+]
+},
+"data/raw/media/C-nf1FfNNnK/04.jpg": {
+"w": 667,
+"h": 444,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/ballito-6-bedroom-house/04-640.avif",
+"bytes": 21475
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/ballito-6-bedroom-house/04-640.webp",
+"bytes": 28076
+},
+{
+"w": 667,
+"h": 444,
+"fmt": "avif",
+"path": "assets/img/ballito-6-bedroom-house/04-667.avif",
+"bytes": 23667
+},
+{
+"w": 667,
+"h": 444,
+"fmt": "webp",
+"path": "assets/img/ballito-6-bedroom-house/04-667.webp",
+"bytes": 30638
+}
+]
+},
+"data/raw/media/C-nf1FfNNnK/05.jpg": {
+"w": 667,
+"h": 444,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/ballito-6-bedroom-house/05-640.avif",
+"bytes": 22959
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/ballito-6-bedroom-house/05-640.webp",
+"bytes": 32470
+},
+{
+"w": 667,
+"h": 444,
+"fmt": "avif",
+"path": "assets/img/ballito-6-bedroom-house/05-667.avif",
+"bytes": 25874
+},
+{
+"w": 667,
+"h": 444,
+"fmt": "webp",
+"path": "assets/img/ballito-6-bedroom-house/05-667.webp",
+"bytes": 35260
+}
+]
+},
+"data/raw/media/C-nf1FfNNnK/06.jpg": {
+"w": 667,
+"h": 444,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/ballito-6-bedroom-house/06-640.avif",
+"bytes": 33465
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/ballito-6-bedroom-house/06-640.webp",
+"bytes": 49548
+},
+{
+"w": 667,
+"h": 444,
+"fmt": "avif",
+"path": "assets/img/ballito-6-bedroom-house/06-667.avif",
+"bytes": 37562
+},
+{
+"w": 667,
+"h": 444,
+"fmt": "webp",
+"path": "assets/img/ballito-6-bedroom-house/06-667.webp",
+"bytes": 54318
+}
+]
+},
+"data/raw/media/C-nf1FfNNnK/07.jpg": {
+"w": 667,
+"h": 444,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/ballito-6-bedroom-house/07-640.avif",
+"bytes": 19842
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/ballito-6-bedroom-house/07-640.webp",
+"bytes": 26760
+},
+{
+"w": 667,
+"h": 444,
+"fmt": "avif",
+"path": "assets/img/ballito-6-bedroom-house/07-667.avif",
+"bytes": 22635
+},
+{
+"w": 667,
+"h": 444,
+"fmt": "webp",
+"path": "assets/img/ballito-6-bedroom-house/07-667.webp",
+"bytes": 29628
+}
+]
+},
+"data/raw/media/C-nf1FfNNnK/08.jpg": {
+"w": 667,
+"h": 444,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/ballito-6-bedroom-house/08-640.avif",
+"bytes": 25719
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/ballito-6-bedroom-house/08-640.webp",
+"bytes": 34792
+},
+{
+"w": 667,
+"h": 444,
+"fmt": "avif",
+"path": "assets/img/ballito-6-bedroom-house/08-667.avif",
+"bytes": 28997
+},
+{
+"w": 667,
+"h": 444,
+"fmt": "webp",
+"path": "assets/img/ballito-6-bedroom-house/08-667.webp",
+"bytes": 38720
+}
+]
+},
+"data/raw/media/C-nf1FfNNnK/09.jpg": {
+"w": 667,
+"h": 444,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/ballito-6-bedroom-house/09-640.avif",
+"bytes": 36217
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/ballito-6-bedroom-house/09-640.webp",
+"bytes": 59302
+},
+{
+"w": 667,
+"h": 444,
+"fmt": "avif",
+"path": "assets/img/ballito-6-bedroom-house/09-667.avif",
+"bytes": 40715
+},
+{
+"w": 667,
+"h": 444,
+"fmt": "webp",
+"path": "assets/img/ballito-6-bedroom-house/09-667.webp",
+"bytes": 65896
+}
+]
+},
+"data/raw/media/C33Iy7VNgX4/00.jpg": {
+"w": 1065,
+"h": 710,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/fresnaye-4-bedroom-house/00-640.avif",
+"bytes": 31221
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/fresnaye-4-bedroom-house/00-640.webp",
+"bytes": 46552
+},
+{
+"w": 1065,
+"h": 710,
+"fmt": "avif",
+"path": "assets/img/fresnaye-4-bedroom-house/00-1065.avif",
+"bytes": 82071
+},
+{
+"w": 1065,
+"h": 710,
+"fmt": "webp",
+"path": "assets/img/fresnaye-4-bedroom-house/00-1065.webp",
+"bytes": 116270
+}
+]
+},
+"data/raw/media/C33Iy7VNgX4/01.jpg": {
+"w": 1066,
+"h": 711,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/fresnaye-4-bedroom-house/01-640.avif",
+"bytes": 15048
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/fresnaye-4-bedroom-house/01-640.webp",
+"bytes": 19194
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "avif",
+"path": "assets/img/fresnaye-4-bedroom-house/01-1066.avif",
+"bytes": 36611
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "webp",
+"path": "assets/img/fresnaye-4-bedroom-house/01-1066.webp",
+"bytes": 41314
+}
+]
+},
+"data/raw/media/C33Iy7VNgX4/02.jpg": {
+"w": 1066,
+"h": 711,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/fresnaye-4-bedroom-house/02-640.avif",
+"bytes": 16119
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/fresnaye-4-bedroom-house/02-640.webp",
+"bytes": 19930
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "avif",
+"path": "assets/img/fresnaye-4-bedroom-house/02-1066.avif",
+"bytes": 40535
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "webp",
+"path": "assets/img/fresnaye-4-bedroom-house/02-1066.webp",
+"bytes": 45288
+}
+]
+},
+"data/raw/media/C33Iy7VNgX4/03.jpg": {
+"w": 1066,
+"h": 711,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/fresnaye-4-bedroom-house/03-640.avif",
+"bytes": 21896
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/fresnaye-4-bedroom-house/03-640.webp",
+"bytes": 29310
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "avif",
+"path": "assets/img/fresnaye-4-bedroom-house/03-1066.avif",
+"bytes": 58094
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "webp",
+"path": "assets/img/fresnaye-4-bedroom-house/03-1066.webp",
+"bytes": 72720
+}
+]
+},
+"data/raw/media/C33Iy7VNgX4/04.jpg": {
+"w": 1066,
+"h": 711,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/fresnaye-4-bedroom-house/04-640.avif",
+"bytes": 17052
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/fresnaye-4-bedroom-house/04-640.webp",
+"bytes": 21778
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "avif",
+"path": "assets/img/fresnaye-4-bedroom-house/04-1066.avif",
+"bytes": 42228
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "webp",
+"path": "assets/img/fresnaye-4-bedroom-house/04-1066.webp",
+"bytes": 49902
+}
+]
+},
+"data/raw/media/C33Iy7VNgX4/05.jpg": {
+"w": 1066,
+"h": 711,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/fresnaye-4-bedroom-house/05-640.avif",
+"bytes": 21607
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/fresnaye-4-bedroom-house/05-640.webp",
+"bytes": 29970
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "avif",
+"path": "assets/img/fresnaye-4-bedroom-house/05-1066.avif",
+"bytes": 62464
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "webp",
+"path": "assets/img/fresnaye-4-bedroom-house/05-1066.webp",
+"bytes": 83324
+}
+]
+},
+"data/raw/media/C33Iy7VNgX4/06.jpg": {
+"w": 1066,
+"h": 711,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/fresnaye-4-bedroom-house/06-640.avif",
+"bytes": 6984
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/fresnaye-4-bedroom-house/06-640.webp",
+"bytes": 6580
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "avif",
+"path": "assets/img/fresnaye-4-bedroom-house/06-1066.avif",
+"bytes": 18110
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "webp",
+"path": "assets/img/fresnaye-4-bedroom-house/06-1066.webp",
+"bytes": 16534
+}
+]
+},
+"data/raw/media/C33Iy7VNgX4/07.jpg": {
+"w": 1066,
+"h": 711,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/fresnaye-4-bedroom-house/07-640.avif",
+"bytes": 12144
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/fresnaye-4-bedroom-house/07-640.webp",
+"bytes": 12592
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "avif",
+"path": "assets/img/fresnaye-4-bedroom-house/07-1066.avif",
+"bytes": 30775
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "webp",
+"path": "assets/img/fresnaye-4-bedroom-house/07-1066.webp",
+"bytes": 31432
+}
+]
+},
+"data/raw/media/C33Iy7VNgX4/08.jpg": {
+"w": 1066,
+"h": 711,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/fresnaye-4-bedroom-house/08-640.avif",
+"bytes": 11989
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/fresnaye-4-bedroom-house/08-640.webp",
+"bytes": 14408
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "avif",
+"path": "assets/img/fresnaye-4-bedroom-house/08-1066.avif",
+"bytes": 32085
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "webp",
+"path": "assets/img/fresnaye-4-bedroom-house/08-1066.webp",
+"bytes": 37234
+}
+]
+},
+"data/raw/media/C33Iy7VNgX4/09.jpg": {
+"w": 1066,
+"h": 711,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/fresnaye-4-bedroom-house/09-640.avif",
+"bytes": 22734
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/fresnaye-4-bedroom-house/09-640.webp",
+"bytes": 31890
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "avif",
+"path": "assets/img/fresnaye-4-bedroom-house/09-1066.avif",
+"bytes": 64823
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "webp",
+"path": "assets/img/fresnaye-4-bedroom-house/09-1066.webp",
+"bytes": 92162
+}
+]
+},
+"data/raw/media/CrL-VF-N7nj/00.jpg": {
+"w": 1065,
+"h": 710,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/zimbali-4-bedroom-house/00-640.avif",
+"bytes": 33615
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/zimbali-4-bedroom-house/00-640.webp",
+"bytes": 52340
+},
+{
+"w": 1065,
+"h": 710,
+"fmt": "avif",
+"path": "assets/img/zimbali-4-bedroom-house/00-1065.avif",
+"bytes": 91756
+},
+{
+"w": 1065,
+"h": 710,
+"fmt": "webp",
+"path": "assets/img/zimbali-4-bedroom-house/00-1065.webp",
+"bytes": 134764
+}
+]
+},
+"data/raw/media/CrL-VF-N7nj/01.jpg": {
+"w": 1066,
+"h": 711,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/zimbali-4-bedroom-house/01-640.avif",
+"bytes": 27453
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/zimbali-4-bedroom-house/01-640.webp",
+"bytes": 38662
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "avif",
+"path": "assets/img/zimbali-4-bedroom-house/01-1066.avif",
+"bytes": 70112
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "webp",
+"path": "assets/img/zimbali-4-bedroom-house/01-1066.webp",
+"bytes": 92566
+}
+]
+},
+"data/raw/media/CrL-VF-N7nj/02.jpg": {
+"w": 1066,
+"h": 711,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/zimbali-4-bedroom-house/02-640.avif",
+"bytes": 25345
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/zimbali-4-bedroom-house/02-640.webp",
+"bytes": 36910
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "avif",
+"path": "assets/img/zimbali-4-bedroom-house/02-1066.avif",
+"bytes": 64969
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "webp",
+"path": "assets/img/zimbali-4-bedroom-house/02-1066.webp",
+"bytes": 86482
+}
+]
+},
+"data/raw/media/CrL-VF-N7nj/03.jpg": {
+"w": 1066,
+"h": 711,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/zimbali-4-bedroom-house/03-640.avif",
+"bytes": 22238
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/zimbali-4-bedroom-house/03-640.webp",
+"bytes": 37938
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "avif",
+"path": "assets/img/zimbali-4-bedroom-house/03-1066.avif",
+"bytes": 59801
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "webp",
+"path": "assets/img/zimbali-4-bedroom-house/03-1066.webp",
+"bytes": 98410
+}
+]
+},
+"data/raw/media/CrL-VF-N7nj/04.jpg": {
+"w": 1066,
+"h": 711,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/zimbali-4-bedroom-house/04-640.avif",
+"bytes": 23998
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/zimbali-4-bedroom-house/04-640.webp",
+"bytes": 34072
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "avif",
+"path": "assets/img/zimbali-4-bedroom-house/04-1066.avif",
+"bytes": 65393
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "webp",
+"path": "assets/img/zimbali-4-bedroom-house/04-1066.webp",
+"bytes": 87510
+}
+]
+},
+"data/raw/media/CrL-VF-N7nj/05.jpg": {
+"w": 1066,
+"h": 711,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/zimbali-4-bedroom-house/05-640.avif",
+"bytes": 28738
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/zimbali-4-bedroom-house/05-640.webp",
+"bytes": 42876
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "avif",
+"path": "assets/img/zimbali-4-bedroom-house/05-1066.avif",
+"bytes": 78259
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "webp",
+"path": "assets/img/zimbali-4-bedroom-house/05-1066.webp",
+"bytes": 113624
+}
+]
+},
+"data/raw/media/CrL-VF-N7nj/06.jpg": {
+"w": 1066,
+"h": 711,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/zimbali-4-bedroom-house/06-640.avif",
+"bytes": 19937
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/zimbali-4-bedroom-house/06-640.webp",
+"bytes": 27082
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "avif",
+"path": "assets/img/zimbali-4-bedroom-house/06-1066.avif",
+"bytes": 59283
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "webp",
+"path": "assets/img/zimbali-4-bedroom-house/06-1066.webp",
+"bytes": 74420
+}
+]
+},
+"data/raw/media/CrL-VF-N7nj/07.jpg": {
+"w": 1066,
+"h": 711,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/zimbali-4-bedroom-house/07-640.avif",
+"bytes": 16208
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/zimbali-4-bedroom-house/07-640.webp",
+"bytes": 20702
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "avif",
+"path": "assets/img/zimbali-4-bedroom-house/07-1066.avif",
+"bytes": 44764
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "webp",
+"path": "assets/img/zimbali-4-bedroom-house/07-1066.webp",
+"bytes": 53264
+}
+]
+},
+"data/raw/media/CrL-VF-N7nj/08.jpg": {
+"w": 1066,
+"h": 711,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/zimbali-4-bedroom-house/08-640.avif",
+"bytes": 24152
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/zimbali-4-bedroom-house/08-640.webp",
+"bytes": 34368
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "avif",
+"path": "assets/img/zimbali-4-bedroom-house/08-1066.avif",
+"bytes": 66434
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "webp",
+"path": "assets/img/zimbali-4-bedroom-house/08-1066.webp",
+"bytes": 88554
+}
+]
+},
+"data/raw/media/CrL-VF-N7nj/09.jpg": {
+"w": 1066,
+"h": 711,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/zimbali-4-bedroom-house/09-640.avif",
+"bytes": 39394
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/zimbali-4-bedroom-house/09-640.webp",
+"bytes": 58604
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "avif",
+"path": "assets/img/zimbali-4-bedroom-house/09-1066.avif",
+"bytes": 109527
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "webp",
+"path": "assets/img/zimbali-4-bedroom-house/09-1066.webp",
+"bytes": 148424
+}
+]
+},
+"data/raw/media/CrJbjU8ttlW/00.jpg": {
+"w": 683,
+"h": 455,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/bakoven-4-bedroom-house/00-640.avif",
+"bytes": 37237
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/bakoven-4-bedroom-house/00-640.webp",
+"bytes": 56202
+},
+{
+"w": 683,
+"h": 455,
+"fmt": "avif",
+"path": "assets/img/bakoven-4-bedroom-house/00-683.avif",
+"bytes": 44725
+},
+{
+"w": 683,
+"h": 455,
+"fmt": "webp",
+"path": "assets/img/bakoven-4-bedroom-house/00-683.webp",
+"bytes": 66878
+}
+]
+},
+"data/raw/media/CrJbjU8ttlW/01.jpg": {
+"w": 685,
+"h": 458,
+"variants": [
+{
+"w": 640,
+"h": 428,
+"fmt": "avif",
+"path": "assets/img/bakoven-4-bedroom-house/01-640.avif",
+"bytes": 24895
+},
+{
+"w": 640,
+"h": 428,
+"fmt": "webp",
+"path": "assets/img/bakoven-4-bedroom-house/01-640.webp",
+"bytes": 36012
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "avif",
+"path": "assets/img/bakoven-4-bedroom-house/01-685.avif",
+"bytes": 29704
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "webp",
+"path": "assets/img/bakoven-4-bedroom-house/01-685.webp",
+"bytes": 42108
+}
+]
+},
+"data/raw/media/CrJbjU8ttlW/02.jpg": {
+"w": 685,
+"h": 458,
+"variants": [
+{
+"w": 640,
+"h": 428,
+"fmt": "avif",
+"path": "assets/img/bakoven-4-bedroom-house/02-640.avif",
+"bytes": 21803
+},
+{
+"w": 640,
+"h": 428,
+"fmt": "webp",
+"path": "assets/img/bakoven-4-bedroom-house/02-640.webp",
+"bytes": 30574
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "avif",
+"path": "assets/img/bakoven-4-bedroom-house/02-685.avif",
+"bytes": 26466
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "webp",
+"path": "assets/img/bakoven-4-bedroom-house/02-685.webp",
+"bytes": 35648
+}
+]
+},
+"data/raw/media/CrJbjU8ttlW/03.jpg": {
+"w": 685,
+"h": 458,
+"variants": [
+{
+"w": 640,
+"h": 428,
+"fmt": "avif",
+"path": "assets/img/bakoven-4-bedroom-house/03-640.avif",
+"bytes": 23125
+},
+{
+"w": 640,
+"h": 428,
+"fmt": "webp",
+"path": "assets/img/bakoven-4-bedroom-house/03-640.webp",
+"bytes": 33350
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "avif",
+"path": "assets/img/bakoven-4-bedroom-house/03-685.avif",
+"bytes": 27016
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "webp",
+"path": "assets/img/bakoven-4-bedroom-house/03-685.webp",
+"bytes": 38710
+}
+]
+},
+"data/raw/media/CrJbjU8ttlW/04.jpg": {
+"w": 685,
+"h": 458,
+"variants": [
+{
+"w": 640,
+"h": 428,
+"fmt": "avif",
+"path": "assets/img/bakoven-4-bedroom-house/04-640.avif",
+"bytes": 21861
+},
+{
+"w": 640,
+"h": 428,
+"fmt": "webp",
+"path": "assets/img/bakoven-4-bedroom-house/04-640.webp",
+"bytes": 28882
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "avif",
+"path": "assets/img/bakoven-4-bedroom-house/04-685.avif",
+"bytes": 26554
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "webp",
+"path": "assets/img/bakoven-4-bedroom-house/04-685.webp",
+"bytes": 34006
+}
+]
+},
+"data/raw/media/CrJbjU8ttlW/05.jpg": {
+"w": 685,
+"h": 458,
+"variants": [
+{
+"w": 640,
+"h": 428,
+"fmt": "avif",
+"path": "assets/img/bakoven-4-bedroom-house/05-640.avif",
+"bytes": 22470
+},
+{
+"w": 640,
+"h": 428,
+"fmt": "webp",
+"path": "assets/img/bakoven-4-bedroom-house/05-640.webp",
+"bytes": 32848
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "avif",
+"path": "assets/img/bakoven-4-bedroom-house/05-685.avif",
+"bytes": 27117
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "webp",
+"path": "assets/img/bakoven-4-bedroom-house/05-685.webp",
+"bytes": 37796
+}
+]
+},
+"data/raw/media/CrJbjU8ttlW/06.jpg": {
+"w": 685,
+"h": 458,
+"variants": [
+{
+"w": 640,
+"h": 428,
+"fmt": "avif",
+"path": "assets/img/bakoven-4-bedroom-house/06-640.avif",
+"bytes": 21298
+},
+{
+"w": 640,
+"h": 428,
+"fmt": "webp",
+"path": "assets/img/bakoven-4-bedroom-house/06-640.webp",
+"bytes": 30360
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "avif",
+"path": "assets/img/bakoven-4-bedroom-house/06-685.avif",
+"bytes": 25591
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "webp",
+"path": "assets/img/bakoven-4-bedroom-house/06-685.webp",
+"bytes": 35246
+}
+]
+},
+"data/raw/media/CrJbjU8ttlW/07.jpg": {
+"w": 685,
+"h": 458,
+"variants": [
+{
+"w": 640,
+"h": 428,
+"fmt": "avif",
+"path": "assets/img/bakoven-4-bedroom-house/07-640.avif",
+"bytes": 35072
+},
+{
+"w": 640,
+"h": 428,
+"fmt": "webp",
+"path": "assets/img/bakoven-4-bedroom-house/07-640.webp",
+"bytes": 51202
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "avif",
+"path": "assets/img/bakoven-4-bedroom-house/07-685.avif",
+"bytes": 42117
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "webp",
+"path": "assets/img/bakoven-4-bedroom-house/07-685.webp",
+"bytes": 60896
+}
+]
+},
+"data/raw/media/CrJbjU8ttlW/08.jpg": {
+"w": 685,
+"h": 458,
+"variants": [
+{
+"w": 640,
+"h": 428,
+"fmt": "avif",
+"path": "assets/img/bakoven-4-bedroom-house/08-640.avif",
+"bytes": 26085
+},
+{
+"w": 640,
+"h": 428,
+"fmt": "webp",
+"path": "assets/img/bakoven-4-bedroom-house/08-640.webp",
+"bytes": 38450
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "avif",
+"path": "assets/img/bakoven-4-bedroom-house/08-685.avif",
+"bytes": 30833
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "webp",
+"path": "assets/img/bakoven-4-bedroom-house/08-685.webp",
+"bytes": 45024
+}
+]
+},
+"data/raw/media/Co7yc0et5AH/00.jpg": {
+"w": 683,
+"h": 455,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/waterfall-6-bedroom-house/00-640.avif",
+"bytes": 31455
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/waterfall-6-bedroom-house/00-640.webp",
+"bytes": 46162
+},
+{
+"w": 683,
+"h": 455,
+"fmt": "avif",
+"path": "assets/img/waterfall-6-bedroom-house/00-683.avif",
+"bytes": 38219
+},
+{
+"w": 683,
+"h": 455,
+"fmt": "webp",
+"path": "assets/img/waterfall-6-bedroom-house/00-683.webp",
+"bytes": 57156
+}
+]
+},
+"data/raw/media/Co7yc0et5AH/01.jpg": {
+"w": 685,
+"h": 458,
+"variants": [
+{
+"w": 640,
+"h": 428,
+"fmt": "avif",
+"path": "assets/img/waterfall-6-bedroom-house/01-640.avif",
+"bytes": 18608
+},
+{
+"w": 640,
+"h": 428,
+"fmt": "webp",
+"path": "assets/img/waterfall-6-bedroom-house/01-640.webp",
+"bytes": 23994
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "avif",
+"path": "assets/img/waterfall-6-bedroom-house/01-685.avif",
+"bytes": 23071
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "webp",
+"path": "assets/img/waterfall-6-bedroom-house/01-685.webp",
+"bytes": 28756
+}
+]
+},
+"data/raw/media/Co7yc0et5AH/02.jpg": {
+"w": 685,
+"h": 458,
+"variants": [
+{
+"w": 640,
+"h": 428,
+"fmt": "avif",
+"path": "assets/img/waterfall-6-bedroom-house/02-640.avif",
+"bytes": 16379
+},
+{
+"w": 640,
+"h": 428,
+"fmt": "webp",
+"path": "assets/img/waterfall-6-bedroom-house/02-640.webp",
+"bytes": 20468
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "avif",
+"path": "assets/img/waterfall-6-bedroom-house/02-685.avif",
+"bytes": 20266
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "webp",
+"path": "assets/img/waterfall-6-bedroom-house/02-685.webp",
+"bytes": 24414
+}
+]
+},
+"data/raw/media/Co7yc0et5AH/03.jpg": {
+"w": 685,
+"h": 458,
+"variants": [
+{
+"w": 640,
+"h": 428,
+"fmt": "avif",
+"path": "assets/img/waterfall-6-bedroom-house/03-640.avif",
+"bytes": 16455
+},
+{
+"w": 640,
+"h": 428,
+"fmt": "webp",
+"path": "assets/img/waterfall-6-bedroom-house/03-640.webp",
+"bytes": 21188
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "avif",
+"path": "assets/img/waterfall-6-bedroom-house/03-685.avif",
+"bytes": 20042
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "webp",
+"path": "assets/img/waterfall-6-bedroom-house/03-685.webp",
+"bytes": 25660
+}
+]
+},
+"data/raw/media/Co7yc0et5AH/04.jpg": {
+"w": 685,
+"h": 458,
+"variants": [
+{
+"w": 640,
+"h": 428,
+"fmt": "avif",
+"path": "assets/img/waterfall-6-bedroom-house/04-640.avif",
+"bytes": 26015
+},
+{
+"w": 640,
+"h": 428,
+"fmt": "webp",
+"path": "assets/img/waterfall-6-bedroom-house/04-640.webp",
+"bytes": 38508
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "avif",
+"path": "assets/img/waterfall-6-bedroom-house/04-685.avif",
+"bytes": 31893
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "webp",
+"path": "assets/img/waterfall-6-bedroom-house/04-685.webp",
+"bytes": 45482
+}
+]
+},
+"data/raw/media/Co7yc0et5AH/05.jpg": {
+"w": 685,
+"h": 458,
+"variants": [
+{
+"w": 640,
+"h": 428,
+"fmt": "avif",
+"path": "assets/img/waterfall-6-bedroom-house/05-640.avif",
+"bytes": 24980
+},
+{
+"w": 640,
+"h": 428,
+"fmt": "webp",
+"path": "assets/img/waterfall-6-bedroom-house/05-640.webp",
+"bytes": 34750
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "avif",
+"path": "assets/img/waterfall-6-bedroom-house/05-685.avif",
+"bytes": 31206
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "webp",
+"path": "assets/img/waterfall-6-bedroom-house/05-685.webp",
+"bytes": 42600
+}
+]
+},
+"data/raw/media/Co7yc0et5AH/06.jpg": {
+"w": 685,
+"h": 458,
+"variants": [
+{
+"w": 640,
+"h": 428,
+"fmt": "avif",
+"path": "assets/img/waterfall-6-bedroom-house/06-640.avif",
+"bytes": 23144
+},
+{
+"w": 640,
+"h": 428,
+"fmt": "webp",
+"path": "assets/img/waterfall-6-bedroom-house/06-640.webp",
+"bytes": 31120
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "avif",
+"path": "assets/img/waterfall-6-bedroom-house/06-685.avif",
+"bytes": 28960
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "webp",
+"path": "assets/img/waterfall-6-bedroom-house/06-685.webp",
+"bytes": 37374
+}
+]
+},
+"data/raw/media/Co7yc0et5AH/07.jpg": {
+"w": 685,
+"h": 458,
+"variants": [
+{
+"w": 640,
+"h": 428,
+"fmt": "avif",
+"path": "assets/img/waterfall-6-bedroom-house/07-640.avif",
+"bytes": 33083
+},
+{
+"w": 640,
+"h": 428,
+"fmt": "webp",
+"path": "assets/img/waterfall-6-bedroom-house/07-640.webp",
+"bytes": 48578
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "avif",
+"path": "assets/img/waterfall-6-bedroom-house/07-685.avif",
+"bytes": 40964
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "webp",
+"path": "assets/img/waterfall-6-bedroom-house/07-685.webp",
+"bytes": 59364
+}
+]
+},
+"data/raw/media/Co7yc0et5AH/08.jpg": {
+"w": 687,
+"h": 461,
+"variants": [
+{
+"w": 640,
+"h": 429,
+"fmt": "avif",
+"path": "assets/img/waterfall-6-bedroom-house/08-640.avif",
+"bytes": 32112
+},
+{
+"w": 640,
+"h": 429,
+"fmt": "webp",
+"path": "assets/img/waterfall-6-bedroom-house/08-640.webp",
+"bytes": 46958
+},
+{
+"w": 687,
+"h": 461,
+"fmt": "avif",
+"path": "assets/img/waterfall-6-bedroom-house/08-687.avif",
+"bytes": 40607
+},
+{
+"w": 687,
+"h": 461,
+"fmt": "webp",
+"path": "assets/img/waterfall-6-bedroom-house/08-687.webp",
+"bytes": 57752
+}
+]
+},
+"data/raw/media/Cn2JtKsNrkR/00.jpg": {
+"w": 683,
+"h": 455,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/bantry-bay-5-bedroom-house/00-640.avif",
+"bytes": 23755
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/bantry-bay-5-bedroom-house/00-640.webp",
+"bytes": 31014
+},
+{
+"w": 683,
+"h": 455,
+"fmt": "avif",
+"path": "assets/img/bantry-bay-5-bedroom-house/00-683.avif",
+"bytes": 27549
+},
+{
+"w": 683,
+"h": 455,
+"fmt": "webp",
+"path": "assets/img/bantry-bay-5-bedroom-house/00-683.webp",
+"bytes": 35554
+}
+]
+},
+"data/raw/media/Cn2JtKsNrkR/01.jpg": {
+"w": 685,
+"h": 458,
+"variants": [
+{
+"w": 640,
+"h": 428,
+"fmt": "avif",
+"path": "assets/img/bantry-bay-5-bedroom-house/01-640.avif",
+"bytes": 21647
+},
+{
+"w": 640,
+"h": 428,
+"fmt": "webp",
+"path": "assets/img/bantry-bay-5-bedroom-house/01-640.webp",
+"bytes": 27462
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "avif",
+"path": "assets/img/bantry-bay-5-bedroom-house/01-685.avif",
+"bytes": 25640
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "webp",
+"path": "assets/img/bantry-bay-5-bedroom-house/01-685.webp",
+"bytes": 31802
+}
+]
+},
+"data/raw/media/Cn2JtKsNrkR/02.jpg": {
+"w": 685,
+"h": 458,
+"variants": [
+{
+"w": 640,
+"h": 428,
+"fmt": "avif",
+"path": "assets/img/bantry-bay-5-bedroom-house/02-640.avif",
+"bytes": 23938
+},
+{
+"w": 640,
+"h": 428,
+"fmt": "webp",
+"path": "assets/img/bantry-bay-5-bedroom-house/02-640.webp",
+"bytes": 34238
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "avif",
+"path": "assets/img/bantry-bay-5-bedroom-house/02-685.avif",
+"bytes": 28469
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "webp",
+"path": "assets/img/bantry-bay-5-bedroom-house/02-685.webp",
+"bytes": 38748
+}
+]
+},
+"data/raw/media/Cn2JtKsNrkR/03.jpg": {
+"w": 687,
+"h": 461,
+"variants": [
+{
+"w": 640,
+"h": 429,
+"fmt": "avif",
+"path": "assets/img/bantry-bay-5-bedroom-house/03-640.avif",
+"bytes": 17481
+},
+{
+"w": 640,
+"h": 429,
+"fmt": "webp",
+"path": "assets/img/bantry-bay-5-bedroom-house/03-640.webp",
+"bytes": 22536
+},
+{
+"w": 687,
+"h": 461,
+"fmt": "avif",
+"path": "assets/img/bantry-bay-5-bedroom-house/03-687.avif",
+"bytes": 20789
+},
+{
+"w": 687,
+"h": 461,
+"fmt": "webp",
+"path": "assets/img/bantry-bay-5-bedroom-house/03-687.webp",
+"bytes": 26068
+}
+]
+},
+"data/raw/media/Cn2JtKsNrkR/04.jpg": {
+"w": 685,
+"h": 458,
+"variants": [
+{
+"w": 640,
+"h": 428,
+"fmt": "avif",
+"path": "assets/img/bantry-bay-5-bedroom-house/04-640.avif",
+"bytes": 24551
+},
+{
+"w": 640,
+"h": 428,
+"fmt": "webp",
+"path": "assets/img/bantry-bay-5-bedroom-house/04-640.webp",
+"bytes": 31534
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "avif",
+"path": "assets/img/bantry-bay-5-bedroom-house/04-685.avif",
+"bytes": 28788
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "webp",
+"path": "assets/img/bantry-bay-5-bedroom-house/04-685.webp",
+"bytes": 36512
+}
+]
+},
+"data/raw/media/Cn2JtKsNrkR/05.jpg": {
+"w": 685,
+"h": 458,
+"variants": [
+{
+"w": 640,
+"h": 428,
+"fmt": "avif",
+"path": "assets/img/bantry-bay-5-bedroom-house/05-640.avif",
+"bytes": 31132
+},
+{
+"w": 640,
+"h": 428,
+"fmt": "webp",
+"path": "assets/img/bantry-bay-5-bedroom-house/05-640.webp",
+"bytes": 53498
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "avif",
+"path": "assets/img/bantry-bay-5-bedroom-house/05-685.avif",
+"bytes": 36868
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "webp",
+"path": "assets/img/bantry-bay-5-bedroom-house/05-685.webp",
+"bytes": 62122
+}
+]
+},
+"data/raw/media/Cn2JtKsNrkR/06.jpg": {
+"w": 685,
+"h": 458,
+"variants": [
+{
+"w": 640,
+"h": 428,
+"fmt": "avif",
+"path": "assets/img/bantry-bay-5-bedroom-house/06-640.avif",
+"bytes": 21166
+},
+{
+"w": 640,
+"h": 428,
+"fmt": "webp",
+"path": "assets/img/bantry-bay-5-bedroom-house/06-640.webp",
+"bytes": 30646
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "avif",
+"path": "assets/img/bantry-bay-5-bedroom-house/06-685.avif",
+"bytes": 25030
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "webp",
+"path": "assets/img/bantry-bay-5-bedroom-house/06-685.webp",
+"bytes": 35752
+}
+]
+},
+"data/raw/media/Cn2JtKsNrkR/07.jpg": {
+"w": 685,
+"h": 458,
+"variants": [
+{
+"w": 640,
+"h": 428,
+"fmt": "avif",
+"path": "assets/img/bantry-bay-5-bedroom-house/07-640.avif",
+"bytes": 22030
+},
+{
+"w": 640,
+"h": 428,
+"fmt": "webp",
+"path": "assets/img/bantry-bay-5-bedroom-house/07-640.webp",
+"bytes": 30430
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "avif",
+"path": "assets/img/bantry-bay-5-bedroom-house/07-685.avif",
+"bytes": 25422
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "webp",
+"path": "assets/img/bantry-bay-5-bedroom-house/07-685.webp",
+"bytes": 34920
+}
+]
+},
+"data/raw/media/Cn2JtKsNrkR/08.jpg": {
+"w": 685,
+"h": 458,
+"variants": [
+{
+"w": 640,
+"h": 428,
+"fmt": "avif",
+"path": "assets/img/bantry-bay-5-bedroom-house/08-640.avif",
+"bytes": 31622
+},
+{
+"w": 640,
+"h": 428,
+"fmt": "webp",
+"path": "assets/img/bantry-bay-5-bedroom-house/08-640.webp",
+"bytes": 45816
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "avif",
+"path": "assets/img/bantry-bay-5-bedroom-house/08-685.avif",
+"bytes": 37475
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "webp",
+"path": "assets/img/bantry-bay-5-bedroom-house/08-685.webp",
+"bytes": 53710
+}
+]
+},
+"data/raw/media/Cn2JtKsNrkR/09.jpg": {
+"w": 685,
+"h": 458,
+"variants": [
+{
+"w": 640,
+"h": 428,
+"fmt": "avif",
+"path": "assets/img/bantry-bay-5-bedroom-house/09-640.avif",
+"bytes": 27869
+},
+{
+"w": 640,
+"h": 428,
+"fmt": "webp",
+"path": "assets/img/bantry-bay-5-bedroom-house/09-640.webp",
+"bytes": 39570
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "avif",
+"path": "assets/img/bantry-bay-5-bedroom-house/09-685.avif",
+"bytes": 32578
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "webp",
+"path": "assets/img/bantry-bay-5-bedroom-house/09-685.webp",
+"bytes": 46376
+}
+]
+},
+"data/raw/media/CnUm7GTNQwT/00.jpg": {
+"w": 681,
+"h": 452,
+"variants": [
+{
+"w": 640,
+"h": 425,
+"fmt": "avif",
+"path": "assets/img/llandudno-6-bedroom-house/00-640.avif",
+"bytes": 21824
+},
+{
+"w": 640,
+"h": 425,
+"fmt": "webp",
+"path": "assets/img/llandudno-6-bedroom-house/00-640.webp",
+"bytes": 33028
+},
+{
+"w": 681,
+"h": 452,
+"fmt": "avif",
+"path": "assets/img/llandudno-6-bedroom-house/00-681.avif",
+"bytes": 25557
+},
+{
+"w": 681,
+"h": 452,
+"fmt": "webp",
+"path": "assets/img/llandudno-6-bedroom-house/00-681.webp",
+"bytes": 38814
+}
+]
+},
+"data/raw/media/CnUm7GTNQwT/01.jpg": {
+"w": 681,
+"h": 453,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/llandudno-6-bedroom-house/01-640.avif",
+"bytes": 31105
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/llandudno-6-bedroom-house/01-640.webp",
+"bytes": 47104
+},
+{
+"w": 681,
+"h": 453,
+"fmt": "avif",
+"path": "assets/img/llandudno-6-bedroom-house/01-681.avif",
+"bytes": 36488
+},
+{
+"w": 681,
+"h": 453,
+"fmt": "webp",
+"path": "assets/img/llandudno-6-bedroom-house/01-681.webp",
+"bytes": 55146
+}
+]
+},
+"data/raw/media/CnUm7GTNQwT/02.jpg": {
+"w": 681,
+"h": 453,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/llandudno-6-bedroom-house/02-640.avif",
+"bytes": 29604
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/llandudno-6-bedroom-house/02-640.webp",
+"bytes": 42544
+},
+{
+"w": 681,
+"h": 453,
+"fmt": "avif",
+"path": "assets/img/llandudno-6-bedroom-house/02-681.avif",
+"bytes": 35495
+},
+{
+"w": 681,
+"h": 453,
+"fmt": "webp",
+"path": "assets/img/llandudno-6-bedroom-house/02-681.webp",
+"bytes": 50230
+}
+]
+},
+"data/raw/media/CnUm7GTNQwT/03.jpg": {
+"w": 681,
+"h": 453,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/llandudno-6-bedroom-house/03-640.avif",
+"bytes": 27877
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/llandudno-6-bedroom-house/03-640.webp",
+"bytes": 41566
+},
+{
+"w": 681,
+"h": 453,
+"fmt": "avif",
+"path": "assets/img/llandudno-6-bedroom-house/03-681.avif",
+"bytes": 32888
+},
+{
+"w": 681,
+"h": 453,
+"fmt": "webp",
+"path": "assets/img/llandudno-6-bedroom-house/03-681.webp",
+"bytes": 47866
+}
+]
+},
+"data/raw/media/CnUm7GTNQwT/04.jpg": {
+"w": 681,
+"h": 453,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/llandudno-6-bedroom-house/04-640.avif",
+"bytes": 24292
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/llandudno-6-bedroom-house/04-640.webp",
+"bytes": 33766
+},
+{
+"w": 681,
+"h": 453,
+"fmt": "avif",
+"path": "assets/img/llandudno-6-bedroom-house/04-681.avif",
+"bytes": 29293
+},
+{
+"w": 681,
+"h": 453,
+"fmt": "webp",
+"path": "assets/img/llandudno-6-bedroom-house/04-681.webp",
+"bytes": 39370
+}
+]
+},
+"data/raw/media/CnUm7GTNQwT/05.jpg": {
+"w": 681,
+"h": 453,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/llandudno-6-bedroom-house/05-640.avif",
+"bytes": 16850
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/llandudno-6-bedroom-house/05-640.webp",
+"bytes": 20226
+},
+{
+"w": 681,
+"h": 453,
+"fmt": "avif",
+"path": "assets/img/llandudno-6-bedroom-house/05-681.avif",
+"bytes": 20010
+},
+{
+"w": 681,
+"h": 453,
+"fmt": "webp",
+"path": "assets/img/llandudno-6-bedroom-house/05-681.webp",
+"bytes": 23824
+}
+]
+},
+"data/raw/media/CnUm7GTNQwT/06.jpg": {
+"w": 681,
+"h": 453,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/llandudno-6-bedroom-house/06-640.avif",
+"bytes": 21797
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/llandudno-6-bedroom-house/06-640.webp",
+"bytes": 28482
+},
+{
+"w": 681,
+"h": 453,
+"fmt": "avif",
+"path": "assets/img/llandudno-6-bedroom-house/06-681.avif",
+"bytes": 25250
+},
+{
+"w": 681,
+"h": 453,
+"fmt": "webp",
+"path": "assets/img/llandudno-6-bedroom-house/06-681.webp",
+"bytes": 33068
+}
+]
+},
+"data/raw/media/CnUm7GTNQwT/07.jpg": {
+"w": 681,
+"h": 453,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/llandudno-6-bedroom-house/07-640.avif",
+"bytes": 20926
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/llandudno-6-bedroom-house/07-640.webp",
+"bytes": 30898
+},
+{
+"w": 681,
+"h": 453,
+"fmt": "avif",
+"path": "assets/img/llandudno-6-bedroom-house/07-681.avif",
+"bytes": 24503
+},
+{
+"w": 681,
+"h": 453,
+"fmt": "webp",
+"path": "assets/img/llandudno-6-bedroom-house/07-681.webp",
+"bytes": 35800
+}
+]
+},
+"data/raw/media/CnUm7GTNQwT/08.jpg": {
+"w": 681,
+"h": 453,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/llandudno-6-bedroom-house/08-640.avif",
+"bytes": 16909
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/llandudno-6-bedroom-house/08-640.webp",
+"bytes": 17864
+},
+{
+"w": 681,
+"h": 453,
+"fmt": "avif",
+"path": "assets/img/llandudno-6-bedroom-house/08-681.avif",
+"bytes": 20872
+},
+{
+"w": 681,
+"h": 453,
+"fmt": "webp",
+"path": "assets/img/llandudno-6-bedroom-house/08-681.webp",
+"bytes": 20880
+}
+]
+},
+"data/raw/media/CnUm7GTNQwT/09.jpg": {
+"w": 681,
+"h": 453,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/llandudno-6-bedroom-house/09-640.avif",
+"bytes": 24172
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/llandudno-6-bedroom-house/09-640.webp",
+"bytes": 34744
+},
+{
+"w": 681,
+"h": 453,
+"fmt": "avif",
+"path": "assets/img/llandudno-6-bedroom-house/09-681.avif",
+"bytes": 29488
+},
+{
+"w": 681,
+"h": 453,
+"fmt": "webp",
+"path": "assets/img/llandudno-6-bedroom-house/09-681.webp",
+"bytes": 42068
+}
+]
+},
+"data/raw/media/CjQwoyNsjCU/00.jpg": {
+"w": 682,
+"h": 454,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/steyn-city-5-bedroom-house-3/00-640.avif",
+"bytes": 41004
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/steyn-city-5-bedroom-house-3/00-640.webp",
+"bytes": 62288
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "avif",
+"path": "assets/img/steyn-city-5-bedroom-house-3/00-682.avif",
+"bytes": 48769
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "webp",
+"path": "assets/img/steyn-city-5-bedroom-house-3/00-682.webp",
+"bytes": 73492
+}
+]
+},
+"data/raw/media/CjQwoyNsjCU/01.jpg": {
+"w": 682,
+"h": 455,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/steyn-city-5-bedroom-house-3/01-640.avif",
+"bytes": 44374
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/steyn-city-5-bedroom-house-3/01-640.webp",
+"bytes": 68912
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "avif",
+"path": "assets/img/steyn-city-5-bedroom-house-3/01-682.avif",
+"bytes": 52305
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "webp",
+"path": "assets/img/steyn-city-5-bedroom-house-3/01-682.webp",
+"bytes": 80394
+}
+]
+},
+"data/raw/media/CjQwoyNsjCU/02.jpg": {
+"w": 682,
+"h": 455,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/steyn-city-5-bedroom-house-3/02-640.avif",
+"bytes": 14096
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/steyn-city-5-bedroom-house-3/02-640.webp",
+"bytes": 16606
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "avif",
+"path": "assets/img/steyn-city-5-bedroom-house-3/02-682.avif",
+"bytes": 17158
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "webp",
+"path": "assets/img/steyn-city-5-bedroom-house-3/02-682.webp",
+"bytes": 18992
+}
+]
+},
+"data/raw/media/CjQwoyNsjCU/03.jpg": {
+"w": 682,
+"h": 455,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/steyn-city-5-bedroom-house-3/03-640.avif",
+"bytes": 13343
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/steyn-city-5-bedroom-house-3/03-640.webp",
+"bytes": 16194
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "avif",
+"path": "assets/img/steyn-city-5-bedroom-house-3/03-682.avif",
+"bytes": 15581
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "webp",
+"path": "assets/img/steyn-city-5-bedroom-house-3/03-682.webp",
+"bytes": 18516
+}
+]
+},
+"data/raw/media/CjQwoyNsjCU/04.jpg": {
+"w": 682,
+"h": 455,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/steyn-city-5-bedroom-house-3/04-640.avif",
+"bytes": 16571
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/steyn-city-5-bedroom-house-3/04-640.webp",
+"bytes": 20750
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "avif",
+"path": "assets/img/steyn-city-5-bedroom-house-3/04-682.avif",
+"bytes": 19983
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "webp",
+"path": "assets/img/steyn-city-5-bedroom-house-3/04-682.webp",
+"bytes": 24028
+}
+]
+},
+"data/raw/media/CjQwoyNsjCU/05.jpg": {
+"w": 682,
+"h": 455,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/steyn-city-5-bedroom-house-3/05-640.avif",
+"bytes": 19946
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/steyn-city-5-bedroom-house-3/05-640.webp",
+"bytes": 25266
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "avif",
+"path": "assets/img/steyn-city-5-bedroom-house-3/05-682.avif",
+"bytes": 23211
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "webp",
+"path": "assets/img/steyn-city-5-bedroom-house-3/05-682.webp",
+"bytes": 29410
+}
+]
+},
+"data/raw/media/CjQwoyNsjCU/06.jpg": {
+"w": 682,
+"h": 455,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/steyn-city-5-bedroom-house-3/06-640.avif",
+"bytes": 22894
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/steyn-city-5-bedroom-house-3/06-640.webp",
+"bytes": 30540
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "avif",
+"path": "assets/img/steyn-city-5-bedroom-house-3/06-682.avif",
+"bytes": 28221
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "webp",
+"path": "assets/img/steyn-city-5-bedroom-house-3/06-682.webp",
+"bytes": 35732
+}
+]
+},
+"data/raw/media/CjQwoyNsjCU/07.jpg": {
+"w": 682,
+"h": 455,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/steyn-city-5-bedroom-house-3/07-640.avif",
+"bytes": 20008
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/steyn-city-5-bedroom-house-3/07-640.webp",
+"bytes": 25940
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "avif",
+"path": "assets/img/steyn-city-5-bedroom-house-3/07-682.avif",
+"bytes": 23549
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "webp",
+"path": "assets/img/steyn-city-5-bedroom-house-3/07-682.webp",
+"bytes": 29734
+}
+]
+},
+"data/raw/media/CjQwoyNsjCU/08.jpg": {
+"w": 682,
+"h": 455,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/steyn-city-5-bedroom-house-3/08-640.avif",
+"bytes": 17051
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/steyn-city-5-bedroom-house-3/08-640.webp",
+"bytes": 19226
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "avif",
+"path": "assets/img/steyn-city-5-bedroom-house-3/08-682.avif",
+"bytes": 20598
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "webp",
+"path": "assets/img/steyn-city-5-bedroom-house-3/08-682.webp",
+"bytes": 22150
+}
+]
+},
+"data/raw/media/CjQwoyNsjCU/09.jpg": {
+"w": 682,
+"h": 455,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/steyn-city-5-bedroom-house-3/09-640.avif",
+"bytes": 30713
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/steyn-city-5-bedroom-house-3/09-640.webp",
+"bytes": 49702
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "avif",
+"path": "assets/img/steyn-city-5-bedroom-house-3/09-682.avif",
+"bytes": 36579
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "webp",
+"path": "assets/img/steyn-city-5-bedroom-house-3/09-682.webp",
+"bytes": 57640
+}
+]
+},
+"data/raw/media/CidDygJDLF5/00.jpg": {
+"w": 624,
+"h": 380,
+"variants": [
+{
+"w": 624,
+"h": 380,
+"fmt": "avif",
+"path": "assets/img/fresnaye-4-bedroom-house-2/00-624.avif",
+"bytes": 33931
+},
+{
+"w": 624,
+"h": 380,
+"fmt": "webp",
+"path": "assets/img/fresnaye-4-bedroom-house-2/00-624.webp",
+"bytes": 51222
+}
+]
+},
+"data/raw/media/CidDygJDLF5/01.jpg": {
+"w": 628,
+"h": 385,
+"variants": [
+{
+"w": 628,
+"h": 385,
+"fmt": "avif",
+"path": "assets/img/fresnaye-4-bedroom-house-2/01-628.avif",
+"bytes": 19364
+},
+{
+"w": 628,
+"h": 385,
+"fmt": "webp",
+"path": "assets/img/fresnaye-4-bedroom-house-2/01-628.webp",
+"bytes": 26624
+}
+]
+},
+"data/raw/media/CidDygJDLF5/02.jpg": {
+"w": 628,
+"h": 385,
+"variants": [
+{
+"w": 628,
+"h": 385,
+"fmt": "avif",
+"path": "assets/img/fresnaye-4-bedroom-house-2/02-628.avif",
+"bytes": 15925
+},
+{
+"w": 628,
+"h": 385,
+"fmt": "webp",
+"path": "assets/img/fresnaye-4-bedroom-house-2/02-628.webp",
+"bytes": 21714
+}
+]
+},
+"data/raw/media/CidDygJDLF5/03.jpg": {
+"w": 628,
+"h": 385,
+"variants": [
+{
+"w": 628,
+"h": 385,
+"fmt": "avif",
+"path": "assets/img/fresnaye-4-bedroom-house-2/03-628.avif",
+"bytes": 15839
+},
+{
+"w": 628,
+"h": 385,
+"fmt": "webp",
+"path": "assets/img/fresnaye-4-bedroom-house-2/03-628.webp",
+"bytes": 17592
+}
+]
+},
+"data/raw/media/CidDygJDLF5/04.jpg": {
+"w": 628,
+"h": 385,
+"variants": [
+{
+"w": 628,
+"h": 385,
+"fmt": "avif",
+"path": "assets/img/fresnaye-4-bedroom-house-2/04-628.avif",
+"bytes": 16850
+},
+{
+"w": 628,
+"h": 385,
+"fmt": "webp",
+"path": "assets/img/fresnaye-4-bedroom-house-2/04-628.webp",
+"bytes": 20380
+}
+]
+},
+"data/raw/media/CidDygJDLF5/05.jpg": {
+"w": 628,
+"h": 385,
+"variants": [
+{
+"w": 628,
+"h": 385,
+"fmt": "avif",
+"path": "assets/img/fresnaye-4-bedroom-house-2/05-628.avif",
+"bytes": 17516
+},
+{
+"w": 628,
+"h": 385,
+"fmt": "webp",
+"path": "assets/img/fresnaye-4-bedroom-house-2/05-628.webp",
+"bytes": 23042
+}
+]
+},
+"data/raw/media/CidDygJDLF5/06.jpg": {
+"w": 628,
+"h": 385,
+"variants": [
+{
+"w": 628,
+"h": 385,
+"fmt": "avif",
+"path": "assets/img/fresnaye-4-bedroom-house-2/06-628.avif",
+"bytes": 15099
+},
+{
+"w": 628,
+"h": 385,
+"fmt": "webp",
+"path": "assets/img/fresnaye-4-bedroom-house-2/06-628.webp",
+"bytes": 18448
+}
+]
+},
+"data/raw/media/CidDygJDLF5/07.jpg": {
+"w": 628,
+"h": 385,
+"variants": [
+{
+"w": 628,
+"h": 385,
+"fmt": "avif",
+"path": "assets/img/fresnaye-4-bedroom-house-2/07-628.avif",
+"bytes": 19513
+},
+{
+"w": 628,
+"h": 385,
+"fmt": "webp",
+"path": "assets/img/fresnaye-4-bedroom-house-2/07-628.webp",
+"bytes": 27434
+}
+]
+},
+"data/raw/media/CidDygJDLF5/08.jpg": {
+"w": 628,
+"h": 385,
+"variants": [
+{
+"w": 628,
+"h": 385,
+"fmt": "avif",
+"path": "assets/img/fresnaye-4-bedroom-house-2/08-628.avif",
+"bytes": 15725
+},
+{
+"w": 628,
+"h": 385,
+"fmt": "webp",
+"path": "assets/img/fresnaye-4-bedroom-house-2/08-628.webp",
+"bytes": 19514
+}
+]
+},
+"data/raw/media/CidDygJDLF5/09.jpg": {
+"w": 628,
+"h": 385,
+"variants": [
+{
+"w": 628,
+"h": 385,
+"fmt": "avif",
+"path": "assets/img/fresnaye-4-bedroom-house-2/09-628.avif",
+"bytes": 19332
+},
+{
+"w": 628,
+"h": 385,
+"fmt": "webp",
+"path": "assets/img/fresnaye-4-bedroom-house-2/09-628.webp",
+"bytes": 25958
+}
+]
+},
+"data/raw/media/ChaQVk0jd3t/00.jpg": {
+"w": 768,
+"h": 576,
+"variants": [
+{
+"w": 640,
+"h": 480,
+"fmt": "avif",
+"path": "assets/img/pinnacle-point-5-bedroom-house/00-640.avif",
+"bytes": 40066
+},
+{
+"w": 640,
+"h": 480,
+"fmt": "webp",
+"path": "assets/img/pinnacle-point-5-bedroom-house/00-640.webp",
+"bytes": 62516
+},
+{
+"w": 768,
+"h": 576,
+"fmt": "avif",
+"path": "assets/img/pinnacle-point-5-bedroom-house/00-768.avif",
+"bytes": 58686
+},
+{
+"w": 768,
+"h": 576,
+"fmt": "webp",
+"path": "assets/img/pinnacle-point-5-bedroom-house/00-768.webp",
+"bytes": 89972
+}
+]
+},
+"data/raw/media/ChaQVk0jd3t/01.jpg": {
+"w": 769,
+"h": 578,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/pinnacle-point-5-bedroom-house/01-640.avif",
+"bytes": 24318
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/pinnacle-point-5-bedroom-house/01-640.webp",
+"bytes": 32436
+},
+{
+"w": 769,
+"h": 578,
+"fmt": "avif",
+"path": "assets/img/pinnacle-point-5-bedroom-house/01-769.avif",
+"bytes": 34077
+},
+{
+"w": 769,
+"h": 578,
+"fmt": "webp",
+"path": "assets/img/pinnacle-point-5-bedroom-house/01-769.webp",
+"bytes": 45006
+}
+]
+},
+"data/raw/media/ChaQVk0jd3t/02.jpg": {
+"w": 769,
+"h": 578,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/pinnacle-point-5-bedroom-house/02-640.avif",
+"bytes": 28054
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/pinnacle-point-5-bedroom-house/02-640.webp",
+"bytes": 38048
+},
+{
+"w": 769,
+"h": 578,
+"fmt": "avif",
+"path": "assets/img/pinnacle-point-5-bedroom-house/02-769.avif",
+"bytes": 38925
+},
+{
+"w": 769,
+"h": 578,
+"fmt": "webp",
+"path": "assets/img/pinnacle-point-5-bedroom-house/02-769.webp",
+"bytes": 52718
+}
+]
+},
+"data/raw/media/ChaQVk0jd3t/03.jpg": {
+"w": 769,
+"h": 578,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/pinnacle-point-5-bedroom-house/03-640.avif",
+"bytes": 23470
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/pinnacle-point-5-bedroom-house/03-640.webp",
+"bytes": 31248
+},
+{
+"w": 769,
+"h": 578,
+"fmt": "avif",
+"path": "assets/img/pinnacle-point-5-bedroom-house/03-769.avif",
+"bytes": 33485
+},
+{
+"w": 769,
+"h": 578,
+"fmt": "webp",
+"path": "assets/img/pinnacle-point-5-bedroom-house/03-769.webp",
+"bytes": 42450
+}
+]
+},
+"data/raw/media/ChaQVk0jd3t/04.jpg": {
+"w": 769,
+"h": 578,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/pinnacle-point-5-bedroom-house/04-640.avif",
+"bytes": 29198
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/pinnacle-point-5-bedroom-house/04-640.webp",
+"bytes": 40770
+},
+{
+"w": 769,
+"h": 578,
+"fmt": "avif",
+"path": "assets/img/pinnacle-point-5-bedroom-house/04-769.avif",
+"bytes": 40752
+},
+{
+"w": 769,
+"h": 578,
+"fmt": "webp",
+"path": "assets/img/pinnacle-point-5-bedroom-house/04-769.webp",
+"bytes": 56458
+}
+]
+},
+"data/raw/media/ChaQVk0jd3t/05.jpg": {
+"w": 769,
+"h": 578,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/pinnacle-point-5-bedroom-house/05-640.avif",
+"bytes": 31002
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/pinnacle-point-5-bedroom-house/05-640.webp",
+"bytes": 46928
+},
+{
+"w": 769,
+"h": 578,
+"fmt": "avif",
+"path": "assets/img/pinnacle-point-5-bedroom-house/05-769.avif",
+"bytes": 43907
+},
+{
+"w": 769,
+"h": 578,
+"fmt": "webp",
+"path": "assets/img/pinnacle-point-5-bedroom-house/05-769.webp",
+"bytes": 65840
+}
+]
+},
+"data/raw/media/ChaQVk0jd3t/06.jpg": {
+"w": 769,
+"h": 578,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/pinnacle-point-5-bedroom-house/06-640.avif",
+"bytes": 25474
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/pinnacle-point-5-bedroom-house/06-640.webp",
+"bytes": 32374
+},
+{
+"w": 769,
+"h": 578,
+"fmt": "avif",
+"path": "assets/img/pinnacle-point-5-bedroom-house/06-769.avif",
+"bytes": 36115
+},
+{
+"w": 769,
+"h": 578,
+"fmt": "webp",
+"path": "assets/img/pinnacle-point-5-bedroom-house/06-769.webp",
+"bytes": 44496
+}
+]
+},
+"data/raw/media/ChaQVk0jd3t/07.jpg": {
+"w": 769,
+"h": 578,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/pinnacle-point-5-bedroom-house/07-640.avif",
+"bytes": 42807
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/pinnacle-point-5-bedroom-house/07-640.webp",
+"bytes": 60924
+},
+{
+"w": 769,
+"h": 578,
+"fmt": "avif",
+"path": "assets/img/pinnacle-point-5-bedroom-house/07-769.avif",
+"bytes": 60587
+},
+{
+"w": 769,
+"h": 578,
+"fmt": "webp",
+"path": "assets/img/pinnacle-point-5-bedroom-house/07-769.webp",
+"bytes": 86072
+}
+]
+},
+"data/raw/media/ChaQVk0jd3t/08.jpg": {
+"w": 770,
+"h": 580,
+"variants": [
+{
+"w": 640,
+"h": 482,
+"fmt": "avif",
+"path": "assets/img/pinnacle-point-5-bedroom-house/08-640.avif",
+"bytes": 24685
+},
+{
+"w": 640,
+"h": 482,
+"fmt": "webp",
+"path": "assets/img/pinnacle-point-5-bedroom-house/08-640.webp",
+"bytes": 37034
+},
+{
+"w": 770,
+"h": 580,
+"fmt": "avif",
+"path": "assets/img/pinnacle-point-5-bedroom-house/08-770.avif",
+"bytes": 34953
+},
+{
+"w": 770,
+"h": 580,
+"fmt": "webp",
+"path": "assets/img/pinnacle-point-5-bedroom-house/08-770.webp",
+"bytes": 51368
+}
+]
+},
+"data/raw/media/ChaQVk0jd3t/09.jpg": {
+"w": 770,
+"h": 579,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/pinnacle-point-5-bedroom-house/09-640.avif",
+"bytes": 48690
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/pinnacle-point-5-bedroom-house/09-640.webp",
+"bytes": 77056
+},
+{
+"w": 770,
+"h": 579,
+"fmt": "avif",
+"path": "assets/img/pinnacle-point-5-bedroom-house/09-770.avif",
+"bytes": 73230
+},
+{
+"w": 770,
+"h": 579,
+"fmt": "webp",
+"path": "assets/img/pinnacle-point-5-bedroom-house/09-770.webp",
+"bytes": 111414
+}
+]
+},
+"data/raw/media/Cge6MrLj_6l/00.jpg": {
+"w": 767,
+"h": 574,
+"variants": [
+{
+"w": 640,
+"h": 479,
+"fmt": "avif",
+"path": "assets/img/camps-bay-5-bedroom-house/00-640.avif",
+"bytes": 51217
+},
+{
+"w": 640,
+"h": 479,
+"fmt": "webp",
+"path": "assets/img/camps-bay-5-bedroom-house/00-640.webp",
+"bytes": 82236
+},
+{
+"w": 767,
+"h": 574,
+"fmt": "avif",
+"path": "assets/img/camps-bay-5-bedroom-house/00-767.avif",
+"bytes": 73236
+},
+{
+"w": 767,
+"h": 574,
+"fmt": "webp",
+"path": "assets/img/camps-bay-5-bedroom-house/00-767.webp",
+"bytes": 117914
+}
+]
+},
+"data/raw/media/Cge6MrLj_6l/01.jpg": {
+"w": 769,
+"h": 578,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/camps-bay-5-bedroom-house/01-640.avif",
+"bytes": 59727
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/camps-bay-5-bedroom-house/01-640.webp",
+"bytes": 97338
+},
+{
+"w": 769,
+"h": 578,
+"fmt": "avif",
+"path": "assets/img/camps-bay-5-bedroom-house/01-769.avif",
+"bytes": 83860
+},
+{
+"w": 769,
+"h": 578,
+"fmt": "webp",
+"path": "assets/img/camps-bay-5-bedroom-house/01-769.webp",
+"bytes": 136516
+}
+]
+},
+"data/raw/media/Cge6MrLj_6l/02.jpg": {
+"w": 768,
+"h": 577,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/camps-bay-5-bedroom-house/02-640.avif",
+"bytes": 31278
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/camps-bay-5-bedroom-house/02-640.webp",
+"bytes": 44832
+},
+{
+"w": 768,
+"h": 577,
+"fmt": "avif",
+"path": "assets/img/camps-bay-5-bedroom-house/02-768.avif",
+"bytes": 43931
+},
+{
+"w": 768,
+"h": 577,
+"fmt": "webp",
+"path": "assets/img/camps-bay-5-bedroom-house/02-768.webp",
+"bytes": 60498
+}
+]
+},
+"data/raw/media/Cge6MrLj_6l/03.jpg": {
+"w": 768,
+"h": 577,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/camps-bay-5-bedroom-house/03-640.avif",
+"bytes": 36354
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/camps-bay-5-bedroom-house/03-640.webp",
+"bytes": 52096
+},
+{
+"w": 768,
+"h": 577,
+"fmt": "avif",
+"path": "assets/img/camps-bay-5-bedroom-house/03-768.avif",
+"bytes": 51053
+},
+{
+"w": 768,
+"h": 577,
+"fmt": "webp",
+"path": "assets/img/camps-bay-5-bedroom-house/03-768.webp",
+"bytes": 71100
+}
+]
+},
+"data/raw/media/Cge6MrLj_6l/04.jpg": {
+"w": 768,
+"h": 577,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/camps-bay-5-bedroom-house/04-640.avif",
+"bytes": 28037
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/camps-bay-5-bedroom-house/04-640.webp",
+"bytes": 37968
+},
+{
+"w": 768,
+"h": 577,
+"fmt": "avif",
+"path": "assets/img/camps-bay-5-bedroom-house/04-768.avif",
+"bytes": 38521
+},
+{
+"w": 768,
+"h": 577,
+"fmt": "webp",
+"path": "assets/img/camps-bay-5-bedroom-house/04-768.webp",
+"bytes": 51732
+}
+]
+},
+"data/raw/media/Cge6MrLj_6l/05.jpg": {
+"w": 768,
+"h": 577,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/camps-bay-5-bedroom-house/05-640.avif",
+"bytes": 27005
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/camps-bay-5-bedroom-house/05-640.webp",
+"bytes": 37288
+},
+{
+"w": 768,
+"h": 577,
+"fmt": "avif",
+"path": "assets/img/camps-bay-5-bedroom-house/05-768.avif",
+"bytes": 38044
+},
+{
+"w": 768,
+"h": 577,
+"fmt": "webp",
+"path": "assets/img/camps-bay-5-bedroom-house/05-768.webp",
+"bytes": 51360
+}
+]
+},
+"data/raw/media/Cge6MrLj_6l/06.jpg": {
+"w": 768,
+"h": 577,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/camps-bay-5-bedroom-house/06-640.avif",
+"bytes": 24142
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/camps-bay-5-bedroom-house/06-640.webp",
+"bytes": 30120
+},
+{
+"w": 768,
+"h": 577,
+"fmt": "avif",
+"path": "assets/img/camps-bay-5-bedroom-house/06-768.avif",
+"bytes": 33753
+},
+{
+"w": 768,
+"h": 577,
+"fmt": "webp",
+"path": "assets/img/camps-bay-5-bedroom-house/06-768.webp",
+"bytes": 41052
+}
+]
+},
+"data/raw/media/Cge6MrLj_6l/07.jpg": {
+"w": 768,
+"h": 577,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/camps-bay-5-bedroom-house/07-640.avif",
+"bytes": 21080
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/camps-bay-5-bedroom-house/07-640.webp",
+"bytes": 25846
+},
+{
+"w": 768,
+"h": 577,
+"fmt": "avif",
+"path": "assets/img/camps-bay-5-bedroom-house/07-768.avif",
+"bytes": 29621
+},
+{
+"w": 768,
+"h": 577,
+"fmt": "webp",
+"path": "assets/img/camps-bay-5-bedroom-house/07-768.webp",
+"bytes": 34474
+}
+]
+},
+"data/raw/media/Cge6MrLj_6l/08.jpg": {
+"w": 768,
+"h": 577,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/camps-bay-5-bedroom-house/08-640.avif",
+"bytes": 21038
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/camps-bay-5-bedroom-house/08-640.webp",
+"bytes": 26854
+},
+{
+"w": 768,
+"h": 577,
+"fmt": "avif",
+"path": "assets/img/camps-bay-5-bedroom-house/08-768.avif",
+"bytes": 29630
+},
+{
+"w": 768,
+"h": 577,
+"fmt": "webp",
+"path": "assets/img/camps-bay-5-bedroom-house/08-768.webp",
+"bytes": 36890
+}
+]
+},
+"data/raw/media/Cge6MrLj_6l/09.jpg": {
+"w": 769,
+"h": 577,
+"variants": [
+{
+"w": 640,
+"h": 480,
+"fmt": "avif",
+"path": "assets/img/camps-bay-5-bedroom-house/09-640.avif",
+"bytes": 61645
+},
+{
+"w": 640,
+"h": 480,
+"fmt": "webp",
+"path": "assets/img/camps-bay-5-bedroom-house/09-640.webp",
+"bytes": 99596
+},
+{
+"w": 769,
+"h": 577,
+"fmt": "avif",
+"path": "assets/img/camps-bay-5-bedroom-house/09-769.avif",
+"bytes": 87159
+},
+{
+"w": 769,
+"h": 577,
+"fmt": "webp",
+"path": "assets/img/camps-bay-5-bedroom-house/09-769.webp",
+"bytes": 140602
+}
+]
+},
+"data/raw/media/Cf_YaGrjU1D/00.jpg": {
+"w": 507,
+"h": 380,
+"variants": [
+{
+"w": 507,
+"h": 380,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-5-bedroom-house/00-507.avif",
+"bytes": 24997
+},
+{
+"w": 507,
+"h": 380,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-5-bedroom-house/00-507.webp",
+"bytes": 35788
+}
+]
+},
+"data/raw/media/Cf_YaGrjU1D/01.jpg": {
+"w": 509,
+"h": 383,
+"variants": [
+{
+"w": 509,
+"h": 383,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-5-bedroom-house/01-509.avif",
+"bytes": 18200
+},
+{
+"w": 509,
+"h": 383,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-5-bedroom-house/01-509.webp",
+"bytes": 24234
+}
+]
+},
+"data/raw/media/Cf_YaGrjU1D/02.jpg": {
+"w": 1218,
+"h": 917,
+"variants": [
+{
+"w": 640,
+"h": 482,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-5-bedroom-house/02-640.avif",
+"bytes": 26310
+},
+{
+"w": 640,
+"h": 482,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-5-bedroom-house/02-640.webp",
+"bytes": 35602
+},
+{
+"w": 1218,
+"h": 917,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-5-bedroom-house/02-1218.avif",
+"bytes": 101473
+},
+{
+"w": 1218,
+"h": 917,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-5-bedroom-house/02-1218.webp",
+"bytes": 122360
+}
+]
+},
+"data/raw/media/Cf_YaGrjU1D/03.jpg": {
+"w": 1218,
+"h": 917,
+"variants": [
+{
+"w": 640,
+"h": 482,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-5-bedroom-house/03-640.avif",
+"bytes": 22380
+},
+{
+"w": 640,
+"h": 482,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-5-bedroom-house/03-640.webp",
+"bytes": 29944
+},
+{
+"w": 1218,
+"h": 917,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-5-bedroom-house/03-1218.avif",
+"bytes": 86907
+},
+{
+"w": 1218,
+"h": 917,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-5-bedroom-house/03-1218.webp",
+"bytes": 103724
+}
+]
+},
+"data/raw/media/Cf_YaGrjU1D/04.jpg": {
+"w": 1218,
+"h": 917,
+"variants": [
+{
+"w": 640,
+"h": 482,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-5-bedroom-house/04-640.avif",
+"bytes": 29571
+},
+{
+"w": 640,
+"h": 482,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-5-bedroom-house/04-640.webp",
+"bytes": 43750
+},
+{
+"w": 1218,
+"h": 917,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-5-bedroom-house/04-1218.avif",
+"bytes": 120913
+},
+{
+"w": 1218,
+"h": 917,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-5-bedroom-house/04-1218.webp",
+"bytes": 156800
+}
+]
+},
+"data/raw/media/Cf_YaGrjU1D/05.jpg": {
+"w": 1218,
+"h": 917,
+"variants": [
+{
+"w": 640,
+"h": 482,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-5-bedroom-house/05-640.avif",
+"bytes": 24665
+},
+{
+"w": 640,
+"h": 482,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-5-bedroom-house/05-640.webp",
+"bytes": 30548
+},
+{
+"w": 1218,
+"h": 917,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-5-bedroom-house/05-1218.avif",
+"bytes": 113816
+},
+{
+"w": 1218,
+"h": 917,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-5-bedroom-house/05-1218.webp",
+"bytes": 136312
+}
+]
+},
+"data/raw/media/Cf_YaGrjU1D/06.jpg": {
+"w": 1218,
+"h": 917,
+"variants": [
+{
+"w": 640,
+"h": 482,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-5-bedroom-house/06-640.avif",
+"bytes": 29352
+},
+{
+"w": 640,
+"h": 482,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-5-bedroom-house/06-640.webp",
+"bytes": 43040
+},
+{
+"w": 1218,
+"h": 917,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-5-bedroom-house/06-1218.avif",
+"bytes": 118485
+},
+{
+"w": 1218,
+"h": 917,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-5-bedroom-house/06-1218.webp",
+"bytes": 151650
+}
+]
+},
+"data/raw/media/Cf_YaGrjU1D/07.jpg": {
+"w": 1218,
+"h": 917,
+"variants": [
+{
+"w": 640,
+"h": 482,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-5-bedroom-house/07-640.avif",
+"bytes": 19363
+},
+{
+"w": 640,
+"h": 482,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-5-bedroom-house/07-640.webp",
+"bytes": 25810
+},
+{
+"w": 1218,
+"h": 917,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-5-bedroom-house/07-1218.avif",
+"bytes": 86199
+},
+{
+"w": 1218,
+"h": 917,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-5-bedroom-house/07-1218.webp",
+"bytes": 100150
+}
+]
+},
+"data/raw/media/Cf_YaGrjU1D/08.jpg": {
+"w": 1218,
+"h": 917,
+"variants": [
+{
+"w": 640,
+"h": 482,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-5-bedroom-house/08-640.avif",
+"bytes": 21923
+},
+{
+"w": 640,
+"h": 482,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-5-bedroom-house/08-640.webp",
+"bytes": 26936
+},
+{
+"w": 1218,
+"h": 917,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-5-bedroom-house/08-1218.avif",
+"bytes": 89528
+},
+{
+"w": 1218,
+"h": 917,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-5-bedroom-house/08-1218.webp",
+"bytes": 98130
+}
+]
+},
+"data/raw/media/Cf_YaGrjU1D/09.jpg": {
+"w": 1440,
+"h": 1083,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-5-bedroom-house/09-640.avif",
+"bytes": 29788
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-5-bedroom-house/09-640.webp",
+"bytes": 40532
+},
+{
+"w": 1440,
+"h": 1083,
+"fmt": "avif",
+"path": "assets/img/eye-of-africa-5-bedroom-house/09-1440.avif",
+"bytes": 134002
+},
+{
+"w": 1440,
+"h": 1083,
+"fmt": "webp",
+"path": "assets/img/eye-of-africa-5-bedroom-house/09-1440.webp",
+"bytes": 154396
+}
+]
+},
+"data/raw/media/CfURuEujmtH/00.jpg": {
+"w": 682,
+"h": 454,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/blue-hills-7-bedroom-house/00-640.avif",
+"bytes": 38709
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/blue-hills-7-bedroom-house/00-640.webp",
+"bytes": 60808
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "avif",
+"path": "assets/img/blue-hills-7-bedroom-house/00-682.avif",
+"bytes": 45522
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "webp",
+"path": "assets/img/blue-hills-7-bedroom-house/00-682.webp",
+"bytes": 71448
+}
+]
+},
+"data/raw/media/CfURuEujmtH/01.jpg": {
+"w": 682,
+"h": 455,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/blue-hills-7-bedroom-house/01-640.avif",
+"bytes": 63189
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/blue-hills-7-bedroom-house/01-640.webp",
+"bytes": 98380
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "avif",
+"path": "assets/img/blue-hills-7-bedroom-house/01-682.avif",
+"bytes": 74917
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "webp",
+"path": "assets/img/blue-hills-7-bedroom-house/01-682.webp",
+"bytes": 115742
+}
+]
+},
+"data/raw/media/CfURuEujmtH/02.jpg": {
+"w": 682,
+"h": 455,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/blue-hills-7-bedroom-house/02-640.avif",
+"bytes": 34922
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/blue-hills-7-bedroom-house/02-640.webp",
+"bytes": 54374
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "avif",
+"path": "assets/img/blue-hills-7-bedroom-house/02-682.avif",
+"bytes": 41004
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "webp",
+"path": "assets/img/blue-hills-7-bedroom-house/02-682.webp",
+"bytes": 64078
+}
+]
+},
+"data/raw/media/CfURuEujmtH/03.jpg": {
+"w": 682,
+"h": 455,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/blue-hills-7-bedroom-house/03-640.avif",
+"bytes": 33251
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/blue-hills-7-bedroom-house/03-640.webp",
+"bytes": 49196
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "avif",
+"path": "assets/img/blue-hills-7-bedroom-house/03-682.avif",
+"bytes": 39010
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "webp",
+"path": "assets/img/blue-hills-7-bedroom-house/03-682.webp",
+"bytes": 56658
+}
+]
+},
+"data/raw/media/CfURuEujmtH/04.jpg": {
+"w": 682,
+"h": 455,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/blue-hills-7-bedroom-house/04-640.avif",
+"bytes": 27044
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/blue-hills-7-bedroom-house/04-640.webp",
+"bytes": 40506
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "avif",
+"path": "assets/img/blue-hills-7-bedroom-house/04-682.avif",
+"bytes": 32280
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "webp",
+"path": "assets/img/blue-hills-7-bedroom-house/04-682.webp",
+"bytes": 47032
+}
+]
+},
+"data/raw/media/CfURuEujmtH/05.jpg": {
+"w": 682,
+"h": 455,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/blue-hills-7-bedroom-house/05-640.avif",
+"bytes": 34458
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/blue-hills-7-bedroom-house/05-640.webp",
+"bytes": 55176
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "avif",
+"path": "assets/img/blue-hills-7-bedroom-house/05-682.avif",
+"bytes": 40354
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "webp",
+"path": "assets/img/blue-hills-7-bedroom-house/05-682.webp",
+"bytes": 66074
+}
+]
+},
+"data/raw/media/CfURuEujmtH/06.jpg": {
+"w": 682,
+"h": 455,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/blue-hills-7-bedroom-house/06-640.avif",
+"bytes": 42592
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/blue-hills-7-bedroom-house/06-640.webp",
+"bytes": 64298
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "avif",
+"path": "assets/img/blue-hills-7-bedroom-house/06-682.avif",
+"bytes": 50247
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "webp",
+"path": "assets/img/blue-hills-7-bedroom-house/06-682.webp",
+"bytes": 75040
+}
+]
+},
+"data/raw/media/CfURuEujmtH/07.jpg": {
+"w": 682,
+"h": 455,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/blue-hills-7-bedroom-house/07-640.avif",
+"bytes": 34326
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/blue-hills-7-bedroom-house/07-640.webp",
+"bytes": 52696
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "avif",
+"path": "assets/img/blue-hills-7-bedroom-house/07-682.avif",
+"bytes": 41197
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "webp",
+"path": "assets/img/blue-hills-7-bedroom-house/07-682.webp",
+"bytes": 61132
+}
+]
+},
+"data/raw/media/CfURuEujmtH/08.jpg": {
+"w": 682,
+"h": 455,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/blue-hills-7-bedroom-house/08-640.avif",
+"bytes": 34362
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/blue-hills-7-bedroom-house/08-640.webp",
+"bytes": 49998
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "avif",
+"path": "assets/img/blue-hills-7-bedroom-house/08-682.avif",
+"bytes": 40953
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "webp",
+"path": "assets/img/blue-hills-7-bedroom-house/08-682.webp",
+"bytes": 58704
+}
+]
+},
+"data/raw/media/CfURuEujmtH/09.jpg": {
+"w": 682,
+"h": 455,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/blue-hills-7-bedroom-house/09-640.avif",
+"bytes": 34340
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/blue-hills-7-bedroom-house/09-640.webp",
+"bytes": 53986
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "avif",
+"path": "assets/img/blue-hills-7-bedroom-house/09-682.avif",
+"bytes": 40392
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "webp",
+"path": "assets/img/blue-hills-7-bedroom-house/09-682.webp",
+"bytes": 63766
+}
+]
+},
+"data/raw/media/CfCa7afDfti/00.jpg": {
+"w": 682,
+"h": 454,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/camps-bay-3-bedroom-apartment/00-640.avif",
+"bytes": 22923
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/camps-bay-3-bedroom-apartment/00-640.webp",
+"bytes": 34072
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "avif",
+"path": "assets/img/camps-bay-3-bedroom-apartment/00-682.avif",
+"bytes": 27139
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "webp",
+"path": "assets/img/camps-bay-3-bedroom-apartment/00-682.webp",
+"bytes": 40186
+}
+]
+},
+"data/raw/media/CfCa7afDfti/01.jpg": {
+"w": 682,
+"h": 455,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/camps-bay-3-bedroom-apartment/01-640.avif",
+"bytes": 18678
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/camps-bay-3-bedroom-apartment/01-640.webp",
+"bytes": 22602
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "avif",
+"path": "assets/img/camps-bay-3-bedroom-apartment/01-682.avif",
+"bytes": 22680
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "webp",
+"path": "assets/img/camps-bay-3-bedroom-apartment/01-682.webp",
+"bytes": 26406
+}
+]
+},
+"data/raw/media/CfCa7afDfti/02.jpg": {
+"w": 682,
+"h": 455,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/camps-bay-3-bedroom-apartment/02-640.avif",
+"bytes": 21105
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/camps-bay-3-bedroom-apartment/02-640.webp",
+"bytes": 26252
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "avif",
+"path": "assets/img/camps-bay-3-bedroom-apartment/02-682.avif",
+"bytes": 25353
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "webp",
+"path": "assets/img/camps-bay-3-bedroom-apartment/02-682.webp",
+"bytes": 30710
+}
+]
+},
+"data/raw/media/CfCa7afDfti/03.jpg": {
+"w": 682,
+"h": 455,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/camps-bay-3-bedroom-apartment/03-640.avif",
+"bytes": 21997
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/camps-bay-3-bedroom-apartment/03-640.webp",
+"bytes": 30782
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "avif",
+"path": "assets/img/camps-bay-3-bedroom-apartment/03-682.avif",
+"bytes": 26278
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "webp",
+"path": "assets/img/camps-bay-3-bedroom-apartment/03-682.webp",
+"bytes": 35432
+}
+]
+},
+"data/raw/media/CfCa7afDfti/04.jpg": {
+"w": 682,
+"h": 455,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/camps-bay-3-bedroom-apartment/04-640.avif",
+"bytes": 26590
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/camps-bay-3-bedroom-apartment/04-640.webp",
+"bytes": 34662
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "avif",
+"path": "assets/img/camps-bay-3-bedroom-apartment/04-682.avif",
+"bytes": 31009
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "webp",
+"path": "assets/img/camps-bay-3-bedroom-apartment/04-682.webp",
+"bytes": 40160
+}
+]
+},
+"data/raw/media/CfCa7afDfti/05.jpg": {
+"w": 682,
+"h": 455,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/camps-bay-3-bedroom-apartment/05-640.avif",
+"bytes": 22085
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/camps-bay-3-bedroom-apartment/05-640.webp",
+"bytes": 28612
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "avif",
+"path": "assets/img/camps-bay-3-bedroom-apartment/05-682.avif",
+"bytes": 25829
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "webp",
+"path": "assets/img/camps-bay-3-bedroom-apartment/05-682.webp",
+"bytes": 34612
+}
+]
+},
+"data/raw/media/CfCa7afDfti/06.jpg": {
+"w": 682,
+"h": 455,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/camps-bay-3-bedroom-apartment/06-640.avif",
+"bytes": 12230
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/camps-bay-3-bedroom-apartment/06-640.webp",
+"bytes": 11946
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "avif",
+"path": "assets/img/camps-bay-3-bedroom-apartment/06-682.avif",
+"bytes": 15067
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "webp",
+"path": "assets/img/camps-bay-3-bedroom-apartment/06-682.webp",
+"bytes": 14226
+}
+]
+},
+"data/raw/media/CfCa7afDfti/07.jpg": {
+"w": 682,
+"h": 455,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/camps-bay-3-bedroom-apartment/07-640.avif",
+"bytes": 26028
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/camps-bay-3-bedroom-apartment/07-640.webp",
+"bytes": 37156
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "avif",
+"path": "assets/img/camps-bay-3-bedroom-apartment/07-682.avif",
+"bytes": 31324
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "webp",
+"path": "assets/img/camps-bay-3-bedroom-apartment/07-682.webp",
+"bytes": 43668
+}
+]
+},
+"data/raw/media/CfCa7afDfti/08.jpg": {
+"w": 682,
+"h": 455,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/camps-bay-3-bedroom-apartment/08-640.avif",
+"bytes": 15488
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/camps-bay-3-bedroom-apartment/08-640.webp",
+"bytes": 20666
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "avif",
+"path": "assets/img/camps-bay-3-bedroom-apartment/08-682.avif",
+"bytes": 18648
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "webp",
+"path": "assets/img/camps-bay-3-bedroom-apartment/08-682.webp",
+"bytes": 23986
+}
+]
+},
+"data/raw/media/CfCa7afDfti/09.jpg": {
+"w": 682,
+"h": 455,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/camps-bay-3-bedroom-apartment/09-640.avif",
+"bytes": 20881
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/camps-bay-3-bedroom-apartment/09-640.webp",
+"bytes": 29872
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "avif",
+"path": "assets/img/camps-bay-3-bedroom-apartment/09-682.avif",
+"bytes": 25029
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "webp",
+"path": "assets/img/camps-bay-3-bedroom-apartment/09-682.webp",
+"bytes": 35574
+}
+]
+},
+"data/raw/media/Ce-2H0PjiKQ/00.jpg": {
+"w": 768,
+"h": 576,
+"variants": [
+{
+"w": 640,
+"h": 480,
+"fmt": "avif",
+"path": "assets/img/sandhurst-5-bedroom-house/00-640.avif",
+"bytes": 44164
+},
+{
+"w": 640,
+"h": 480,
+"fmt": "webp",
+"path": "assets/img/sandhurst-5-bedroom-house/00-640.webp",
+"bytes": 65936
+},
+{
+"w": 768,
+"h": 576,
+"fmt": "avif",
+"path": "assets/img/sandhurst-5-bedroom-house/00-768.avif",
+"bytes": 64795
+},
+{
+"w": 768,
+"h": 576,
+"fmt": "webp",
+"path": "assets/img/sandhurst-5-bedroom-house/00-768.webp",
+"bytes": 96794
+}
+]
+},
+"data/raw/media/Ce-2H0PjiKQ/01.jpg": {
+"w": 771,
+"h": 581,
+"variants": [
+{
+"w": 640,
+"h": 482,
+"fmt": "avif",
+"path": "assets/img/sandhurst-5-bedroom-house/01-640.avif",
+"bytes": 29615
+},
+{
+"w": 640,
+"h": 482,
+"fmt": "webp",
+"path": "assets/img/sandhurst-5-bedroom-house/01-640.webp",
+"bytes": 42270
+},
+{
+"w": 771,
+"h": 581,
+"fmt": "avif",
+"path": "assets/img/sandhurst-5-bedroom-house/01-771.avif",
+"bytes": 44498
+},
+{
+"w": 771,
+"h": 581,
+"fmt": "webp",
+"path": "assets/img/sandhurst-5-bedroom-house/01-771.webp",
+"bytes": 62552
+}
+]
+},
+"data/raw/media/Ce-2H0PjiKQ/02.jpg": {
+"w": 770,
+"h": 579,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/sandhurst-5-bedroom-house/02-640.avif",
+"bytes": 15811
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/sandhurst-5-bedroom-house/02-640.webp",
+"bytes": 18860
+},
+{
+"w": 770,
+"h": 579,
+"fmt": "avif",
+"path": "assets/img/sandhurst-5-bedroom-house/02-770.avif",
+"bytes": 22254
+},
+{
+"w": 770,
+"h": 579,
+"fmt": "webp",
+"path": "assets/img/sandhurst-5-bedroom-house/02-770.webp",
+"bytes": 26248
+}
+]
+},
+"data/raw/media/Ce-2H0PjiKQ/03.jpg": {
+"w": 770,
+"h": 579,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/sandhurst-5-bedroom-house/03-640.avif",
+"bytes": 17421
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/sandhurst-5-bedroom-house/03-640.webp",
+"bytes": 20842
+},
+{
+"w": 770,
+"h": 579,
+"fmt": "avif",
+"path": "assets/img/sandhurst-5-bedroom-house/03-770.avif",
+"bytes": 25780
+},
+{
+"w": 770,
+"h": 579,
+"fmt": "webp",
+"path": "assets/img/sandhurst-5-bedroom-house/03-770.webp",
+"bytes": 29028
+}
+]
+},
+"data/raw/media/Ce-2H0PjiKQ/04.jpg": {
+"w": 771,
+"h": 581,
+"variants": [
+{
+"w": 640,
+"h": 482,
+"fmt": "avif",
+"path": "assets/img/sandhurst-5-bedroom-house/04-640.avif",
+"bytes": 25851
+},
+{
+"w": 640,
+"h": 482,
+"fmt": "webp",
+"path": "assets/img/sandhurst-5-bedroom-house/04-640.webp",
+"bytes": 35154
+},
+{
+"w": 771,
+"h": 581,
+"fmt": "avif",
+"path": "assets/img/sandhurst-5-bedroom-house/04-771.avif",
+"bytes": 37337
+},
+{
+"w": 771,
+"h": 581,
+"fmt": "webp",
+"path": "assets/img/sandhurst-5-bedroom-house/04-771.webp",
+"bytes": 49804
+}
+]
+},
+"data/raw/media/Ce-2H0PjiKQ/05.jpg": {
+"w": 770,
+"h": 579,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/sandhurst-5-bedroom-house/05-640.avif",
+"bytes": 28526
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/sandhurst-5-bedroom-house/05-640.webp",
+"bytes": 39806
+},
+{
+"w": 770,
+"h": 579,
+"fmt": "avif",
+"path": "assets/img/sandhurst-5-bedroom-house/05-770.avif",
+"bytes": 41770
+},
+{
+"w": 770,
+"h": 579,
+"fmt": "webp",
+"path": "assets/img/sandhurst-5-bedroom-house/05-770.webp",
+"bytes": 57008
+}
+]
+},
+"data/raw/media/Ce-2H0PjiKQ/06.jpg": {
+"w": 770,
+"h": 579,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/sandhurst-5-bedroom-house/06-640.avif",
+"bytes": 32178
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/sandhurst-5-bedroom-house/06-640.webp",
+"bytes": 46284
+},
+{
+"w": 770,
+"h": 579,
+"fmt": "avif",
+"path": "assets/img/sandhurst-5-bedroom-house/06-770.avif",
+"bytes": 45914
+},
+{
+"w": 770,
+"h": 579,
+"fmt": "webp",
+"path": "assets/img/sandhurst-5-bedroom-house/06-770.webp",
+"bytes": 64602
+}
+]
+},
+"data/raw/media/Ce-2H0PjiKQ/07.jpg": {
+"w": 770,
+"h": 579,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/sandhurst-5-bedroom-house/07-640.avif",
+"bytes": 29072
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/sandhurst-5-bedroom-house/07-640.webp",
+"bytes": 38566
+},
+{
+"w": 770,
+"h": 579,
+"fmt": "avif",
+"path": "assets/img/sandhurst-5-bedroom-house/07-770.avif",
+"bytes": 43770
+},
+{
+"w": 770,
+"h": 579,
+"fmt": "webp",
+"path": "assets/img/sandhurst-5-bedroom-house/07-770.webp",
+"bytes": 57452
+}
+]
+},
+"data/raw/media/Ce-2H0PjiKQ/08.jpg": {
+"w": 770,
+"h": 579,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/sandhurst-5-bedroom-house/08-640.avif",
+"bytes": 27161
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/sandhurst-5-bedroom-house/08-640.webp",
+"bytes": 35576
+},
+{
+"w": 770,
+"h": 579,
+"fmt": "avif",
+"path": "assets/img/sandhurst-5-bedroom-house/08-770.avif",
+"bytes": 42017
+},
+{
+"w": 770,
+"h": 579,
+"fmt": "webp",
+"path": "assets/img/sandhurst-5-bedroom-house/08-770.webp",
+"bytes": 53182
+}
+]
+},
+"data/raw/media/Ce-2H0PjiKQ/09.jpg": {
+"w": 770,
+"h": 579,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/sandhurst-5-bedroom-house/09-640.avif",
+"bytes": 25608
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/sandhurst-5-bedroom-house/09-640.webp",
+"bytes": 35640
+},
+{
+"w": 770,
+"h": 579,
+"fmt": "avif",
+"path": "assets/img/sandhurst-5-bedroom-house/09-770.avif",
+"bytes": 38448
+},
+{
+"w": 770,
+"h": 579,
+"fmt": "webp",
+"path": "assets/img/sandhurst-5-bedroom-house/09-770.webp",
+"bytes": 51550
+}
+]
+},
+"data/raw/media/Cd6WYXTjueN/00.jpg": {
+"w": 682,
+"h": 454,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/inanda-5-bedroom-house/00-640.avif",
+"bytes": 42289
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/inanda-5-bedroom-house/00-640.webp",
+"bytes": 67348
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "avif",
+"path": "assets/img/inanda-5-bedroom-house/00-682.avif",
+"bytes": 50022
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "webp",
+"path": "assets/img/inanda-5-bedroom-house/00-682.webp",
+"bytes": 79532
+}
+]
+},
+"data/raw/media/Cd6WYXTjueN/01.jpg": {
+"w": 682,
+"h": 455,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/inanda-5-bedroom-house/01-640.avif",
+"bytes": 34933
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/inanda-5-bedroom-house/01-640.webp",
+"bytes": 49260
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "avif",
+"path": "assets/img/inanda-5-bedroom-house/01-682.avif",
+"bytes": 41577
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "webp",
+"path": "assets/img/inanda-5-bedroom-house/01-682.webp",
+"bytes": 57412
+}
+]
+},
+"data/raw/media/Cd6WYXTjueN/02.jpg": {
+"w": 682,
+"h": 455,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/inanda-5-bedroom-house/02-640.avif",
+"bytes": 29554
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/inanda-5-bedroom-house/02-640.webp",
+"bytes": 41726
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "avif",
+"path": "assets/img/inanda-5-bedroom-house/02-682.avif",
+"bytes": 35255
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "webp",
+"path": "assets/img/inanda-5-bedroom-house/02-682.webp",
+"bytes": 48860
+}
+]
+},
+"data/raw/media/Cd6WYXTjueN/03.jpg": {
+"w": 682,
+"h": 455,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/inanda-5-bedroom-house/03-640.avif",
+"bytes": 31588
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/inanda-5-bedroom-house/03-640.webp",
+"bytes": 44904
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "avif",
+"path": "assets/img/inanda-5-bedroom-house/03-682.avif",
+"bytes": 37230
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "webp",
+"path": "assets/img/inanda-5-bedroom-house/03-682.webp",
+"bytes": 52530
+}
+]
+},
+"data/raw/media/Cd6WYXTjueN/04.jpg": {
+"w": 682,
+"h": 455,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/inanda-5-bedroom-house/04-640.avif",
+"bytes": 30854
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/inanda-5-bedroom-house/04-640.webp",
+"bytes": 44678
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "avif",
+"path": "assets/img/inanda-5-bedroom-house/04-682.avif",
+"bytes": 35829
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "webp",
+"path": "assets/img/inanda-5-bedroom-house/04-682.webp",
+"bytes": 51708
+}
+]
+},
+"data/raw/media/Cd6WYXTjueN/05.jpg": {
+"w": 682,
+"h": 455,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/inanda-5-bedroom-house/05-640.avif",
+"bytes": 26434
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/inanda-5-bedroom-house/05-640.webp",
+"bytes": 37772
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "avif",
+"path": "assets/img/inanda-5-bedroom-house/05-682.avif",
+"bytes": 31303
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "webp",
+"path": "assets/img/inanda-5-bedroom-house/05-682.webp",
+"bytes": 43748
+}
+]
+},
+"data/raw/media/Cd6WYXTjueN/06.jpg": {
+"w": 682,
+"h": 455,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/inanda-5-bedroom-house/06-640.avif",
+"bytes": 33019
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/inanda-5-bedroom-house/06-640.webp",
+"bytes": 49130
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "avif",
+"path": "assets/img/inanda-5-bedroom-house/06-682.avif",
+"bytes": 38711
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "webp",
+"path": "assets/img/inanda-5-bedroom-house/06-682.webp",
+"bytes": 57050
+}
+]
+},
+"data/raw/media/Cd6WYXTjueN/07.jpg": {
+"w": 682,
+"h": 455,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/inanda-5-bedroom-house/07-640.avif",
+"bytes": 32894
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/inanda-5-bedroom-house/07-640.webp",
+"bytes": 49386
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "avif",
+"path": "assets/img/inanda-5-bedroom-house/07-682.avif",
+"bytes": 38467
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "webp",
+"path": "assets/img/inanda-5-bedroom-house/07-682.webp",
+"bytes": 56884
+}
+]
+},
+"data/raw/media/Cd6WYXTjueN/08.jpg": {
+"w": 682,
+"h": 455,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/inanda-5-bedroom-house/08-640.avif",
+"bytes": 37650
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/inanda-5-bedroom-house/08-640.webp",
+"bytes": 56552
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "avif",
+"path": "assets/img/inanda-5-bedroom-house/08-682.avif",
+"bytes": 43634
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "webp",
+"path": "assets/img/inanda-5-bedroom-house/08-682.webp",
+"bytes": 65246
+}
+]
+},
+"data/raw/media/Cd6WYXTjueN/09.jpg": {
+"w": 682,
+"h": 455,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/inanda-5-bedroom-house/09-640.avif",
+"bytes": 20368
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/inanda-5-bedroom-house/09-640.webp",
+"bytes": 28398
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "avif",
+"path": "assets/img/inanda-5-bedroom-house/09-682.avif",
+"bytes": 23773
+},
+{
+"w": 682,
+"h": 455,
+"fmt": "webp",
+"path": "assets/img/inanda-5-bedroom-house/09-682.webp",
+"bytes": 32804
+}
+]
+},
+"data/raw/media/CcqUqhRM-jP/00.jpg": {
+"w": 767,
+"h": 574,
+"variants": [
+{
+"w": 640,
+"h": 479,
+"fmt": "avif",
+"path": "assets/img/simola-6-bedroom-house/00-640.avif",
+"bytes": 25768
+},
+{
+"w": 640,
+"h": 479,
+"fmt": "webp",
+"path": "assets/img/simola-6-bedroom-house/00-640.webp",
+"bytes": 30404
+},
+{
+"w": 767,
+"h": 574,
+"fmt": "avif",
+"path": "assets/img/simola-6-bedroom-house/00-767.avif",
+"bytes": 38539
+},
+{
+"w": 767,
+"h": 574,
+"fmt": "webp",
+"path": "assets/img/simola-6-bedroom-house/00-767.webp",
+"bytes": 42820
+}
+]
+},
+"data/raw/media/CcqUqhRM-jP/01.jpg": {
+"w": 771,
+"h": 580,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/simola-6-bedroom-house/01-640.avif",
+"bytes": 23608
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/simola-6-bedroom-house/01-640.webp",
+"bytes": 27494
+},
+{
+"w": 771,
+"h": 580,
+"fmt": "avif",
+"path": "assets/img/simola-6-bedroom-house/01-771.avif",
+"bytes": 36135
+},
+{
+"w": 771,
+"h": 580,
+"fmt": "webp",
+"path": "assets/img/simola-6-bedroom-house/01-771.webp",
+"bytes": 38486
+}
+]
+},
+"data/raw/media/CcqUqhRM-jP/02.jpg": {
+"w": 768,
+"h": 577,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/simola-6-bedroom-house/02-640.avif",
+"bytes": 34742
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/simola-6-bedroom-house/02-640.webp",
+"bytes": 50628
+},
+{
+"w": 768,
+"h": 577,
+"fmt": "avif",
+"path": "assets/img/simola-6-bedroom-house/02-768.avif",
+"bytes": 50008
+},
+{
+"w": 768,
+"h": 577,
+"fmt": "webp",
+"path": "assets/img/simola-6-bedroom-house/02-768.webp",
+"bytes": 69840
+}
+]
+},
+"data/raw/media/CcqUqhRM-jP/03.jpg": {
+"w": 768,
+"h": 577,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/simola-6-bedroom-house/03-640.avif",
+"bytes": 28178
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/simola-6-bedroom-house/03-640.webp",
+"bytes": 42288
+},
+{
+"w": 768,
+"h": 577,
+"fmt": "avif",
+"path": "assets/img/simola-6-bedroom-house/03-768.avif",
+"bytes": 41394
+},
+{
+"w": 768,
+"h": 577,
+"fmt": "webp",
+"path": "assets/img/simola-6-bedroom-house/03-768.webp",
+"bytes": 61380
+}
+]
+},
+"data/raw/media/CcqUqhRM-jP/04.jpg": {
+"w": 768,
+"h": 577,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/simola-6-bedroom-house/04-640.avif",
+"bytes": 27682
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/simola-6-bedroom-house/04-640.webp",
+"bytes": 38562
+},
+{
+"w": 768,
+"h": 577,
+"fmt": "avif",
+"path": "assets/img/simola-6-bedroom-house/04-768.avif",
+"bytes": 39942
+},
+{
+"w": 768,
+"h": 577,
+"fmt": "webp",
+"path": "assets/img/simola-6-bedroom-house/04-768.webp",
+"bytes": 53974
+}
+]
+},
+"data/raw/media/CcqUqhRM-jP/05.jpg": {
+"w": 768,
+"h": 577,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/simola-6-bedroom-house/05-640.avif",
+"bytes": 22284
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/simola-6-bedroom-house/05-640.webp",
+"bytes": 29214
+},
+{
+"w": 768,
+"h": 577,
+"fmt": "avif",
+"path": "assets/img/simola-6-bedroom-house/05-768.avif",
+"bytes": 31152
+},
+{
+"w": 768,
+"h": 577,
+"fmt": "webp",
+"path": "assets/img/simola-6-bedroom-house/05-768.webp",
+"bytes": 40158
+}
+]
+},
+"data/raw/media/CcqUqhRM-jP/06.jpg": {
+"w": 768,
+"h": 577,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/simola-6-bedroom-house/06-640.avif",
+"bytes": 27797
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/simola-6-bedroom-house/06-640.webp",
+"bytes": 38932
+},
+{
+"w": 768,
+"h": 577,
+"fmt": "avif",
+"path": "assets/img/simola-6-bedroom-house/06-768.avif",
+"bytes": 40289
+},
+{
+"w": 768,
+"h": 577,
+"fmt": "webp",
+"path": "assets/img/simola-6-bedroom-house/06-768.webp",
+"bytes": 52978
+}
+]
+},
+"data/raw/media/CcqUqhRM-jP/07.jpg": {
+"w": 768,
+"h": 577,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/simola-6-bedroom-house/07-640.avif",
+"bytes": 32517
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/simola-6-bedroom-house/07-640.webp",
+"bytes": 45826
+},
+{
+"w": 768,
+"h": 577,
+"fmt": "avif",
+"path": "assets/img/simola-6-bedroom-house/07-768.avif",
+"bytes": 48374
+},
+{
+"w": 768,
+"h": 577,
+"fmt": "webp",
+"path": "assets/img/simola-6-bedroom-house/07-768.webp",
+"bytes": 65254
+}
+]
+},
+"data/raw/media/CcqUqhRM-jP/08.jpg": {
+"w": 769,
+"h": 577,
+"variants": [
+{
+"w": 640,
+"h": 480,
+"fmt": "avif",
+"path": "assets/img/simola-6-bedroom-house/08-640.avif",
+"bytes": 57484
+},
+{
+"w": 640,
+"h": 480,
+"fmt": "webp",
+"path": "assets/img/simola-6-bedroom-house/08-640.webp",
+"bytes": 93330
+},
+{
+"w": 769,
+"h": 577,
+"fmt": "avif",
+"path": "assets/img/simola-6-bedroom-house/08-769.avif",
+"bytes": 81655
+},
+{
+"w": 769,
+"h": 577,
+"fmt": "webp",
+"path": "assets/img/simola-6-bedroom-house/08-769.webp",
+"bytes": 128082
+}
+]
+},
+"data/raw/media/CcqUqhRM-jP/09.jpg": {
+"w": 768,
+"h": 577,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/simola-6-bedroom-house/09-640.avif",
+"bytes": 33257
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/simola-6-bedroom-house/09-640.webp",
+"bytes": 52028
+},
+{
+"w": 768,
+"h": 577,
+"fmt": "avif",
+"path": "assets/img/simola-6-bedroom-house/09-768.avif",
+"bytes": 47469
+},
+{
+"w": 768,
+"h": 577,
+"fmt": "webp",
+"path": "assets/img/simola-6-bedroom-house/09-768.webp",
+"bytes": 74440
+}
+]
+},
+"data/raw/media/CZW6ksTskQ8/00.jpg": {
+"w": 768,
+"h": 576,
+"variants": [
+{
+"w": 640,
+"h": 480,
+"fmt": "avif",
+"path": "assets/img/oubaai-5-bedroom-house/00-640.avif",
+"bytes": 35171
+},
+{
+"w": 640,
+"h": 480,
+"fmt": "webp",
+"path": "assets/img/oubaai-5-bedroom-house/00-640.webp",
+"bytes": 52368
+},
+{
+"w": 768,
+"h": 576,
+"fmt": "avif",
+"path": "assets/img/oubaai-5-bedroom-house/00-768.avif",
+"bytes": 50574
+},
+{
+"w": 768,
+"h": 576,
+"fmt": "webp",
+"path": "assets/img/oubaai-5-bedroom-house/00-768.webp",
+"bytes": 72712
+}
+]
+},
+"data/raw/media/CZW6ksTskQ8/01.jpg": {
+"w": 771,
+"h": 581,
+"variants": [
+{
+"w": 640,
+"h": 482,
+"fmt": "avif",
+"path": "assets/img/oubaai-5-bedroom-house/01-640.avif",
+"bytes": 30270
+},
+{
+"w": 640,
+"h": 482,
+"fmt": "webp",
+"path": "assets/img/oubaai-5-bedroom-house/01-640.webp",
+"bytes": 43894
+},
+{
+"w": 771,
+"h": 581,
+"fmt": "avif",
+"path": "assets/img/oubaai-5-bedroom-house/01-771.avif",
+"bytes": 42659
+},
+{
+"w": 771,
+"h": 581,
+"fmt": "webp",
+"path": "assets/img/oubaai-5-bedroom-house/01-771.webp",
+"bytes": 60318
+}
+]
+},
+"data/raw/media/CZW6ksTskQ8/02.jpg": {
+"w": 771,
+"h": 581,
+"variants": [
+{
+"w": 640,
+"h": 482,
+"fmt": "avif",
+"path": "assets/img/oubaai-5-bedroom-house/02-640.avif",
+"bytes": 24003
+},
+{
+"w": 640,
+"h": 482,
+"fmt": "webp",
+"path": "assets/img/oubaai-5-bedroom-house/02-640.webp",
+"bytes": 32764
+},
+{
+"w": 771,
+"h": 581,
+"fmt": "avif",
+"path": "assets/img/oubaai-5-bedroom-house/02-771.avif",
+"bytes": 34273
+},
+{
+"w": 771,
+"h": 581,
+"fmt": "webp",
+"path": "assets/img/oubaai-5-bedroom-house/02-771.webp",
+"bytes": 45908
+}
+]
+},
+"data/raw/media/CZW6ksTskQ8/03.jpg": {
+"w": 770,
+"h": 579,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/oubaai-5-bedroom-house/03-640.avif",
+"bytes": 22788
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/oubaai-5-bedroom-house/03-640.webp",
+"bytes": 29634
+},
+{
+"w": 770,
+"h": 579,
+"fmt": "avif",
+"path": "assets/img/oubaai-5-bedroom-house/03-770.avif",
+"bytes": 32251
+},
+{
+"w": 770,
+"h": 579,
+"fmt": "webp",
+"path": "assets/img/oubaai-5-bedroom-house/03-770.webp",
+"bytes": 40812
+}
+]
+},
+"data/raw/media/CZW6ksTskQ8/04.jpg": {
+"w": 770,
+"h": 579,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/oubaai-5-bedroom-house/04-640.avif",
+"bytes": 23517
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/oubaai-5-bedroom-house/04-640.webp",
+"bytes": 28270
+},
+{
+"w": 770,
+"h": 579,
+"fmt": "avif",
+"path": "assets/img/oubaai-5-bedroom-house/04-770.avif",
+"bytes": 33662
+},
+{
+"w": 770,
+"h": 579,
+"fmt": "webp",
+"path": "assets/img/oubaai-5-bedroom-house/04-770.webp",
+"bytes": 39784
+}
+]
+},
+"data/raw/media/CZW6ksTskQ8/05.jpg": {
+"w": 771,
+"h": 581,
+"variants": [
+{
+"w": 640,
+"h": 482,
+"fmt": "avif",
+"path": "assets/img/oubaai-5-bedroom-house/05-640.avif",
+"bytes": 29978
+},
+{
+"w": 640,
+"h": 482,
+"fmt": "webp",
+"path": "assets/img/oubaai-5-bedroom-house/05-640.webp",
+"bytes": 42944
+},
+{
+"w": 771,
+"h": 581,
+"fmt": "avif",
+"path": "assets/img/oubaai-5-bedroom-house/05-771.avif",
+"bytes": 41250
+},
+{
+"w": 771,
+"h": 581,
+"fmt": "webp",
+"path": "assets/img/oubaai-5-bedroom-house/05-771.webp",
+"bytes": 56678
+}
+]
+},
+"data/raw/media/CZW6ksTskQ8/06.jpg": {
+"w": 770,
+"h": 579,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/oubaai-5-bedroom-house/06-640.avif",
+"bytes": 24890
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/oubaai-5-bedroom-house/06-640.webp",
+"bytes": 39572
+},
+{
+"w": 770,
+"h": 579,
+"fmt": "avif",
+"path": "assets/img/oubaai-5-bedroom-house/06-770.avif",
+"bytes": 36600
+},
+{
+"w": 770,
+"h": 579,
+"fmt": "webp",
+"path": "assets/img/oubaai-5-bedroom-house/06-770.webp",
+"bytes": 58012
+}
+]
+},
+"data/raw/media/CZW6ksTskQ8/07.jpg": {
+"w": 770,
+"h": 579,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/oubaai-5-bedroom-house/07-640.avif",
+"bytes": 33471
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/oubaai-5-bedroom-house/07-640.webp",
+"bytes": 48876
+},
+{
+"w": 770,
+"h": 579,
+"fmt": "avif",
+"path": "assets/img/oubaai-5-bedroom-house/07-770.avif",
+"bytes": 47308
+},
+{
+"w": 770,
+"h": 579,
+"fmt": "webp",
+"path": "assets/img/oubaai-5-bedroom-house/07-770.webp",
+"bytes": 68388
+}
+]
+},
+"data/raw/media/CZW6ksTskQ8/08.jpg": {
+"w": 770,
+"h": 579,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/oubaai-5-bedroom-house/08-640.avif",
+"bytes": 23258
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/oubaai-5-bedroom-house/08-640.webp",
+"bytes": 38900
+},
+{
+"w": 770,
+"h": 579,
+"fmt": "avif",
+"path": "assets/img/oubaai-5-bedroom-house/08-770.avif",
+"bytes": 35381
+},
+{
+"w": 770,
+"h": 579,
+"fmt": "webp",
+"path": "assets/img/oubaai-5-bedroom-house/08-770.webp",
+"bytes": 57488
+}
+]
+},
+"data/raw/media/CZW6ksTskQ8/09.jpg": {
+"w": 770,
+"h": 581,
+"variants": [
+{
+"w": 640,
+"h": 483,
+"fmt": "avif",
+"path": "assets/img/oubaai-5-bedroom-house/09-640.avif",
+"bytes": 47534
+},
+{
+"w": 640,
+"h": 483,
+"fmt": "webp",
+"path": "assets/img/oubaai-5-bedroom-house/09-640.webp",
+"bytes": 75364
+},
+{
+"w": 770,
+"h": 581,
+"fmt": "avif",
+"path": "assets/img/oubaai-5-bedroom-house/09-770.avif",
+"bytes": 68058
+},
+{
+"w": 770,
+"h": 581,
+"fmt": "webp",
+"path": "assets/img/oubaai-5-bedroom-house/09-770.webp",
+"bytes": 105392
+}
+]
+},
+"data/raw/media/CYwpVUBM7Yx/00.jpg": {
+"w": 720,
+"h": 540,
+"variants": [
+{
+"w": 640,
+"h": 480,
+"fmt": "avif",
+"path": "assets/img/royal-alfred-marina-5-bedroom-house/00-640.avif",
+"bytes": 38886
+},
+{
+"w": 640,
+"h": 480,
+"fmt": "webp",
+"path": "assets/img/royal-alfred-marina-5-bedroom-house/00-640.webp",
+"bytes": 58066
+},
+{
+"w": 720,
+"h": 540,
+"fmt": "avif",
+"path": "assets/img/royal-alfred-marina-5-bedroom-house/00-720.avif",
+"bytes": 50481
+},
+{
+"w": 720,
+"h": 540,
+"fmt": "webp",
+"path": "assets/img/royal-alfred-marina-5-bedroom-house/00-720.webp",
+"bytes": 75522
+}
+]
+},
+"data/raw/media/CYwpVUBM7Yx/01.jpg": {
+"w": 720,
+"h": 541,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/royal-alfred-marina-5-bedroom-house/01-640.avif",
+"bytes": 27303
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/royal-alfred-marina-5-bedroom-house/01-640.webp",
+"bytes": 36356
+},
+{
+"w": 720,
+"h": 541,
+"fmt": "avif",
+"path": "assets/img/royal-alfred-marina-5-bedroom-house/01-720.avif",
+"bytes": 33829
+},
+{
+"w": 720,
+"h": 541,
+"fmt": "webp",
+"path": "assets/img/royal-alfred-marina-5-bedroom-house/01-720.webp",
+"bytes": 44328
+}
+]
+},
+"data/raw/media/CYwpVUBM7Yx/02.jpg": {
+"w": 720,
+"h": 541,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/royal-alfred-marina-5-bedroom-house/02-640.avif",
+"bytes": 29515
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/royal-alfred-marina-5-bedroom-house/02-640.webp",
+"bytes": 44160
+},
+{
+"w": 720,
+"h": 541,
+"fmt": "avif",
+"path": "assets/img/royal-alfred-marina-5-bedroom-house/02-720.avif",
+"bytes": 36237
+},
+{
+"w": 720,
+"h": 541,
+"fmt": "webp",
+"path": "assets/img/royal-alfred-marina-5-bedroom-house/02-720.webp",
+"bytes": 54358
+}
+]
+},
+"data/raw/media/CYwpVUBM7Yx/03.jpg": {
+"w": 720,
+"h": 541,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/royal-alfred-marina-5-bedroom-house/03-640.avif",
+"bytes": 25467
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/royal-alfred-marina-5-bedroom-house/03-640.webp",
+"bytes": 33862
+},
+{
+"w": 720,
+"h": 541,
+"fmt": "avif",
+"path": "assets/img/royal-alfred-marina-5-bedroom-house/03-720.avif",
+"bytes": 32042
+},
+{
+"w": 720,
+"h": 541,
+"fmt": "webp",
+"path": "assets/img/royal-alfred-marina-5-bedroom-house/03-720.webp",
+"bytes": 41306
+}
+]
+},
+"data/raw/media/CYwpVUBM7Yx/04.jpg": {
+"w": 720,
+"h": 541,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/royal-alfred-marina-5-bedroom-house/04-640.avif",
+"bytes": 23248
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/royal-alfred-marina-5-bedroom-house/04-640.webp",
+"bytes": 31250
+},
+{
+"w": 720,
+"h": 541,
+"fmt": "avif",
+"path": "assets/img/royal-alfred-marina-5-bedroom-house/04-720.avif",
+"bytes": 29031
+},
+{
+"w": 720,
+"h": 541,
+"fmt": "webp",
+"path": "assets/img/royal-alfred-marina-5-bedroom-house/04-720.webp",
+"bytes": 38160
+}
+]
+},
+"data/raw/media/CYwpVUBM7Yx/05.jpg": {
+"w": 720,
+"h": 541,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/royal-alfred-marina-5-bedroom-house/05-640.avif",
+"bytes": 26742
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/royal-alfred-marina-5-bedroom-house/05-640.webp",
+"bytes": 39266
+},
+{
+"w": 720,
+"h": 541,
+"fmt": "avif",
+"path": "assets/img/royal-alfred-marina-5-bedroom-house/05-720.avif",
+"bytes": 32694
+},
+{
+"w": 720,
+"h": 541,
+"fmt": "webp",
+"path": "assets/img/royal-alfred-marina-5-bedroom-house/05-720.webp",
+"bytes": 48008
+}
+]
+},
+"data/raw/media/CYwpVUBM7Yx/06.jpg": {
+"w": 720,
+"h": 541,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/royal-alfred-marina-5-bedroom-house/06-640.avif",
+"bytes": 27627
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/royal-alfred-marina-5-bedroom-house/06-640.webp",
+"bytes": 41676
+},
+{
+"w": 720,
+"h": 541,
+"fmt": "avif",
+"path": "assets/img/royal-alfred-marina-5-bedroom-house/06-720.avif",
+"bytes": 34918
+},
+{
+"w": 720,
+"h": 541,
+"fmt": "webp",
+"path": "assets/img/royal-alfred-marina-5-bedroom-house/06-720.webp",
+"bytes": 51434
+}
+]
+},
+"data/raw/media/CYwpVUBM7Yx/07.jpg": {
+"w": 720,
+"h": 541,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/royal-alfred-marina-5-bedroom-house/07-640.avif",
+"bytes": 20273
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/royal-alfred-marina-5-bedroom-house/07-640.webp",
+"bytes": 26482
+},
+{
+"w": 720,
+"h": 541,
+"fmt": "avif",
+"path": "assets/img/royal-alfred-marina-5-bedroom-house/07-720.avif",
+"bytes": 26140
+},
+{
+"w": 720,
+"h": 541,
+"fmt": "webp",
+"path": "assets/img/royal-alfred-marina-5-bedroom-house/07-720.webp",
+"bytes": 32672
+}
+]
+},
+"data/raw/media/CYwpVUBM7Yx/08.jpg": {
+"w": 720,
+"h": 541,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/royal-alfred-marina-5-bedroom-house/08-640.avif",
+"bytes": 26758
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/royal-alfred-marina-5-bedroom-house/08-640.webp",
+"bytes": 40446
+},
+{
+"w": 720,
+"h": 541,
+"fmt": "avif",
+"path": "assets/img/royal-alfred-marina-5-bedroom-house/08-720.avif",
+"bytes": 33558
+},
+{
+"w": 720,
+"h": 541,
+"fmt": "webp",
+"path": "assets/img/royal-alfred-marina-5-bedroom-house/08-720.webp",
+"bytes": 49596
+}
+]
+},
+"data/raw/media/CYPQYRFs4tk/00.jpg": {
+"w": 1065,
+"h": 710,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/zimbali-5-bedroom-house/00-640.avif",
+"bytes": 27515
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/zimbali-5-bedroom-house/00-640.webp",
+"bytes": 41326
+},
+{
+"w": 1065,
+"h": 710,
+"fmt": "avif",
+"path": "assets/img/zimbali-5-bedroom-house/00-1065.avif",
+"bytes": 74600
+},
+{
+"w": 1065,
+"h": 710,
+"fmt": "webp",
+"path": "assets/img/zimbali-5-bedroom-house/00-1065.webp",
+"bytes": 105754
+}
+]
+},
+"data/raw/media/CYPQYRFs4tk/01.jpg": {
+"w": 1066,
+"h": 711,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/zimbali-5-bedroom-house/01-640.avif",
+"bytes": 18770
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/zimbali-5-bedroom-house/01-640.webp",
+"bytes": 23880
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "avif",
+"path": "assets/img/zimbali-5-bedroom-house/01-1066.avif",
+"bytes": 47131
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "webp",
+"path": "assets/img/zimbali-5-bedroom-house/01-1066.webp",
+"bytes": 52684
+}
+]
+},
+"data/raw/media/CYPQYRFs4tk/02.jpg": {
+"w": 1066,
+"h": 711,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/zimbali-5-bedroom-house/02-640.avif",
+"bytes": 20148
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/zimbali-5-bedroom-house/02-640.webp",
+"bytes": 27958
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "avif",
+"path": "assets/img/zimbali-5-bedroom-house/02-1066.avif",
+"bytes": 47202
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "webp",
+"path": "assets/img/zimbali-5-bedroom-house/02-1066.webp",
+"bytes": 60332
+}
+]
+},
+"data/raw/media/CYPQYRFs4tk/03.jpg": {
+"w": 1066,
+"h": 711,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/zimbali-5-bedroom-house/03-640.avif",
+"bytes": 19196
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/zimbali-5-bedroom-house/03-640.webp",
+"bytes": 26410
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "avif",
+"path": "assets/img/zimbali-5-bedroom-house/03-1066.avif",
+"bytes": 48213
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "webp",
+"path": "assets/img/zimbali-5-bedroom-house/03-1066.webp",
+"bytes": 59240
+}
+]
+},
+"data/raw/media/CYPQYRFs4tk/04.jpg": {
+"w": 1066,
+"h": 711,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/zimbali-5-bedroom-house/04-640.avif",
+"bytes": 24549
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/zimbali-5-bedroom-house/04-640.webp",
+"bytes": 35114
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "avif",
+"path": "assets/img/zimbali-5-bedroom-house/04-1066.avif",
+"bytes": 57844
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "webp",
+"path": "assets/img/zimbali-5-bedroom-house/04-1066.webp",
+"bytes": 74722
+}
+]
+},
+"data/raw/media/CYPQYRFs4tk/05.jpg": {
+"w": 1066,
+"h": 711,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/zimbali-5-bedroom-house/05-640.avif",
+"bytes": 22947
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/zimbali-5-bedroom-house/05-640.webp",
+"bytes": 31228
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "avif",
+"path": "assets/img/zimbali-5-bedroom-house/05-1066.avif",
+"bytes": 61165
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "webp",
+"path": "assets/img/zimbali-5-bedroom-house/05-1066.webp",
+"bytes": 75456
+}
+]
+},
+"data/raw/media/CYPQYRFs4tk/06.jpg": {
+"w": 1066,
+"h": 711,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/zimbali-5-bedroom-house/06-640.avif",
+"bytes": 25008
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/zimbali-5-bedroom-house/06-640.webp",
+"bytes": 38612
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "avif",
+"path": "assets/img/zimbali-5-bedroom-house/06-1066.avif",
+"bytes": 63509
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "webp",
+"path": "assets/img/zimbali-5-bedroom-house/06-1066.webp",
+"bytes": 87864
+}
+]
+},
+"data/raw/media/CYPQYRFs4tk/07.jpg": {
+"w": 1066,
+"h": 711,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/zimbali-5-bedroom-house/07-640.avif",
+"bytes": 16513
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/zimbali-5-bedroom-house/07-640.webp",
+"bytes": 18796
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "avif",
+"path": "assets/img/zimbali-5-bedroom-house/07-1066.avif",
+"bytes": 40044
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "webp",
+"path": "assets/img/zimbali-5-bedroom-house/07-1066.webp",
+"bytes": 40914
+}
+]
+},
+"data/raw/media/CYPQYRFs4tk/08.jpg": {
+"w": 1066,
+"h": 711,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/zimbali-5-bedroom-house/08-640.avif",
+"bytes": 16763
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/zimbali-5-bedroom-house/08-640.webp",
+"bytes": 20588
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "avif",
+"path": "assets/img/zimbali-5-bedroom-house/08-1066.avif",
+"bytes": 44428
+},
+{
+"w": 1066,
+"h": 711,
+"fmt": "webp",
+"path": "assets/img/zimbali-5-bedroom-house/08-1066.webp",
+"bytes": 50458
+}
+]
+},
+"data/raw/media/CV3j3vGMHFW/00.jpg": {
+"w": 683,
+"h": 455,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/plettenberg-bay-4-bedroom-house/00-640.avif",
+"bytes": 29160
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/plettenberg-bay-4-bedroom-house/00-640.webp",
+"bytes": 42292
+},
+{
+"w": 683,
+"h": 455,
+"fmt": "avif",
+"path": "assets/img/plettenberg-bay-4-bedroom-house/00-683.avif",
+"bytes": 34677
+},
+{
+"w": 683,
+"h": 455,
+"fmt": "webp",
+"path": "assets/img/plettenberg-bay-4-bedroom-house/00-683.webp",
+"bytes": 50224
+}
+]
+},
+"data/raw/media/CV3j3vGMHFW/01.jpg": {
+"w": 685,
+"h": 458,
+"variants": [
+{
+"w": 640,
+"h": 428,
+"fmt": "avif",
+"path": "assets/img/plettenberg-bay-4-bedroom-house/01-640.avif",
+"bytes": 18765
+},
+{
+"w": 640,
+"h": 428,
+"fmt": "webp",
+"path": "assets/img/plettenberg-bay-4-bedroom-house/01-640.webp",
+"bytes": 23818
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "avif",
+"path": "assets/img/plettenberg-bay-4-bedroom-house/01-685.avif",
+"bytes": 22492
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "webp",
+"path": "assets/img/plettenberg-bay-4-bedroom-house/01-685.webp",
+"bytes": 27832
+}
+]
+},
+"data/raw/media/CV3j3vGMHFW/02.jpg": {
+"w": 685,
+"h": 458,
+"variants": [
+{
+"w": 640,
+"h": 428,
+"fmt": "avif",
+"path": "assets/img/plettenberg-bay-4-bedroom-house/02-640.avif",
+"bytes": 23915
+},
+{
+"w": 640,
+"h": 428,
+"fmt": "webp",
+"path": "assets/img/plettenberg-bay-4-bedroom-house/02-640.webp",
+"bytes": 33634
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "avif",
+"path": "assets/img/plettenberg-bay-4-bedroom-house/02-685.avif",
+"bytes": 28498
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "webp",
+"path": "assets/img/plettenberg-bay-4-bedroom-house/02-685.webp",
+"bytes": 39388
+}
+]
+},
+"data/raw/media/CV3j3vGMHFW/03.jpg": {
+"w": 685,
+"h": 458,
+"variants": [
+{
+"w": 640,
+"h": 428,
+"fmt": "avif",
+"path": "assets/img/plettenberg-bay-4-bedroom-house/03-640.avif",
+"bytes": 26828
+},
+{
+"w": 640,
+"h": 428,
+"fmt": "webp",
+"path": "assets/img/plettenberg-bay-4-bedroom-house/03-640.webp",
+"bytes": 37918
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "avif",
+"path": "assets/img/plettenberg-bay-4-bedroom-house/03-685.avif",
+"bytes": 32099
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "webp",
+"path": "assets/img/plettenberg-bay-4-bedroom-house/03-685.webp",
+"bytes": 44372
+}
+]
+},
+"data/raw/media/CV3j3vGMHFW/04.jpg": {
+"w": 685,
+"h": 458,
+"variants": [
+{
+"w": 640,
+"h": 428,
+"fmt": "avif",
+"path": "assets/img/plettenberg-bay-4-bedroom-house/04-640.avif",
+"bytes": 20455
+},
+{
+"w": 640,
+"h": 428,
+"fmt": "webp",
+"path": "assets/img/plettenberg-bay-4-bedroom-house/04-640.webp",
+"bytes": 27126
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "avif",
+"path": "assets/img/plettenberg-bay-4-bedroom-house/04-685.avif",
+"bytes": 24938
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "webp",
+"path": "assets/img/plettenberg-bay-4-bedroom-house/04-685.webp",
+"bytes": 31742
+}
+]
+},
+"data/raw/media/CV3j3vGMHFW/05.jpg": {
+"w": 685,
+"h": 458,
+"variants": [
+{
+"w": 640,
+"h": 428,
+"fmt": "avif",
+"path": "assets/img/plettenberg-bay-4-bedroom-house/05-640.avif",
+"bytes": 25022
+},
+{
+"w": 640,
+"h": 428,
+"fmt": "webp",
+"path": "assets/img/plettenberg-bay-4-bedroom-house/05-640.webp",
+"bytes": 34690
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "avif",
+"path": "assets/img/plettenberg-bay-4-bedroom-house/05-685.avif",
+"bytes": 30611
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "webp",
+"path": "assets/img/plettenberg-bay-4-bedroom-house/05-685.webp",
+"bytes": 41192
+}
+]
+},
+"data/raw/media/CV3j3vGMHFW/06.jpg": {
+"w": 685,
+"h": 458,
+"variants": [
+{
+"w": 640,
+"h": 428,
+"fmt": "avif",
+"path": "assets/img/plettenberg-bay-4-bedroom-house/06-640.avif",
+"bytes": 14175
+},
+{
+"w": 640,
+"h": 428,
+"fmt": "webp",
+"path": "assets/img/plettenberg-bay-4-bedroom-house/06-640.webp",
+"bytes": 16188
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "avif",
+"path": "assets/img/plettenberg-bay-4-bedroom-house/06-685.avif",
+"bytes": 17038
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "webp",
+"path": "assets/img/plettenberg-bay-4-bedroom-house/06-685.webp",
+"bytes": 18930
+}
+]
+},
+"data/raw/media/CV3j3vGMHFW/07.jpg": {
+"w": 685,
+"h": 458,
+"variants": [
+{
+"w": 640,
+"h": 428,
+"fmt": "avif",
+"path": "assets/img/plettenberg-bay-4-bedroom-house/07-640.avif",
+"bytes": 27477
+},
+{
+"w": 640,
+"h": 428,
+"fmt": "webp",
+"path": "assets/img/plettenberg-bay-4-bedroom-house/07-640.webp",
+"bytes": 41144
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "avif",
+"path": "assets/img/plettenberg-bay-4-bedroom-house/07-685.avif",
+"bytes": 33074
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "webp",
+"path": "assets/img/plettenberg-bay-4-bedroom-house/07-685.webp",
+"bytes": 49234
+}
+]
+},
+"data/raw/media/CV3j3vGMHFW/08.jpg": {
+"w": 685,
+"h": 458,
+"variants": [
+{
+"w": 640,
+"h": 428,
+"fmt": "avif",
+"path": "assets/img/plettenberg-bay-4-bedroom-house/08-640.avif",
+"bytes": 29773
+},
+{
+"w": 640,
+"h": 428,
+"fmt": "webp",
+"path": "assets/img/plettenberg-bay-4-bedroom-house/08-640.webp",
+"bytes": 44712
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "avif",
+"path": "assets/img/plettenberg-bay-4-bedroom-house/08-685.avif",
+"bytes": 35864
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "webp",
+"path": "assets/img/plettenberg-bay-4-bedroom-house/08-685.webp",
+"bytes": 52168
+}
+]
+},
+"data/raw/media/CV3j3vGMHFW/09.jpg": {
+"w": 685,
+"h": 458,
+"variants": [
+{
+"w": 640,
+"h": 428,
+"fmt": "avif",
+"path": "assets/img/plettenberg-bay-4-bedroom-house/09-640.avif",
+"bytes": 26178
+},
+{
+"w": 640,
+"h": 428,
+"fmt": "webp",
+"path": "assets/img/plettenberg-bay-4-bedroom-house/09-640.webp",
+"bytes": 37590
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "avif",
+"path": "assets/img/plettenberg-bay-4-bedroom-house/09-685.avif",
+"bytes": 31404
+},
+{
+"w": 685,
+"h": 458,
+"fmt": "webp",
+"path": "assets/img/plettenberg-bay-4-bedroom-house/09-685.webp",
+"bytes": 44670
+}
+]
+},
+"data/raw/media/CQZXjqWjx-2/00.jpg": {
+"w": 576,
+"h": 324,
+"variants": [
+{
+"w": 576,
+"h": 324,
+"fmt": "avif",
+"path": "assets/img/hawaan-forest-5-bedroom-house/00-576.avif",
+"bytes": 33296
+},
+{
+"w": 576,
+"h": 324,
+"fmt": "webp",
+"path": "assets/img/hawaan-forest-5-bedroom-house/00-576.webp",
+"bytes": 53510
+}
+]
+},
+"data/raw/media/CQZXjqWjx-2/01.jpg": {
+"w": 578,
+"h": 327,
+"variants": [
+{
+"w": 578,
+"h": 327,
+"fmt": "avif",
+"path": "assets/img/hawaan-forest-5-bedroom-house/01-578.avif",
+"bytes": 23885
+},
+{
+"w": 578,
+"h": 327,
+"fmt": "webp",
+"path": "assets/img/hawaan-forest-5-bedroom-house/01-578.webp",
+"bytes": 37522
+}
+]
+},
+"data/raw/media/CQZXjqWjx-2/02.jpg": {
+"w": 577,
+"h": 325,
+"variants": [
+{
+"w": 577,
+"h": 325,
+"fmt": "avif",
+"path": "assets/img/hawaan-forest-5-bedroom-house/02-577.avif",
+"bytes": 20410
+},
+{
+"w": 577,
+"h": 325,
+"fmt": "webp",
+"path": "assets/img/hawaan-forest-5-bedroom-house/02-577.webp",
+"bytes": 28624
+}
+]
+},
+"data/raw/media/CQZXjqWjx-2/03.jpg": {
+"w": 577,
+"h": 325,
+"variants": [
+{
+"w": 577,
+"h": 325,
+"fmt": "avif",
+"path": "assets/img/hawaan-forest-5-bedroom-house/03-577.avif",
+"bytes": 14415
+},
+{
+"w": 577,
+"h": 325,
+"fmt": "webp",
+"path": "assets/img/hawaan-forest-5-bedroom-house/03-577.webp",
+"bytes": 20070
+}
+]
+},
+"data/raw/media/CQZXjqWjx-2/04.jpg": {
+"w": 578,
+"h": 327,
+"variants": [
+{
+"w": 578,
+"h": 327,
+"fmt": "avif",
+"path": "assets/img/hawaan-forest-5-bedroom-house/04-578.avif",
+"bytes": 23623
+},
+{
+"w": 578,
+"h": 327,
+"fmt": "webp",
+"path": "assets/img/hawaan-forest-5-bedroom-house/04-578.webp",
+"bytes": 35892
+}
+]
+},
+"data/raw/media/CQZXjqWjx-2/05.jpg": {
+"w": 577,
+"h": 325,
+"variants": [
+{
+"w": 577,
+"h": 325,
+"fmt": "avif",
+"path": "assets/img/hawaan-forest-5-bedroom-house/05-577.avif",
+"bytes": 14671
+},
+{
+"w": 577,
+"h": 325,
+"fmt": "webp",
+"path": "assets/img/hawaan-forest-5-bedroom-house/05-577.webp",
+"bytes": 21962
+}
+]
+},
+"data/raw/media/CQZXjqWjx-2/06.jpg": {
+"w": 577,
+"h": 325,
+"variants": [
+{
+"w": 577,
+"h": 325,
+"fmt": "avif",
+"path": "assets/img/hawaan-forest-5-bedroom-house/06-577.avif",
+"bytes": 12923
+},
+{
+"w": 577,
+"h": 325,
+"fmt": "webp",
+"path": "assets/img/hawaan-forest-5-bedroom-house/06-577.webp",
+"bytes": 16768
+}
+]
+},
+"data/raw/media/CQZXjqWjx-2/07.jpg": {
+"w": 577,
+"h": 325,
+"variants": [
+{
+"w": 577,
+"h": 325,
+"fmt": "avif",
+"path": "assets/img/hawaan-forest-5-bedroom-house/07-577.avif",
+"bytes": 11682
+},
+{
+"w": 577,
+"h": 325,
+"fmt": "webp",
+"path": "assets/img/hawaan-forest-5-bedroom-house/07-577.webp",
+"bytes": 13780
+}
+]
+},
+"data/raw/media/CQZXjqWjx-2/08.jpg": {
+"w": 578,
+"h": 327,
+"variants": [
+{
+"w": 578,
+"h": 327,
+"fmt": "avif",
+"path": "assets/img/hawaan-forest-5-bedroom-house/08-578.avif",
+"bytes": 10671
+},
+{
+"w": 578,
+"h": 327,
+"fmt": "webp",
+"path": "assets/img/hawaan-forest-5-bedroom-house/08-578.webp",
+"bytes": 13466
+}
+]
+},
+"data/raw/media/CQZXjqWjx-2/09.jpg": {
+"w": 577,
+"h": 325,
+"variants": [
+{
+"w": 577,
+"h": 325,
+"fmt": "avif",
+"path": "assets/img/hawaan-forest-5-bedroom-house/09-577.avif",
+"bytes": 31453
+},
+{
+"w": 577,
+"h": 325,
+"fmt": "webp",
+"path": "assets/img/hawaan-forest-5-bedroom-house/09-577.webp",
+"bytes": 48888
+}
+]
+},
+"data/raw/media/CQI3b1LDMUd/00.jpg": {
+"w": 768,
+"h": 576,
+"variants": [
+{
+"w": 640,
+"h": 480,
+"fmt": "avif",
+"path": "assets/img/waterfall-5-bedroom-house-2/00-640.avif",
+"bytes": 31066
+},
+{
+"w": 640,
+"h": 480,
+"fmt": "webp",
+"path": "assets/img/waterfall-5-bedroom-house-2/00-640.webp",
+"bytes": 43722
+},
+{
+"w": 768,
+"h": 576,
+"fmt": "avif",
+"path": "assets/img/waterfall-5-bedroom-house-2/00-768.avif",
+"bytes": 43683
+},
+{
+"w": 768,
+"h": 576,
+"fmt": "webp",
+"path": "assets/img/waterfall-5-bedroom-house-2/00-768.webp",
+"bytes": 60906
+}
+]
+},
+"data/raw/media/CQI3b1LDMUd/01.jpg": {
+"w": 770,
+"h": 579,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/waterfall-5-bedroom-house-2/01-640.avif",
+"bytes": 33086
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/waterfall-5-bedroom-house-2/01-640.webp",
+"bytes": 46522
+},
+{
+"w": 770,
+"h": 579,
+"fmt": "avif",
+"path": "assets/img/waterfall-5-bedroom-house-2/01-770.avif",
+"bytes": 46590
+},
+{
+"w": 770,
+"h": 579,
+"fmt": "webp",
+"path": "assets/img/waterfall-5-bedroom-house-2/01-770.webp",
+"bytes": 64014
+}
+]
+},
+"data/raw/media/CQI3b1LDMUd/02.jpg": {
+"w": 771,
+"h": 581,
+"variants": [
+{
+"w": 640,
+"h": 482,
+"fmt": "avif",
+"path": "assets/img/waterfall-5-bedroom-house-2/02-640.avif",
+"bytes": 29475
+},
+{
+"w": 640,
+"h": 482,
+"fmt": "webp",
+"path": "assets/img/waterfall-5-bedroom-house-2/02-640.webp",
+"bytes": 42648
+},
+{
+"w": 771,
+"h": 581,
+"fmt": "avif",
+"path": "assets/img/waterfall-5-bedroom-house-2/02-771.avif",
+"bytes": 42287
+},
+{
+"w": 771,
+"h": 581,
+"fmt": "webp",
+"path": "assets/img/waterfall-5-bedroom-house-2/02-771.webp",
+"bytes": 59736
+}
+]
+},
+"data/raw/media/CQI3b1LDMUd/03.jpg": {
+"w": 770,
+"h": 579,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/waterfall-5-bedroom-house-2/03-640.avif",
+"bytes": 23210
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/waterfall-5-bedroom-house-2/03-640.webp",
+"bytes": 29568
+},
+{
+"w": 770,
+"h": 579,
+"fmt": "avif",
+"path": "assets/img/waterfall-5-bedroom-house-2/03-770.avif",
+"bytes": 33692
+},
+{
+"w": 770,
+"h": 579,
+"fmt": "webp",
+"path": "assets/img/waterfall-5-bedroom-house-2/03-770.webp",
+"bytes": 41640
+}
+]
+},
+"data/raw/media/CQI3b1LDMUd/04.jpg": {
+"w": 771,
+"h": 581,
+"variants": [
+{
+"w": 640,
+"h": 482,
+"fmt": "avif",
+"path": "assets/img/waterfall-5-bedroom-house-2/04-640.avif",
+"bytes": 23858
+},
+{
+"w": 640,
+"h": 482,
+"fmt": "webp",
+"path": "assets/img/waterfall-5-bedroom-house-2/04-640.webp",
+"bytes": 33178
+},
+{
+"w": 771,
+"h": 581,
+"fmt": "avif",
+"path": "assets/img/waterfall-5-bedroom-house-2/04-771.avif",
+"bytes": 34522
+},
+{
+"w": 771,
+"h": 581,
+"fmt": "webp",
+"path": "assets/img/waterfall-5-bedroom-house-2/04-771.webp",
+"bytes": 46728
+}
+]
+},
+"data/raw/media/CQI3b1LDMUd/05.jpg": {
+"w": 770,
+"h": 579,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/waterfall-5-bedroom-house-2/05-640.avif",
+"bytes": 25835
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/waterfall-5-bedroom-house-2/05-640.webp",
+"bytes": 34394
+},
+{
+"w": 770,
+"h": 579,
+"fmt": "avif",
+"path": "assets/img/waterfall-5-bedroom-house-2/05-770.avif",
+"bytes": 36838
+},
+{
+"w": 770,
+"h": 579,
+"fmt": "webp",
+"path": "assets/img/waterfall-5-bedroom-house-2/05-770.webp",
+"bytes": 47646
+}
+]
+},
+"data/raw/media/CQI3b1LDMUd/06.jpg": {
+"w": 770,
+"h": 579,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/waterfall-5-bedroom-house-2/06-640.avif",
+"bytes": 17378
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/waterfall-5-bedroom-house-2/06-640.webp",
+"bytes": 22172
+},
+{
+"w": 770,
+"h": 579,
+"fmt": "avif",
+"path": "assets/img/waterfall-5-bedroom-house-2/06-770.avif",
+"bytes": 24916
+},
+{
+"w": 770,
+"h": 579,
+"fmt": "webp",
+"path": "assets/img/waterfall-5-bedroom-house-2/06-770.webp",
+"bytes": 29808
+}
+]
+},
+"data/raw/media/CQI3b1LDMUd/07.jpg": {
+"w": 770,
+"h": 579,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/waterfall-5-bedroom-house-2/07-640.avif",
+"bytes": 21100
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/waterfall-5-bedroom-house-2/07-640.webp",
+"bytes": 26920
+},
+{
+"w": 770,
+"h": 579,
+"fmt": "avif",
+"path": "assets/img/waterfall-5-bedroom-house-2/07-770.avif",
+"bytes": 31165
+},
+{
+"w": 770,
+"h": 579,
+"fmt": "webp",
+"path": "assets/img/waterfall-5-bedroom-house-2/07-770.webp",
+"bytes": 37334
+}
+]
+},
+"data/raw/media/CQI3b1LDMUd/08.jpg": {
+"w": 771,
+"h": 581,
+"variants": [
+{
+"w": 640,
+"h": 482,
+"fmt": "avif",
+"path": "assets/img/waterfall-5-bedroom-house-2/08-640.avif",
+"bytes": 31973
+},
+{
+"w": 640,
+"h": 482,
+"fmt": "webp",
+"path": "assets/img/waterfall-5-bedroom-house-2/08-640.webp",
+"bytes": 50316
+},
+{
+"w": 771,
+"h": 581,
+"fmt": "avif",
+"path": "assets/img/waterfall-5-bedroom-house-2/08-771.avif",
+"bytes": 45776
+},
+{
+"w": 771,
+"h": 581,
+"fmt": "webp",
+"path": "assets/img/waterfall-5-bedroom-house-2/08-771.webp",
+"bytes": 70074
+}
+]
+},
+"data/raw/media/CQI3b1LDMUd/09.jpg": {
+"w": 770,
+"h": 579,
+"variants": [
+{
+"w": 640,
+"h": 481,
+"fmt": "avif",
+"path": "assets/img/waterfall-5-bedroom-house-2/09-640.avif",
+"bytes": 28895
+},
+{
+"w": 640,
+"h": 481,
+"fmt": "webp",
+"path": "assets/img/waterfall-5-bedroom-house-2/09-640.webp",
+"bytes": 39426
+},
+{
+"w": 770,
+"h": 579,
+"fmt": "avif",
+"path": "assets/img/waterfall-5-bedroom-house-2/09-770.avif",
+"bytes": 40571
+},
+{
+"w": 770,
+"h": 579,
+"fmt": "webp",
+"path": "assets/img/waterfall-5-bedroom-house-2/09-770.webp",
+"bytes": 53386
+}
+]
+},
+"data/raw/media/CbLGu49sIPo/00.jpg": {
+"w": 682,
+"h": 454,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/hout-bay-9-bedroom-house/00-640.avif",
+"bytes": 27831
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/hout-bay-9-bedroom-house/00-640.webp",
+"bytes": 35706
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "avif",
+"path": "assets/img/hout-bay-9-bedroom-house/00-682.avif",
+"bytes": 34801
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "webp",
+"path": "assets/img/hout-bay-9-bedroom-house/00-682.webp",
+"bytes": 42746
+}
+]
+},
+"data/raw/media/CbLGu49sIPo/01.jpg": {
+"w": 682,
+"h": 454,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/hout-bay-9-bedroom-house/01-640.avif",
+"bytes": 30252
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/hout-bay-9-bedroom-house/01-640.webp",
+"bytes": 44526
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "avif",
+"path": "assets/img/hout-bay-9-bedroom-house/01-682.avif",
+"bytes": 35976
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "webp",
+"path": "assets/img/hout-bay-9-bedroom-house/01-682.webp",
+"bytes": 51476
+}
+]
+},
+"data/raw/media/CbLGu49sIPo/02.jpg": {
+"w": 682,
+"h": 454,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/hout-bay-9-bedroom-house/02-640.avif",
+"bytes": 29176
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/hout-bay-9-bedroom-house/02-640.webp",
+"bytes": 41220
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "avif",
+"path": "assets/img/hout-bay-9-bedroom-house/02-682.avif",
+"bytes": 34141
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "webp",
+"path": "assets/img/hout-bay-9-bedroom-house/02-682.webp",
+"bytes": 47746
+}
+]
+},
+"data/raw/media/CbLGu49sIPo/03.jpg": {
+"w": 682,
+"h": 454,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/hout-bay-9-bedroom-house/03-640.avif",
+"bytes": 27703
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/hout-bay-9-bedroom-house/03-640.webp",
+"bytes": 37132
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "avif",
+"path": "assets/img/hout-bay-9-bedroom-house/03-682.avif",
+"bytes": 32494
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "webp",
+"path": "assets/img/hout-bay-9-bedroom-house/03-682.webp",
+"bytes": 43514
+}
+]
+},
+"data/raw/media/CbLGu49sIPo/04.jpg": {
+"w": 682,
+"h": 454,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/hout-bay-9-bedroom-house/04-640.avif",
+"bytes": 22245
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/hout-bay-9-bedroom-house/04-640.webp",
+"bytes": 28798
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "avif",
+"path": "assets/img/hout-bay-9-bedroom-house/04-682.avif",
+"bytes": 26625
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "webp",
+"path": "assets/img/hout-bay-9-bedroom-house/04-682.webp",
+"bytes": 33368
+}
+]
+},
+"data/raw/media/CbLGu49sIPo/05.jpg": {
+"w": 682,
+"h": 454,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/hout-bay-9-bedroom-house/05-640.avif",
+"bytes": 25100
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/hout-bay-9-bedroom-house/05-640.webp",
+"bytes": 33076
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "avif",
+"path": "assets/img/hout-bay-9-bedroom-house/05-682.avif",
+"bytes": 30199
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "webp",
+"path": "assets/img/hout-bay-9-bedroom-house/05-682.webp",
+"bytes": 39608
+}
+]
+},
+"data/raw/media/CbLGu49sIPo/06.jpg": {
+"w": 682,
+"h": 454,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/hout-bay-9-bedroom-house/06-640.avif",
+"bytes": 31417
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/hout-bay-9-bedroom-house/06-640.webp",
+"bytes": 48566
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "avif",
+"path": "assets/img/hout-bay-9-bedroom-house/06-682.avif",
+"bytes": 36237
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "webp",
+"path": "assets/img/hout-bay-9-bedroom-house/06-682.webp",
+"bytes": 56442
+}
+]
+},
+"data/raw/media/CbLGu49sIPo/07.jpg": {
+"w": 682,
+"h": 454,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/hout-bay-9-bedroom-house/07-640.avif",
+"bytes": 29221
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/hout-bay-9-bedroom-house/07-640.webp",
+"bytes": 43020
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "avif",
+"path": "assets/img/hout-bay-9-bedroom-house/07-682.avif",
+"bytes": 35517
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "webp",
+"path": "assets/img/hout-bay-9-bedroom-house/07-682.webp",
+"bytes": 50358
+}
+]
+},
+"data/raw/media/CbLGu49sIPo/08.jpg": {
+"w": 682,
+"h": 454,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/hout-bay-9-bedroom-house/08-640.avif",
+"bytes": 27501
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/hout-bay-9-bedroom-house/08-640.webp",
+"bytes": 36380
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "avif",
+"path": "assets/img/hout-bay-9-bedroom-house/08-682.avif",
+"bytes": 33737
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "webp",
+"path": "assets/img/hout-bay-9-bedroom-house/08-682.webp",
+"bytes": 42584
+}
+]
+},
+"data/raw/media/CbLGu49sIPo/09.jpg": {
+"w": 682,
+"h": 454,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/hout-bay-9-bedroom-house/09-640.avif",
+"bytes": 21579
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/hout-bay-9-bedroom-house/09-640.webp",
+"bytes": 28346
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "avif",
+"path": "assets/img/hout-bay-9-bedroom-house/09-682.avif",
+"bytes": 25415
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "webp",
+"path": "assets/img/hout-bay-9-bedroom-house/09-682.webp",
+"bytes": 33042
+}
+]
+},
+"data/raw/media/COybHiZDNrI/00.jpg": {
+"w": 682,
+"h": 454,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/hout-bay-9-bedroom-house/10-640.avif",
+"bytes": 33437
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/hout-bay-9-bedroom-house/10-640.webp",
+"bytes": 49332
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "avif",
+"path": "assets/img/hout-bay-9-bedroom-house/10-682.avif",
+"bytes": 39308
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "webp",
+"path": "assets/img/hout-bay-9-bedroom-house/10-682.webp",
+"bytes": 58502
+}
+]
+},
+"data/raw/media/COybHiZDNrI/01.jpg": {
+"w": 683,
+"h": 456,
+"variants": [
+{
+"w": 640,
+"h": 427,
+"fmt": "avif",
+"path": "assets/img/hout-bay-9-bedroom-house/11-640.avif",
+"bytes": 29437
+},
+{
+"w": 640,
+"h": 427,
+"fmt": "webp",
+"path": "assets/img/hout-bay-9-bedroom-house/11-640.webp",
+"bytes": 44480
+},
+{
+"w": 683,
+"h": 456,
+"fmt": "avif",
+"path": "assets/img/hout-bay-9-bedroom-house/11-683.avif",
+"bytes": 35180
+},
+{
+"w": 683,
+"h": 456,
+"fmt": "webp",
+"path": "assets/img/hout-bay-9-bedroom-house/11-683.webp",
+"bytes": 51786
+}
+]
+},
+"data/raw/media/COybHiZDNrI/02.jpg": {
+"w": 682,
+"h": 454,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/hout-bay-9-bedroom-house/12-640.avif",
+"bytes": 30145
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/hout-bay-9-bedroom-house/12-640.webp",
+"bytes": 42912
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "avif",
+"path": "assets/img/hout-bay-9-bedroom-house/12-682.avif",
+"bytes": 34528
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "webp",
+"path": "assets/img/hout-bay-9-bedroom-house/12-682.webp",
+"bytes": 48996
+}
+]
+},
+"data/raw/media/COybHiZDNrI/03.jpg": {
+"w": 682,
+"h": 454,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/hout-bay-9-bedroom-house/13-640.avif",
+"bytes": 31439
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/hout-bay-9-bedroom-house/13-640.webp",
+"bytes": 45472
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "avif",
+"path": "assets/img/hout-bay-9-bedroom-house/13-682.avif",
+"bytes": 37043
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "webp",
+"path": "assets/img/hout-bay-9-bedroom-house/13-682.webp",
+"bytes": 53134
+}
+]
+},
+"data/raw/media/COybHiZDNrI/05.jpg": {
+"w": 682,
+"h": 454,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/hout-bay-9-bedroom-house/14-640.avif",
+"bytes": 31227
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/hout-bay-9-bedroom-house/14-640.webp",
+"bytes": 48740
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "avif",
+"path": "assets/img/hout-bay-9-bedroom-house/14-682.avif",
+"bytes": 36379
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "webp",
+"path": "assets/img/hout-bay-9-bedroom-house/14-682.webp",
+"bytes": 57032
+}
+]
+},
+"data/raw/media/COybHiZDNrI/06.jpg": {
+"w": 682,
+"h": 454,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/hout-bay-9-bedroom-house/15-640.avif",
+"bytes": 23978
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/hout-bay-9-bedroom-house/15-640.webp",
+"bytes": 32708
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "avif",
+"path": "assets/img/hout-bay-9-bedroom-house/15-682.avif",
+"bytes": 29186
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "webp",
+"path": "assets/img/hout-bay-9-bedroom-house/15-682.webp",
+"bytes": 37426
+}
+]
+},
+"data/raw/media/COybHiZDNrI/08.jpg": {
+"w": 682,
+"h": 454,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/hout-bay-9-bedroom-house/16-640.avif",
+"bytes": 30214
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/hout-bay-9-bedroom-house/16-640.webp",
+"bytes": 43518
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "avif",
+"path": "assets/img/hout-bay-9-bedroom-house/16-682.avif",
+"bytes": 36062
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "webp",
+"path": "assets/img/hout-bay-9-bedroom-house/16-682.webp",
+"bytes": 50338
+}
+]
+},
+"data/raw/media/CNZRCphjFOz/00.jpg": {
+"w": 682,
+"h": 454,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/simbithi-4-bedroom-house/00-640.avif",
+"bytes": 54341
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/simbithi-4-bedroom-house/00-640.webp",
+"bytes": 89746
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "avif",
+"path": "assets/img/simbithi-4-bedroom-house/00-682.avif",
+"bytes": 64398
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "webp",
+"path": "assets/img/simbithi-4-bedroom-house/00-682.webp",
+"bytes": 104488
+}
+]
+},
+"data/raw/media/CNZRCphjFOz/01.jpg": {
+"w": 682,
+"h": 454,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/simbithi-4-bedroom-house/01-640.avif",
+"bytes": 41699
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/simbithi-4-bedroom-house/01-640.webp",
+"bytes": 64614
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "avif",
+"path": "assets/img/simbithi-4-bedroom-house/01-682.avif",
+"bytes": 49007
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "webp",
+"path": "assets/img/simbithi-4-bedroom-house/01-682.webp",
+"bytes": 76082
+}
+]
+},
+"data/raw/media/CNZRCphjFOz/02.jpg": {
+"w": 682,
+"h": 454,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/simbithi-4-bedroom-house/02-640.avif",
+"bytes": 28549
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/simbithi-4-bedroom-house/02-640.webp",
+"bytes": 43336
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "avif",
+"path": "assets/img/simbithi-4-bedroom-house/02-682.avif",
+"bytes": 33985
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "webp",
+"path": "assets/img/simbithi-4-bedroom-house/02-682.webp",
+"bytes": 49478
+}
+]
+},
+"data/raw/media/CNZRCphjFOz/03.jpg": {
+"w": 682,
+"h": 454,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/simbithi-4-bedroom-house/03-640.avif",
+"bytes": 25711
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/simbithi-4-bedroom-house/03-640.webp",
+"bytes": 35706
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "avif",
+"path": "assets/img/simbithi-4-bedroom-house/03-682.avif",
+"bytes": 30231
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "webp",
+"path": "assets/img/simbithi-4-bedroom-house/03-682.webp",
+"bytes": 40968
+}
+]
+},
+"data/raw/media/CNZRCphjFOz/04.jpg": {
+"w": 682,
+"h": 454,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/simbithi-4-bedroom-house/04-640.avif",
+"bytes": 24242
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/simbithi-4-bedroom-house/04-640.webp",
+"bytes": 34258
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "avif",
+"path": "assets/img/simbithi-4-bedroom-house/04-682.avif",
+"bytes": 28331
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "webp",
+"path": "assets/img/simbithi-4-bedroom-house/04-682.webp",
+"bytes": 39460
+}
+]
+},
+"data/raw/media/CNZRCphjFOz/05.jpg": {
+"w": 683,
+"h": 455,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/simbithi-4-bedroom-house/05-640.avif",
+"bytes": 27911
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/simbithi-4-bedroom-house/05-640.webp",
+"bytes": 42188
+},
+{
+"w": 683,
+"h": 455,
+"fmt": "avif",
+"path": "assets/img/simbithi-4-bedroom-house/05-683.avif",
+"bytes": 32881
+},
+{
+"w": 683,
+"h": 455,
+"fmt": "webp",
+"path": "assets/img/simbithi-4-bedroom-house/05-683.webp",
+"bytes": 48512
+}
+]
+},
+"data/raw/media/CNZRCphjFOz/06.jpg": {
+"w": 682,
+"h": 454,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/simbithi-4-bedroom-house/06-640.avif",
+"bytes": 26172
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/simbithi-4-bedroom-house/06-640.webp",
+"bytes": 39496
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "avif",
+"path": "assets/img/simbithi-4-bedroom-house/06-682.avif",
+"bytes": 30936
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "webp",
+"path": "assets/img/simbithi-4-bedroom-house/06-682.webp",
+"bytes": 45410
+}
+]
+},
+"data/raw/media/CNZRCphjFOz/07.jpg": {
+"w": 682,
+"h": 454,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/simbithi-4-bedroom-house/07-640.avif",
+"bytes": 28914
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/simbithi-4-bedroom-house/07-640.webp",
+"bytes": 42130
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "avif",
+"path": "assets/img/simbithi-4-bedroom-house/07-682.avif",
+"bytes": 33680
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "webp",
+"path": "assets/img/simbithi-4-bedroom-house/07-682.webp",
+"bytes": 48060
+}
+]
+},
+"data/raw/media/CNZRCphjFOz/08.jpg": {
+"w": 682,
+"h": 454,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/simbithi-4-bedroom-house/08-640.avif",
+"bytes": 25606
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/simbithi-4-bedroom-house/08-640.webp",
+"bytes": 36254
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "avif",
+"path": "assets/img/simbithi-4-bedroom-house/08-682.avif",
+"bytes": 30319
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "webp",
+"path": "assets/img/simbithi-4-bedroom-house/08-682.webp",
+"bytes": 42160
+}
+]
+},
+"data/raw/media/CNZRCphjFOz/09.jpg": {
+"w": 682,
+"h": 454,
+"variants": [
+{
+"w": 640,
+"h": 426,
+"fmt": "avif",
+"path": "assets/img/simbithi-4-bedroom-house/09-640.avif",
+"bytes": 27393
+},
+{
+"w": 640,
+"h": 426,
+"fmt": "webp",
+"path": "assets/img/simbithi-4-bedroom-house/09-640.webp",
+"bytes": 38370
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "avif",
+"path": "assets/img/simbithi-4-bedroom-house/09-682.avif",
+"bytes": 32471
+},
+{
+"w": 682,
+"h": 454,
+"fmt": "webp",
+"path": "assets/img/simbithi-4-bedroom-house/09-682.webp",
+"bytes": 43498
+}
+]
+}
+}

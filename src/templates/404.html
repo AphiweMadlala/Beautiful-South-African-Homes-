@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% block title %}Page not found | {{ brand.name }}{% endblock %}
+{% block main %}
+<header class="page-head page-404">
+  <h1 class="display page-h">This page has moved, or never was.</h1>
+  <p class="lede">The residence you were looking for may no longer be featured.</p>
+  <p><a class="btn btn-gold" href="{{ root }}residences/">Explore Residences</a></p>
+</header>
+{% endblock %}

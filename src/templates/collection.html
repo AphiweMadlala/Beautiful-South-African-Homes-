@@ -1,0 +1,132 @@
+{% extends "base.html" %}
+{% from "_macros.html" import card %}
+{% block title %}Residences for Sale | {{ brand.name }}{% endblock %}
+{% block bodyclass %}page-collection{% endblock %}
+{% block main %}
+<header class="page-head">
+  <h1 class="display page-h">The Collection</h1>
+  <p class="lede">Residences for sale are checked against the marketing agency's live listing. The Portfolio holds homes we have featured before, with their availability to be confirmed with the agency.</p>
+</header>
+
+<div class="coll" data-collection>
+  <div class="coll-bar">
+    <div class="sets" role="group" aria-label="Show">
+      <a class="set" href="?set=for-sale" data-set="for-sale">For Sale <span>{{ for_sale|length }}</span></a>
+      <a class="set" href="?set=portfolio" data-set="portfolio">The Portfolio <span>{{ portfolio|length }}</span></a>
+      <a class="set" href="?set=all" data-set="all">All <span>{{ props|length }}</span></a>
+    </div>
+    <div class="coll-tools">
+      <button class="btn btn-line btn-sm filters-open" type="button" aria-haspopup="dialog" aria-controls="filters" data-filters-open>Filters <span class="filters-count" data-filter-count hidden></span></button>
+      <label class="sort"><span>Sort</span>
+        <select name="sort" data-sort form="filter-form">
+          <option value="recommended">Recommended</option>
+          <option value="price-desc">Price, high to low</option>
+          <option value="price-asc">Price, low to high</option>
+        </select>
+      </label>
+    </div>
+  </div>
+
+  <div class="coll-body">
+    <dialog class="filters" id="filters" aria-labelledby="filters-h" data-filters open>
+      <form id="filter-form" class="filters-form" method="get" action="" data-filter-form>
+        <div class="filters-head">
+          <h2 id="filters-h" class="filters-h">Refine</h2>
+          <button class="filters-close" type="button" data-filters-close><span class="sr-only">Close filters</span></button>
+        </div>
+        <input type="hidden" name="set" value="for-sale" data-set-input>
+        <fieldset>
+          <legend>Location</legend>
+          <label class="sr-only" for="f-loc">Location</label>
+          <select id="f-loc" name="loc" data-f="loc">
+            <option value="">All of South Africa</option>
+            {% for prov, pdata in tree.items() %}
+            <optgroup label="{{ prov }}">
+              <option value="p:{{ prov }}">All {{ prov }}</option>
+              {% for city, cdata in pdata.cities.items() %}
+              <option value="c:{{ city }}">{{ city }}</option>
+              {% if cdata.areas|length > 1 %}{% for area, n in cdata.areas %}<option value="a:{{ area }}">&nbsp;&nbsp;&nbsp;{{ area }}</option>{% endfor %}{% endif %}
+              {% endfor %}
+            </optgroup>
+            {% endfor %}
+          </select>
+        </fieldset>
+        <fieldset>
+          <legend>Property type</legend>
+          <div class="chips">
+            {% for t in ["House", "Apartment"] %}<label class="chip"><input type="radio" name="type" value="{{ t }}" data-f="type"><span>{{ t }}</span></label>{% endfor %}
+            <label class="chip"><input type="radio" name="type" value="" data-f="type" checked><span>Any</span></label>
+          </div>
+        </fieldset>
+        <fieldset>
+          <legend>Price</legend>
+          <label class="sr-only" for="f-price">Price range</label>
+          <select id="f-price" name="price" data-f="price">
+            <option value="">Any price</option>
+            <option value="0-10000000">Under R10m</option>
+            <option value="10000000-20000000">R10m to R20m</option>
+            <option value="20000000-40000000">R20m to R40m</option>
+            <option value="40000000-">R40m and above</option>
+          </select>
+        </fieldset>
+        <fieldset>
+          <legend>Bedrooms</legend>
+          <div class="chips">
+            <label class="chip"><input type="radio" name="beds" value="" data-f="beds" checked><span>Any</span></label>
+            {% for n in [3,4,5,6] %}<label class="chip"><input type="radio" name="beds" value="{{ n }}" data-f="beds"><span>{{ n }}+</span></label>{% endfor %}
+          </div>
+        </fieldset>
+        <details class="more" data-more-filters>
+          <summary>More filters <span class="more-n" data-more-count hidden></span></summary>
+        {% for key, label in [("baths", "Bathrooms"), ("garages", "Garages")] %}
+        <fieldset>
+          <legend>{{ label }}</legend>
+          <div class="chips">
+            <label class="chip"><input type="radio" name="{{ key }}" value="" data-f="{{ key }}" checked><span>Any</span></label>
+            {% for n in ([3,4,5,6] if key != "garages" else [2,3,4]) %}
+            <label class="chip"><input type="radio" name="{{ key }}" value="{{ n }}" data-f="{{ key }}"><span>{{ n }}+</span></label>
+            {% endfor %}
+          </div>
+        </fieldset>
+        {% endfor %}
+        <fieldset>
+          <legend>Features</legend>
+          <div class="checks">
+            {% for k, label, n in features %}
+            <label class="check"><input type="checkbox" name="features" value="{{ k }}" data-f="features"><span>{{ label }}</span></label>
+            {% endfor %}
+          </div>
+        </fieldset>
+        </details>
+        <div class="filters-actions">
+          <button class="btn btn-line btn-sm" type="reset" data-filters-reset>Clear all</button>
+          <button class="btn btn-gold btn-sm filters-apply" type="submit" data-filters-close>Show <span data-result-count>{{ props|length }}</span></button>
+        </div>
+      </form>
+    </dialog>
+
+    <div class="coll-results">
+      <p class="coll-status" role="status" aria-live="polite" data-status></p>
+      <div class="cards" data-cards>
+        {% for p in props %}{{ card(p, root) }}{% endfor %}
+      </div>
+      <aside class="coll-more" data-more hidden aria-labelledby="more-h">
+        <div>
+          <h2 id="more-h" class="coll-more-h">{{ portfolio|length }} more residences in the Portfolio</h2>
+          <p>Homes we have featured before, from the Atlantic Seaboard to the KwaZulu-Natal coast. Availability to be confirmed with the agency.</p>
+        </div>
+        <a class="btn btn-line" href="?set=portfolio" data-set="portfolio">View the Portfolio</a>
+      </aside>
+      <div class="empty" data-empty hidden>
+        <h2 class="display empty-h">Nothing matches, yet.</h2>
+        <p data-empty-msg>No residences match these filters.</p>
+        <div class="empty-actions">
+          <a class="btn btn-line btn-sm" href="?set=all" data-empty-all>Search all residences</a>
+          <button class="btn btn-line btn-sm" type="button" data-empty-reset>Clear filters</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}
+{% block scripts %}<script src="{{ root }}assets/js/collection.js" defer></script>{% endblock %}

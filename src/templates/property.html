@@ -1,0 +1,206 @@
+{% extends "base.html" %}
+{% from "_macros.html" import picture, folio, card %}
+{% block title %}{{ p.title }} | {% if p.live %}For Sale{% else %}Portfolio{% endif %} | {{ brand.name }}{% endblock %}
+{% block description %}{{ p.story[0] }}{% endblock %}
+{% block bodyclass %}page-property{% endblock %}
+{% block preload %}<link rel="preload" as="image" type="image/avif" imagesrcset="{% for part in p.cover.avif.split(', ') %}{{ root }}{{ part }}{% if not loop.last %}, {% endif %}{% endfor %}" imagesizes="(min-width: 1024px) 66vw, 100vw">{% endblock %}
+{% set subject = (p.title ~ " (" ~ ("For sale" if p.live else "Portfolio, featured " ~ p.featuredWhen) ~ ")")|urlencode %}
+{% set ask = "mailto:" ~ brand.email ~ "?subject=" ~ subject %}
+{% block main %}
+{% set n = namespace(i=0) %}
+{% macro next() %}{% set n.i = n.i + 1 %}{{ ["I","II","III","IV","V","VI","VII","VIII","IX","X"][n.i - 1] }}{% endmacro %}
+<nav class="crumbs" aria-label="Breadcrumb">
+  <a href="{{ root }}residences/?set={{ 'for-sale' if p.live else 'portfolio' }}">{{ "Residences for sale" if p.live else "The Portfolio" }}</a>
+  <span aria-hidden="true">/</span>
+  <span aria-current="page">{{ p.shortLocation }}</span>
+</nav>
+
+{# 01 Cinematic gallery #}
+<section class="pgal" aria-label="Photographs">
+  <button class="pgal-main" type="button" data-open-lightbox="{{ p.pictures.index(p.cover) }}">
+    {{ picture(p.cover, root, "(min-width: 1024px) 66vw, 100vw", eager=True) }}
+    <span class="sr-only">Open photograph 1 of {{ p.pictures|length }} full screen</span>
+  </button>
+  {% set side = (p.pictures[:5]|reject("equalto", p.cover)|list)[:2] %}
+  <div class="pgal-side">
+    {% for pic in side %}
+    <button class="pgal-thumb" type="button" data-open-lightbox="{{ p.pictures.index(pic) }}">
+      {{ picture(pic, root, "(min-width: 1024px) 33vw, 50vw") }}
+      <span class="sr-only">Open photograph {{ p.pictures.index(pic) + 1 }} full screen</span>
+    </button>
+    {% endfor %}
+  </div>
+  <button class="pgal-all btn btn-sm" type="button" data-open-lightbox="0">View all {{ p.pictures|length }} photographs</button>
+  {# mobile swipe strip #}
+  <div class="pswipe" data-swipe>
+    <ul class="pswipe-track" aria-label="Photographs, swipe to browse">
+      {% for pic in p.pictures %}
+      <li><button type="button" data-open-lightbox="{{ loop.index0 }}">{{ picture(pic, root, "100vw", eager=loop.first) }}<span class="sr-only">Open full screen</span></button></li>
+      {% endfor %}
+    </ul>
+    <p class="pswipe-count" aria-hidden="true"><span data-swipe-i>1</span> / {{ p.pictures|length }}</p>
+  </div>
+</section>
+
+<div class="pwrap">
+  <div class="pmain">
+    {# 02 Identity #}
+    <header class="pid">
+      <p class="pid-loc">{{ p.locationLine }}</p>
+      <h1 class="display pid-h">{{ p.title }}</h1>
+      {% if p.live %}
+      <p class="pid-status"><span class="status status-live">For Sale</span>{% if p.reference %}<span class="ref">Ref. {{ p.reference }}</span>{% endif %}</p>
+      <p class="pid-price" data-price-anchor><span class="pid-price-k">Asking price</span><span class="pid-price-v">{{ p.priceLabel }}</span></p>
+      {% if p.agent %}<p class="pid-credit"><span>Marketed by</span> {{ p.agent.name }}, {{ p.agency }}</p>{% endif %}
+      {% if p.foreign %}<p class="pid-fx">Approximately {{ p.foreign["values"]|join(", ") }}, as published on {{ p.foreign.date }}. Rand price is definitive.</p>{% endif %}
+      {% else %}
+      <p class="pid-status"><span class="status">Previously featured</span><span class="ref">Availability to be confirmed</span></p>
+      <p class="pid-price pid-price-past" data-price-anchor><span class="pid-price-k">Asked when featured in {{ p.featuredWhen }}</span><span class="pid-price-v">{{ p.priceLabel }}</span></p>
+      <p class="pid-credit"><span>Originally marketed by</span> {{ p.agency }}</p>
+      {% endif %}
+    </header>
+
+    {# 03 Core particulars #}
+    <section class="psec" aria-labelledby="part-h">
+      {{ folio(next(), "Particulars") }}
+      <h2 id="part-h" class="sr-only">Property particulars</h2>
+      <dl class="parts">
+        {% for k, v in p.specs.items() %}<div><dt>{{ k }}</dt><dd>{{ v }}</dd></div>{% endfor %}
+        <div><dt>Type</dt><dd>{{ p.type }}</dd></div>
+      </dl>
+    </section>
+
+    {# 05 Story #}
+    <section class="psec" aria-labelledby="story-h">
+      {{ folio(next(), "The Residence") }}
+      <h2 id="story-h" class="sr-only">About this residence</h2>
+      <div class="story">{% for para in p.story %}<p>{{ para }}</p>{% endfor %}</div>
+    </section>
+
+    {# 06 Signature features #}
+    {% if p.highlights or p.features %}
+    <section class="psec" aria-labelledby="feat-h">
+      {{ folio(next(), "Signature Features") }}
+      <h2 id="feat-h" class="sr-only">Features</h2>
+      <ul class="ticks">
+        {% for h in (p.highlights if p.highlights|length >= 3 else p.features) %}<li>{{ h }}</li>{% endfor %}
+      </ul>
+    </section>
+    {% endif %}
+
+    {# 07 Architecture, only when credited #}
+    {% if p.architect %}
+    <section class="psec" aria-labelledby="arch-h">
+      {{ folio(next(), "Architecture") }}
+      <h2 id="arch-h" class="display psec-h">{% if p.architect.startswith("@") %}Credited on Instagram to {{ p.architect }}{% else %}{{ p.architect }}{% endif %}</h2>
+      <p class="muted">Architecture credit as published in the original feature.</p>
+    </section>
+    {% endif %}
+
+    {# 08 Full gallery #}
+    <section class="psec" aria-labelledby="gal-h">
+      {{ folio(next(), "Photographs") }}
+      <h2 id="gal-h" class="sr-only">All photographs</h2>
+      <div class="mosaic">
+        {% for pic in p.pictures %}
+        {% if pic.estate and not p.pictures[loop.index0 - 1].estate %}<p class="mosaic-sep">The estate</p>{% endif %}
+        <button class="mosaic-i{% if pic.estate %} is-estate{% endif %}" type="button" data-open-lightbox="{{ loop.index0 }}">
+          {{ picture(pic, root, "(min-width: 1024px) 30vw, 46vw") }}<span class="sr-only">Open photograph {{ loop.index }} full screen</span>
+        </button>
+        {% endfor %}
+      </div>
+    </section>
+
+    {# 09 Financial details #}
+    <section class="psec" aria-labelledby="fin-h">
+      {{ folio(next(), "Financial Details") }}
+      <h2 id="fin-h" class="sr-only">Financial details</h2>
+      <dl class="parts parts-2">
+        <div><dt>{{ "Asking price" if p.live else "Asked when featured, " ~ p.featuredWhen }}</dt><dd>{{ p.priceLabel }}</dd></div>
+        <div><dt>Rates and taxes</dt><dd class="muted">On request from the agent</dd></div>
+        <div><dt>Levies</dt><dd class="muted">On request from the agent</dd></div>
+      </dl>
+    </section>
+
+    {# 10 Location, never an address #}
+    <section class="psec" aria-labelledby="loc-h">
+      {{ folio(next(), "Location") }}
+      <h2 id="loc-h" class="display psec-h">{{ p.shortLocation }}</h2>
+      <p class="muted">{{ p.province }}. The exact address is shared by the marketing agent.</p>
+      {% if p.locationNote %}<p class="story">{{ p.locationNote }}</p>{% endif %}
+    </section>
+  </div>
+
+  {# 04 Arrange a viewing + 11 Marketed by. Sticky on desktop. #}
+  <aside class="pside" aria-label="{{ 'Arrange a viewing' if p.live else 'Enquire' }}">
+    <div class="enquire">
+      {% if p.live and p.agent %}
+      <h2 class="enq-h">Arrange a Viewing</h2>
+      <p class="enq-k">Marketed by</p>
+      <p class="enq-name">{{ p.agent.name }}</p>
+      <p class="enq-agency">{{ p.agency }}</p>
+      <div class="enq-actions">
+        <a class="btn btn-gold" href="tel:{{ p.agent.tel }}">Call {{ p.agent.phone }}</a>
+        <a class="btn btn-line" href="{{ p.listingUrl }}" rel="noopener">View Agency Listing</a>
+      </div>
+      {% else %}
+      <h2 class="enq-h">Request Details</h2>
+      <p class="enq-k">Originally marketed by</p>
+      <p class="enq-agency enq-agency-lg">{{ p.agency }}</p>
+      <p class="muted enq-note">This home was featured in {{ p.featuredWhen }}. Ask us and we will confirm current availability with the agency.</p>
+      <div class="enq-actions">
+        <a class="btn btn-gold" href="{{ ask }}">Ask About This Residence</a>
+      </div>
+      <p class="muted enq-help">Opens your email app, addressed to {{ brand.email }}. Include your name and number and we will reply once the agency confirms.</p>
+      {% endif %}
+      <p class="enq-k enq-by">Featured by</p>
+      <p class="enq-agency">{{ brand.name }}</p>
+      <p class="enq-links"><a href="{{ ask }}">{{ brand.email }}</a><a href="{{ p.instagram }}" rel="noopener">View the Instagram feature</a></p>
+    </div>
+  </aside>
+</div>
+
+{# 12 Related #}
+<section class="related section" aria-labelledby="rel-h">
+  <h2 id="rel-h" class="display section-h">Related residences</h2>
+  <div class="cards cards-3">{% for q in related %}{{ card(q, root) }}{% endfor %}</div>
+</section>
+
+{# 13 Final enquiry #}
+<section class="final section" aria-labelledby="final-h">
+  <h2 id="final-h" class="display final-h">{% if p.live %}See it in person.{% else %}Curious about this home?{% endif %}</h2>
+  {% if p.live and p.agent %}
+  <p class="lede">Viewings are arranged by {{ p.agent.name }} of {{ p.agency }}.</p>
+  <a class="btn btn-gold" href="tel:{{ p.agent.tel }}">Call {{ p.agent.phone }}</a>
+  {% else %}
+  <p class="lede">We will check with {{ p.agency }} whether it is still on the market.</p>
+  <a class="btn btn-gold" href="{{ ask }}">Ask About This Residence</a>
+  {% endif %}
+</section>
+
+{# Mobile contact bar #}
+<div class="mcta" aria-label="Contact" data-mcta>
+  {% if p.live and p.agent %}
+  <a class="btn btn-gold" href="tel:{{ p.agent.tel }}">Call {{ p.agent.first }}</a>
+  <a class="btn btn-line" href="{{ p.listingUrl }}" rel="noopener">Agency Listing</a>
+  {% else %}
+  <a class="btn btn-gold" href="{{ ask }}">Ask About This Residence</a>
+  {% endif %}
+</div>
+
+{# Lightbox #}
+<dialog class="lb" aria-label="Photographs of {{ p.title }}" data-lightbox>
+  <div class="lb-stage" data-lb-stage>
+    {% for pic in p.pictures %}
+    <figure class="lb-fig" data-lb-item hidden style="--nw: {{ pic.w }}">
+      <img data-src="{{ root }}{{ pic.fallback }}" alt="{{ pic.alt }}" width="{{ pic.w }}" height="{{ pic.h }}" draggable="false">
+      <figcaption>{{ pic.alt if pic.estate else "" }}</figcaption>
+    </figure>
+    {% endfor %}
+  </div>
+  <p class="lb-count" aria-live="polite"><span data-lb-i>1</span> of {{ p.pictures|length }}</p>
+  <button class="lb-btn lb-prev" type="button" data-lb-prev><span class="sr-only">Previous photograph</span></button>
+  <button class="lb-btn lb-next" type="button" data-lb-next><span class="sr-only">Next photograph</span></button>
+  <button class="lb-close" type="button" data-lb-close><span class="sr-only">Close</span></button>
+</dialog>
+{% endblock %}

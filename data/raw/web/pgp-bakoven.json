@@ -1,0 +1,63 @@
+[
+ {
+  "crawl": {
+   "httpStatusCode": 200,
+   "httpStatusMessage": "OK",
+   "loadedAt": "2026-09-24T18:50:58.347Z",
+   "uniqueKey": "vnD9N00LU2",
+   "requestStatus": "handled"
+  },
+  "metadata": {
+   "title": "Property and Houses for Sale in Bakoven | Pam Golding Properties",
+   "description": "Property and Houses for Sale in Bakoven. View our selection of houses, apartments, flats, farms, luxury properties and homes by our knowledgeable Estate Agents.",
+   "url": "https://www.pamgolding.co.za/property-search/properties-for-sale-bakoven/2111",
+   "redirectedUrl": "https://www.pamgolding.co.za/property-search/properties-for-sale-bakoven/2111",
+   "canonicalUrl": "https://www.pamgolding.co.za/property-search/properties-for-sale-bakoven/2111",
+   "openGraph": [
+    {
+     "property": "og:title",
+     "content": "Property and Houses for Sale in Bakoven | Pam Golding Properties"
+    },
+    {
+     "property": "og:description",
+     "content": "Property and Houses for Sale in Bakoven. View our selection of houses, apartments, flats, farms, luxury properties and homes by our knowledgeable Estate Agents."
+    },
+    {
+     "property": "og:image",
+     "content": "https://resources.pamgolding.co.za/resources/img/seo/og-default.jpg"
+    },
+    {
+     "property": "og:url",
+     "content": "https://www.pamgolding.co.za/property-search/properties-for-sale-bakoven/2111"
+    },
+    {
+     "property": "og:type",
+     "content": "website"
+    }
+   ],
+   "headers": {
+    "content-encoding": "gzip",
+    "content-security-policy": "frame-ancestors 'self' https://alchemy.pamgolding.co.za/",
+    "content-type": "text/html;charset=utf-8",
+    "date": "Thu, 24 Sep 2026 18:50:57 GMT",
+    "server": "nginx/1.24.0 (Ubuntu)",
+    "vary": "Accept-Encoding, Accept-Encoding",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "Nuxt",
+    "set-cookie": [
+     "mobile_user=false; Max-Age=2592000; Path=/",
+     "currency_id=5; Max-Age=2592000; Path=/",
+     "size_unit_id=1; Max-Age=2592000; Path=/",
+     "theme_id=1; Max-Age=2592000; Path=/",
+     "location=%7B%22id%22%3A2111%2C%22level%22%3A5%2C%22description%22%3A%22Bakoven%22%2C%22displayDescriptionSEO%22%3A%22Bakoven%22%2C%22path%22%3A%22bakoven%22%2C%22hierarchy%22%3A%22South%20Africa%2C%20Western%20Cape%2C%20Cape%20Town%2C%20Atlantic%20Seaboard%2C%20Camps%20Bay%22%2C%22hierarchyInverted%22%3A%22Camps%20Bay%2C%20Atlantic%20Seaboard%2C%20Cape%20Town%2C%20Western%20Cape%2C%20South%20Africa%22%2C%22searchLocation%22%3A%22Bakoven%22%2C%22searchLocationHirarchy%22%3A%22Bakoven%2C%20Camps%20Bay%2C%20Atlantic%20Seaboard%2C%20Cape%20Town%2C%20Western%20Cape%2C%20South%20Africa%22%2C%22point%22%3A%7B%22lat%22%3A-33.960094%2C%22lon%22%3A18.376099%7D%2C%22longitude%22%3A%2218.376099%22%2C%22latitude%22%3A%22-33.960094%22%2C%22directParentId%22%3A2113%2C%22allParentIds%22%3A%5B2661%2C2108%2C3080%2C2110%2C2113%5D%2C%22parents%22%3A%5B%7B%22id%22%3A2661%2C%22path%22%3A%22south-africa%22%2C%22description%22%3A%22South%20Africa%22%7D%2C%7B%22id%22%3A2108%2C%22path%22%3A%22western-cape%22%2C%22description%22%3A%22Western%20Cape%22%7D%2C%7B%22id%22%3A3080%2C%22path%22%3A%22cape-town%22%2C%22description%22%3A%22Cape%20Town%22%7D%2C%7B%22id%22%3A2110%2C%22path%22%3A%22atlantic-seaboard%22%2C%22description%22%3A%22Atlantic%20Seaboard%22%7D%2C%7B%22id%22%3A2113%2C%22path%22%3A%22camps-bay%22%2C%22description%22%3A%22Camps%20Bay%22%7D%5D%2C%22canBeSelectedForProperty%22%3Atrue%2C%22countryId%22%3A200%2C%22provinceId%22%3A95%2C%22regionId%22%3A18611%2C%22cityId%22%3A3698%2C%22urbanId%22%3A21473%2C%22suburbId%22%3A21301%2C%22dateIndexed%22%3A%222025-10-31T05%3A46%3A38.8713262%2B02%3A00%22%7D; Max-Age=2592000; Path=/",
+     "search_preference=1; Max-Age=2592000; Path=/",
+     "sort_id=3; Max-Age=2592000; Path=/",
+     "dev_sort_id=3; Max-Age=2592000; Path=/",
+     "map_state=true; Max-Age=2592000; Path=/"
+    ]
+   }
+  },
+  "query": "https://www.pamgolding.co.za/property-search/properties-for-sale-bakoven/2111",
+  "markdown": "Property and Houses for Sale in Bakoven | Pam Golding Properties\n\n# Property for sale in Bakoven\n\nSave Search\n\n*   [For Sale](https://www.pamgolding.co.za/property-search/properties-for-sale)\n*   /\n*   [South Africa](https://www.pamgolding.co.za/property-search/properties-for-sale-south-africa/2661)\n*   /\n*   [Western Cape](https://www.pamgolding.co.za/property-search/properties-for-sale-western-cape/2108)\n*   /\n*   [Cape Town](https://www.pamgolding.co.za/property-search/properties-for-sale-cape-town/3080)\n*   /\n*   [Atlantic Seaboard](https://www.pamgolding.co.za/property-search/properties-for-sale-atlantic-seaboard/2110)\n*   /\n*   [Camps Bay](https://www.pamgolding.co.za/property-search/properties-for-sale-camps-bay/2113)\n*   /\n*   [Bakoven](https://www.pamgolding.co.za/property-search/properties-for-sale-bakoven/2111)\n\nSort by:\n\nSort by\n\nNewest listings\n\nSort by\n\nMap\n\n## Think you're seeing a property you might love in Bakoven?\n\nUse the \"Contact us\" link on the listing to get more information or schedule a viewing.\n\n## Looking to sell or let your property?\n\nOur property specialists can give you a professional, no-obligation market evaluation.\n\nWhere is your property located?"
+ }
+]

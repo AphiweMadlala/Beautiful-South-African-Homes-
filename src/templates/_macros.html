@@ -1,0 +1,44 @@
+{% macro picture(pic, root, sizes="100vw", eager=False, cls="") -%}
+<picture>
+  <source type="image/avif" srcset="{% for part in pic.avif.split(', ') %}{{ root }}{{ part }}{% if not loop.last %}, {% endif %}{% endfor %}" sizes="{{ sizes }}">
+  <source type="image/webp" srcset="{% for part in pic.webp.split(', ') %}{{ root }}{{ part }}{% if not loop.last %}, {% endif %}{% endfor %}" sizes="{{ sizes }}">
+  <img src="{{ root }}{{ pic.fallback }}" width="{{ pic.w }}" height="{{ pic.h }}" alt="{{ pic.alt }}"
+       {% if eager %}loading="eager" fetchpriority="high"{% else %}loading="lazy"{% endif %} decoding="async"{% if cls %} class="{{ cls }}"{% endif %}>
+</picture>
+{%- endmacro %}
+
+{% macro folio(n, label) -%}
+<p class="folio"><span class="folio-n">{{ n }}</span><span class="folio-rule" aria-hidden="true"></span><span class="folio-l">{{ label }}</span></p>
+{%- endmacro %}
+
+{% macro specline(p) -%}
+<p class="specline">
+  {% if p.bedrooms %}<span>{{ p.bedrooms }} bed</span>{% endif %}
+  {% if p.bathrooms %}<span>{{ p.bathrooms }} bath</span>{% endif %}
+  {% if p.garages %}<span>{{ p.garages }} garage</span>{% endif %}
+</p>
+{%- endmacro %}
+
+{% macro card(p, root, sizes="(min-width: 1024px) 30vw, (min-width: 640px) 45vw, 92vw", cls="") -%}
+<article class="card {{ cls }}{% if p.live %} card-live{% endif %}"
+  data-card data-slug="{{ p.slug }}" data-live="{{ 'true' if p.live else 'false' }}"
+  data-province="{{ p.province }}" data-city="{{ p.city }}" data-place="{{ p.place }}" data-type="{{ p.type }}"
+  data-price="{{ p.price or '' }}" data-beds="{{ p.bedrooms or 0 }}" data-baths="{{ p.bathrooms or 0 }}"
+  data-garages="{{ p.garages or 0 }}" data-features="{{ p.featureKeys|join(' ') }}" data-rank="{{ p.rank }}">
+  <a class="card-link" href="{{ root }}residences/{{ p.slug }}/">
+    <div class="card-media">{{ picture(p.cover, root, sizes) }}</div>
+    <div class="card-body">
+      <p class="card-meta"><span class="card-n">N° {{ p.folio }}</span><span>{{ p.shortLocation }}</span></p>
+      {% if p.live %}<p class="card-flag">For sale</p>{% endif %}
+      <h3 class="card-title">{{ p.title }}</h3>
+      {% if p.live %}
+      <p class="card-price"><span class="sr-only">Asking price </span>{{ p.priceLabel }}</p>
+      {% else %}
+      <p class="card-status">Featured {{ p.featuredWhen }}, availability to be confirmed</p>
+      {% endif %}
+      {{ specline(p) }}
+      <span class="card-cta">View Residence</span>
+    </div>
+  </a>
+</article>
+{%- endmacro %}

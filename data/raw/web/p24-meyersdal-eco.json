@@ -1,0 +1,115 @@
+[
+ {
+  "crawl": {
+   "httpStatusCode": 200,
+   "httpStatusMessage": "OK",
+   "loadedAt": "2026-09-24T18:51:04.327Z",
+   "uniqueKey": "H0HQsTR6rD",
+   "requestStatus": "handled"
+  },
+  "metadata": {
+   "title": "Meyersdal Eco Estate Property : Property and houses for sale in Meyersdal Eco Estate : Property24.com",
+   "description": "Property for sale in Meyersdal Eco Estate. The largest selection of apartments, flats, farms, repossessed property, private property and houses for sale in Meyersdal Eco Estate by estate agents. Property24.com",
+   "languageCode": "en",
+   "url": "https://www.property24.com/for-sale/meyersdal-eco-estate/alberton/gauteng/14737?sp=pf%3d16000000%26pt%3d20000000",
+   "redirectedUrl": "https://www.property24.com/for-sale/meyersdal-eco-estate/alberton/gauteng/14737?sp=pf%3d16000000%26pt%3d20000000",
+   "canonicalUrl": "https://www.property24.com/for-sale/meyersdal-eco-estate/alberton/gauteng/14737",
+   "openGraph": [
+    {
+     "property": "og:title",
+     "content": "Meyersdal Eco Estate Property : Property and houses for sale in Meyersdal Eco Estate : Property24.com"
+    },
+    {
+     "property": "og:description",
+     "content": "Property for sale in Meyersdal Eco Estate."
+    },
+    {
+     "property": "og:image",
+     "content": "https://images.prop24.com/386093081"
+    },
+    {
+     "property": "og:image:type",
+     "content": "image/jpeg"
+    },
+    {
+     "property": "og:image:width",
+     "content": "1290"
+    },
+    {
+     "property": "og:image:height",
+     "content": "687"
+    },
+    {
+     "property": "og:url",
+     "content": "https://www.property24.com/for-sale/meyersdal-eco-estate/alberton/gauteng/14737"
+    }
+   ],
+   "jsonLd": [
+    {
+     "@context": "https://schema.org",
+     "@graph": [
+      {
+       "@type": "BreadcrumbList",
+       "itemListElement": [
+        {
+         "@type": "ListItem",
+         "position": 1,
+         "item": "https://www.property24.com/",
+         "name": "Property for Sale"
+        },
+        {
+         "@type": "ListItem",
+         "position": 2,
+         "item": "https://www.property24.com/for-sale/gauteng/1?sp=pf%3d16000000%26pt%3d20000000",
+         "name": "Gauteng"
+        },
+        {
+         "@type": "ListItem",
+         "position": 3,
+         "item": "https://www.property24.com/for-sale/alberton/gauteng/19?sp=pf%3d16000000%26pt%3d20000000",
+         "name": "Alberton"
+        },
+        {
+         "@type": "ListItem",
+         "position": 4,
+         "item": "https://www.property24.com/for-sale/meyersdal-eco-estate/alberton/gauteng/14737?sp=pf%3d16000000%26pt%3d20000000",
+         "name": "Meyersdal Eco Estate"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "headers": {
+    "cache-control": "private",
+    "content-encoding": "br",
+    "content-security-policy": "object-src none, frame-ancestors 'self'",
+    "content-type": "text/html; charset=utf-8",
+    "date": "Thu, 24 Sep 2026 18:51:03 GMT",
+    "pragma": "no-cache",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "request-context": "appId=cid-v1:f9163f9a-ba0a-4b0b-8e66-863fa1a682d9",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "Accept-Encoding",
+    "x-cache": "MISS",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-proxied-by": "P24HB:10.26.29.24>10.26.29.38, P24HB:10.24.144.86>20.87.178.51, P24HB:10.24.148.30>10.24.144.86",
+    "x-requestid": "9af28e604747dd0df41863015c2fb189",
+    "x-td-connected": "Connected",
+    "x-td-result": "Allowed",
+    "x-uniqueuserid": "zjzybfar5vplmpdpkuqz4vmi",
+    "set-cookie": [
+     "P24SEYED=c9f70775-67f0-4bc0-bb38-1d01168f4352; path=/; secure; httponly",
+     "P24UUEYED=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/",
+     "P24UUEYED=Id%3Dzjzybfar5vplmpdpkuqz4vmi%26Date%3D639258798638048531; expires=Sun, 24 Sep 2028 18:51:03 GMT; domain=.property24.com; path=/; secure; httponly",
+     "P24U=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/",
+     "P24U=%7B%22SuburbId%22%3A14737%2C%22AutomaticallySendReportedListingConfirmationEmail%22%3Atrue%2C%22UserNotificationUIState%22%3A0%2C%22ExpectedUnreadNotificationCount%22%3A0%7D; expires=Sat, 24 Oct 2026 18:51:03 GMT; path=/; secure",
+     "__RequestVerificationToken=CfDJ8GBCS__IpUZHpFW4XQtSl_2bd3YYqpBZ6KluZzxiE-Gt0Zesjbgq1l86MYjCUZA1_cxklNXV1RtECw-nAuoJenqJcswpUrSo89VhqqXuyd9k0Rl08Zue2zmizEVRMmTAHFrnm87oFN1_nCuUHsBqlKo; path=/; secure; samesite=lax; httponly"
+    ]
+   }
+  },
+  "query": "https://www.property24.com/for-sale/meyersdal-eco-estate/alberton/gauteng/14737?sp=pf%3d16000000%26pt%3d20000000",
+  "markdown": "Meyersdal Eco Estate Property : Property and houses for sale in Meyersdal Eco Estate : Property24.com\n\nPlease note that you are using an outdated browser which is not compatible with some elements of the site. We strongly urge you to update to [Edge](https://www.microsoft.com/en-us/edge \"Download Edge\") for an optimal browsing experience.\n\n*   \n\n \n\n \n\n 0\n\n# Property for Sale in Meyersdal Eco Estate\n\n  \n\n8results ![Info](/Content/images/Optimized/Icons/icon_tooltip_dark.svg?z=ea40366151b0694a5bf7) \n\nSort by:   Default ![Sort by](/Content/images/Optimized/Icons/icon_arrow_right_updated.svg?z=668f440cafaa8773098e) \n\n*   [Default](https://www.property24.com/for-sale/meyersdal-eco-estate/alberton/gauteng/14737?sp=pf%3d16000000%26pt%3d20000000#SortOrder \"Default\")\n*   [Price - low to high](https://www.property24.com/for-sale/meyersdal-eco-estate/alberton/gauteng/14737?sp=pf%3d16000000%26pt%3d20000000%26so%3dPriceLow#SortOrder \"Price - low to high\")\n*   [Price - high to low](https://www.property24.com/for-sale/meyersdal-eco-estate/alberton/gauteng/14737?sp=pf%3d16000000%26pt%3d20000000%26so%3dPriceHigh#SortOrder \"Price - high to low\")\n*   [Most recent](https://www.property24.com/for-sale/meyersdal-eco-estate/alberton/gauteng/14737?sp=pf%3d16000000%26pt%3d20000000%26so%3dNewest#SortOrder \"Most recent\")\n*   [Property type](https://www.property24.com/for-sale/meyersdal-eco-estate/alberton/gauteng/14737?sp=pf%3d16000000%26pt%3d20000000%26so%3dType#SortOrder \"Property type\")\n*   [Size](https://www.property24.com/for-sale/meyersdal-eco-estate/alberton/gauteng/14737?sp=pf%3d16000000%26pt%3d20000000%26so%3dSize#SortOrder \"Size\")\n\n[![Set within the prestigious Meyersdal Eco Estate, this extraordinary residence is a truly rare offering. Positioned on one of the ...](https://images.prop24.com/386093081/Crop600x400 \"5 Bedroom House for sale in Meyersdal Eco Estate - Alberton\")\n\n*   Under Offer\n\n*   NO TRANSFER DUTY\n\n](https://www.property24.com/for-sale/meyersdal-eco-estate/alberton/gauteng/14737/117595094?plId=2613024&plt=6)   ![Allegiance Properties - Soma](https://images.prop24.com/314057864/Ensure264x153)[ R 18 200 000 ![tag](/Content/images/Optimized/Icons/icon_tag_grey_updated.svg?z=0560ee201c09e25f7819)  5 Bedroom House Meyersdal Eco Estate Set within the prestigious Meyersdal Eco Estate, this extraordinary residence is a truly rare offering. Positioned on one of the ... 5 6.5 6 ![Erf Size](/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543) 4 291 m²](https://www.property24.com/for-sale/meyersdal-eco-estate/alberton/gauteng/14737/117595094?plId=2613024&plt=6)\n\n[![Experience the perfect blend of elegance and comfort in this exquisite family home. Designed for luxurious living, this property ...](/blank.gif \"7 Bedroom House for sale in Meyersdal Eco Estate - Alberton\")\n\n*   Under Offer\n\n](https://www.property24.com/for-sale/meyersdal-eco-estate/alberton/gauteng/14737/117595291)   ![Allegiance Properties](https://images.prop24.com/217649905/Ensure264x153)[ R 16 350 000 7 Bedroom House Meyersdal Eco Estate Experience the perfect blend of elegance and comfort in this exquisite family home. Designed for luxurious living, this property ... 7 6.5 8 ![Erf Size](/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543) 2 295 m²](https://www.property24.com/for-sale/meyersdal-eco-estate/alberton/gauteng/14737/117595291)\n\n[![Masterful design and modern luxury are the attributes underpinning this exceptional residence. Designed to maximise the use of ...](https://images.prop24.com/380923581/Crop600x400 \"4 Bedroom House for sale in Meyersdal Eco Estate - Alberton\")\n\n*   Under Offer\n\n](https://www.property24.com/for-sale/meyersdal-eco-estate/alberton/gauteng/14737/117286287)   ![Law Real Estate](https://images.prop24.com/276704044/Ensure264x153)[ R 17 990 000 4 Bedroom House Meyersdal Eco Estate Masterful design and modern luxury are the attributes underpinning this exceptional residence. Designed to maximise the use of ... 4 6.5 4 ![Erf Size](/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543) 2 066 m²](https://www.property24.com/for-sale/meyersdal-eco-estate/alberton/gauteng/14737/117286287)\n\n [![Set in what is arguably one of the finest positions in Meyersdal Eco Estate, this exceptional home is perfectly located in a quiet ...](https://images.prop24.com/377454420/Crop600x400 \"5 Bedroom House for sale in Meyersdal Eco Estate - Alberton\")](https://www.property24.com/for-sale/meyersdal-eco-estate/alberton/gauteng/14737/117112075)![Law Real Estate](https://images.prop24.com/276704044/Ensure264x153)   [ R 18 999 000 5 Bedroom House Meyersdal Eco Estate Set in what is arguably one of the finest positions in Meyersdal Eco Estate, this exceptional home is perfectly located in a quiet ... 5 6 17 ![Erf Size](/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543) 2 653 m²](https://www.property24.com/for-sale/meyersdal-eco-estate/alberton/gauteng/14737/117112075)\n\n[![Experience the perfect blend of elegance and comfort in this exquisite family home. Designed for luxurious living, this property ...](/blank.gif \"7 Bedroom House for sale in Meyersdal Eco Estate - Alberton\")\n\n*   Under Offer\n\n](https://www.property24.com/for-sale/meyersdal-eco-estate/alberton/gauteng/14737/115250619)   ![Allegiance Properties](https://images.prop24.com/217649905/Ensure264x153)[ R 16 350 000 7 Bedroom House Meyersdal Eco Estate Experience the perfect blend of elegance and comfort in this exquisite family home. Designed for luxurious living, this property ... 7 6.5 8 ![Erf Size](/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543) 2 295 m²](https://www.property24.com/for-sale/meyersdal-eco-estate/alberton/gauteng/14737/115250619)\n\nListed by 2 Estate Agencies\n\n [![Designed to evoke the refined elegance of a boutique hotel, this extraordinary Bali-inspired residence is the epitome of luxury ...](/blank.gif \"4 Bedroom House for sale in Meyersdal Eco Estate - Alberton\")](https://www.property24.com/for-sale/meyersdal-eco-estate/alberton/gauteng/14737/116896654)![Six Red Marbles Real Estate](https://images.prop24.com/232199380/Ensure264x153)   [ R 17 495 000 4 Bedroom House Meyersdal Eco Estate Designed to evoke the refined elegance of a boutique hotel, this extraordinary Bali-inspired residence is the epitome of luxury ... 4 5 5 ![Erf Size](/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543) 1 500 m²](https://www.property24.com/for-sale/meyersdal-eco-estate/alberton/gauteng/14737/116896654)\n\n [![Boasting 5 expansive en-suite bedrooms, including a luxurious downstairs guest suite, this home has been meticulously crafted to offer ...](/blank.gif \"5 Bedroom House for sale in Meyersdal Eco Estate - Alberton\")](https://www.property24.com/for-sale/meyersdal-eco-estate/alberton/gauteng/14737/113671915)![Allegiance Properties - Soma](https://images.prop24.com/314057864/Ensure264x153)   [ R 18 900 000 5 Bedroom House Meyersdal Eco Estate Boasting 5 expansive en-suite bedrooms, including a luxurious downstairs guest suite, this home has been meticulously crafted to offer ... 5 6 6 ![Floor Size](/Content/images/Optimized/Icons/icon_floor_updated.svg?z=fcacf780bdee314ed65c) 1 504 m²](https://www.property24.com/for-sale/meyersdal-eco-estate/alberton/gauteng/14737/113671915)\n\n[![This is one of the most underpriced properties currently available in Meyersdal Eco Estate.\nSet on a rare 4063m&#178; corner double ...](/blank.gif \"5 Bedroom House for sale in Meyersdal Eco Estate - Alberton\")\n\n*   Under Offer\n\n](https://www.property24.com/for-sale/meyersdal-eco-estate/alberton/gauteng/14737/117058833)   ![Allegiance Properties - Soma](https://images.prop24.com/314057864/Ensure264x153)[ R 18 900 000 5 Bedroom House Meyersdal Eco Estate This is one of the most underpriced properties currently available in Meyersdal Eco Estate. Set on a rare 4063m² corner double ... 5 6 5 ![Erf Size](/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543) 4 063 m²](https://www.property24.com/for-sale/meyersdal-eco-estate/alberton/gauteng/14737/117058833)\n\nListed by 2 Estate Agencies\n\n[![this exceptional residence offers a rare blend of modern luxury, privacy, and breathtaking natural surroundings — overlooking a ...](/blank.gif \"4 Bedroom House for sale in Meyersdal Eco Estate - Alberton\")\n\n*   Under Offer\n\n](https://www.property24.com/for-sale/meyersdal-eco-estate/alberton/gauteng/14737/116953497)   ![Allegiance Properties - Soma](https://images.prop24.com/314057864/Ensure264x153)[ R 16 999 999 4 Bedroom House Meyersdal Eco Estate this exceptional residence offers a rare blend of modern luxury, privacy, and breathtaking natural surroundings — overlooking a ... 4 4 5](https://www.property24.com/for-sale/meyersdal-eco-estate/alberton/gauteng/14737/116953497)\n\n [![Previous](/Content/images/Optimized/Icons/icon_arrow_right_updated.svg?z=668f440cafaa8773098e) Previous](javascript:;) [Next ![Next](/Content/images/Optimized/Icons/icon_arrow_right_updated.svg?z=668f440cafaa8773098e)](javascript:;) \n\n*   [1](https://www.property24.com/for-sale/meyersdal-eco-estate/alberton/gauteng/14737?sp=pf%3d16000000%26pt%3d20000000)\n\n![Property24 Email Alerts Illustration](/Content/images/Optimized/Marketing/email_alerts.svg?z=e7bfc5607e0f521e5512)\n\n#### Property Alerts\n\n##### Be the first to see new properties for sale in **Meyersdal Eco Estate**\n\nEmail Address \n\nGet Email Alerts\n\n##### Articles Relating To Meyersdal Eco Estate\n\n[4 absolutely stunning mansions](https://www.property24.com/articles/4-absolutely-stunning-mansions/31059 \"4 absolutely stunning mansions\") You will love these lavish homes if you enjoy entertaining often. From Hawaan Forest Estate to Meyersdal Eco Estate, Hermanus and Waterfall Country Estate, be inspired... [4 splendidly modern homes you’d love to live in](https://www.property24.com/articles/4-splendidly-modern-homes-youd-love-to-live-in/31014 \"4 splendidly modern homes you’d love to live in\") Be prepared to fall in love with these opulent homes in some of SA's most prestigious estates. [10 Johannesburg neighbourhoods offering a good quality of life](https://www.property24.com/articles/10-johannesburg-neighbourhoods-offering-a-good-quality-of-life/30870 \"10 Johannesburg neighbourhoods offering a good quality of life\") Residential estates are fast becoming the go-to option for people looking for a relaxed, safe and beautiful place to live. From Steyn City to Waterfall, these areas offer a high standard of living to suit all pockets...\n\nMeyersdal Eco Estate Trends Average Property Price\n\n![Loading](/Content/images/Optimized/loading.gif?z=06483dd6d616a2608023)\n\n[More Trends and Statistics](https://www.property24.com/alberton/meyersdal-eco-estate/property-trends/14737 \"Meyersdal Eco Estate Property Trends\")\n\n##### Add Surrounding Suburbs\n\n ![](/Content/images/Optimized/Icons/icon_untick_square.svg?z=54fc9f1abbc1144e443c) ![](/Content/images/Optimized/Icons/icon_tick_square.svg?z=6705ed031d070493a436) Meyersdal Eco Estate (8)\n\n ![](/Content/images/Optimized/Icons/icon_untick_square.svg?z=54fc9f1abbc1144e443c) ![](/Content/images/Optimized/Icons/icon_tick_square.svg?z=6705ed031d070493a436) Bassonia (2)\n\n ![](/Content/images/Optimized/Icons/icon_untick_square.svg?z=54fc9f1abbc1144e443c) ![](/Content/images/Optimized/Icons/icon_tick_square.svg?z=6705ed031d070493a436) South Crest (0)\n\n ![](/Content/images/Optimized/Icons/icon_untick_square.svg?z=54fc9f1abbc1144e443c) ![](/Content/images/Optimized/Icons/icon_tick_square.svg?z=6705ed031d070493a436) Raceview (0)\n\n ![](/Content/images/Optimized/Icons/icon_untick_square.svg?z=54fc9f1abbc1144e443c) ![](/Content/images/Optimized/Icons/icon_tick_square.svg?z=6705ed031d070493a436) Glenvista (0)\n\n ![](/Content/images/Optimized/Icons/icon_untick_square.svg?z=54fc9f1abbc1144e443c) ![](/Content/images/Optimized/Icons/icon_tick_square.svg?z=6705ed031d070493a436) Liefde En Vrede (0)\n\n ![](/Content/images/Optimized/Icons/icon_untick_square.svg?z=54fc9f1abbc1144e443c) ![](/Content/images/Optimized/Icons/icon_tick_square.svg?z=6705ed031d070493a436) Eastcliff (0)\n\n ![](/Content/images/Optimized/Icons/icon_untick_square.svg?z=54fc9f1abbc1144e443c) ![](/Content/images/Optimized/Icons/icon_tick_square.svg?z=6705ed031d070493a436) Randhart (0)\n\n ![](/Content/images/Optimized/Icons/icon_untick_square.svg?z=54fc9f1abbc1144e443c) ![](/Content/images/Optimized/Icons/icon_tick_square.svg?z=6705ed031d070493a436) Mulbarton (0)\n\n ![](/Content/images/Optimized/Icons/icon_untick_square.svg?z=54fc9f1abbc1144e443c) ![](/Content/images/Optimized/Icons/icon_tick_square.svg?z=6705ed031d070493a436) Oakdene (0)\n\nPlease select at least one suburb\n\nUpdate Suburbs\n\n##### [Meyersdal Eco Estate Property for Sale](https://www.property24.com/for-sale/meyersdal-eco-estate/alberton/gauteng/14737?sp=pf%3d16000000%26pt%3d20000000 \"Meyersdal Eco Estate Property for Sale\")\n\n*   [Houses (8)](https://www.property24.com/houses-for-sale/meyersdal-eco-estate/alberton/gauteng/14737?sp=pf%3d16000000%26pt%3d20000000 \"Houses for Sale in Meyersdal Eco Estate\")\n\n##### About Meyersdal Eco Estate\n\n[Estate Agents in Meyersdal Eco Estate](https://www.property24.com/estate-agencies/meyersdal-eco-estate/alberton/gauteng/14737 \"Estate Agents in Meyersdal Eco Estate\") [Sold Prices in Meyersdal Eco Estate](https://www.property24.com/property-values/meyersdal-eco-estate/alberton/gauteng/14737 \"Sold Prices in Meyersdal Eco Estate\")\n\n[Property for sale in Alberton](https://www.property24.com/for-sale/alberton/gauteng/19 \"Property and houses for sale in Alberton : Alberton Property : Property24.com\")\n\n[Property for sale in Gauteng](https://www.property24.com/for-sale/gauteng/1 \"Property for sale in Gauteng : Property and houses for sale in Gauteng : Property24.com\")\n\n*   [Albertsdal](https://www.property24.com/for-sale/albertsdal/alberton/gauteng/1870 \"Albertsdal Property : Property and houses for sale in Albertsdal : Property24.com\")\n*   [Alrode](https://www.property24.com/for-sale/alrode/alberton/gauteng/1872 \"Alrode Property : Property and houses for sale in Alrode : Property24.com\")\n\n*   [Brackendowns](https://www.property24.com/for-sale/brackendowns/alberton/gauteng/1833 \"Brackendowns Property : Property and houses for sale in Brackendowns : Property24.com\")\n*   [Brackenhurst](https://www.property24.com/for-sale/brackenhurst/alberton/gauteng/1874 \"Brackenhurst Property : Property and houses for sale in Brackenhurst : Property24.com\")\n\n*   [Mayberry Park](https://www.property24.com/for-sale/mayberry-park/alberton/gauteng/1878 \"Mayberry Park Property : Property and houses for sale in Mayberry Park : Property24.com\")\n*   [Meyersdal](https://www.property24.com/for-sale/meyersdal/alberton/gauteng/12770 \"Meyersdal Property : Property and houses for sale in Meyersdal : Property24.com\")\n\n*   [New Redruth](https://www.property24.com/for-sale/new-redruth/alberton/gauteng/1882 \"New Redruth Property : Property and houses for sale in New Redruth : Property24.com\")\n*   [Sky City](https://www.property24.com/for-sale/sky-city/alberton/gauteng/17552 \"Sky City Property : Property and houses for sale in Sky City : Property24.com\")\n\n*   [Verwoerdpark](https://www.property24.com/for-sale/verwoerdpark/alberton/gauteng/1899 \"Verwoerdpark, Alberton Property : Property and houses for sale in Verwoerdpark, Alberton : Property24.com\")\n\n[![Property for sale: Houses for sale: Property24](/Content/images/Optimized/Logos/footer_logo_white_large.svg?z=8108a8253dc9f8d0d0d1)](https://www.property24.com/ \"Property for sale: Houses for sale: Property24\")\n\n[![instagram](/Content/images/Optimized/Icons/icon_instagram_rounded.svg?z=befcb56eeefeca2b7157)](https://www.instagram.com/property24_sa/ \"Find Property24 on Instagram\") [![facebook](/Content/images/Optimized/Icons/icon_facebook_rounded.svg?z=38bfdb8180de4b2ec66a)](https://www.facebook.com/property24 \"Find Property24 on Facebook\") [![twitter](/Content/images/Optimized/Icons/icon_twitter_rounded.svg?z=a4e31f27df144d88a0ea)](https://twitter.com/Property24 \"Find Property24 on Twitter\") [![youtube](/Content/images/Optimized/Icons/icon_youtube_rounded.svg?z=4e7743d439878c62a49f)](https://www.youtube.com/user/Property24 \"Find Property24 on Youtube\") [![pinterest](/Content/images/Optimized/Icons/icon_pinterest_rounded.svg?z=d70f8a6856fc28aea94c)](https://www.pinterest.com/property24/ \"Find Property24 on Pinterest\")\n\n* * *\n\n*   [About Us](https://www.property24.com/about-us)\n*   [Contact Us](https://www.property24.com/contact-us)\n*   [Feedback](https://www.property24.com/feedback)\n*   [Sitemap](https://www.property24.com/sitemap)\n\n*   [Terms & Conditions](https://www.property24.com/terms-and-conditions)\n*   [Privacy Policy](https://www.property24.com/privacy-policy)\n*   [Cookie Policy](https://www.property24.com/cookie-policy)\n*   [PAIA Manual](https://www.property24.com/paia-manual)\n\n*   [Join Our Team](https://www.property24.com/careers)\n*   [Agent Zone](https://manage.property24.com/)\n*   [Agency Products](https://www.property24.com/products/products-overview)\n\nCopyright © 2026 Property24\n\nDownload the App\n\n[![Available on the App Store](/Content/images/Optimized/Icons/footer_apple_store.svg?z=5de7839dd2c149b09824)](https://itunes.apple.com/za/app/property24.com-property-for/id486012121?mt=8) [![Available on the App Store](/Content/images/Optimized/Icons/footer_google_store.svg?z=c8260857661db3a84c9d)](https://play.google.com/store/apps/details?id=com.korbitec.property24)\n\n![Loading](/Content/images/Optimized/loading.gif?z=06483dd6d616a2608023)\n\n![Close](/Content/images/Optimized/Icons/icon_close_grey.png?z=1cc08bf7b63ad90d18b7)\n\nset at runtime - Property24\n\nset at runtime\n\nset at runtime\n\n* * *\n\n[Close](javascript:;)"
+ }
+]

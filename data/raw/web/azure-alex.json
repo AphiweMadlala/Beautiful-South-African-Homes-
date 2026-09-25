@@ -1,0 +1,16 @@
+[
+ {
+  "crawl": {
+   "httpStatusCode": 500,
+   "httpStatusMessage": "Proxy rejected the CONNECT tunnel with status code 590.",
+   "loadedAt": "2026-09-24T18:50:56.785Z",
+   "uniqueKey": "Q0pbufNeFN",
+   "requestStatus": "failed"
+  },
+  "metadata": {
+   "url": "https://azurecoastalrealestate.com/agent/alex-van-der-merwe/",
+   "title": ""
+  },
+  "text": ""
+ }
+]

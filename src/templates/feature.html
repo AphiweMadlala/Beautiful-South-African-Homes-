@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% block title %}Feature a Property | {{ brand.name }}{% endblock %}
+{% block description %}Agents, agencies and developers: submit an exceptional South African residence to be considered for a feature.{% endblock %}
+{% block main %}
+<header class="page-head">
+  <h1 class="display page-h">Have an exceptional residence to share?</h1>
+  <p class="lede">{{ brand.name }} features homes marketed by South African agents, agencies and developers. Each feature credits you and your agency, and enquiries are directed to you.</p>
+</header>
+
+<div class="feature-page">
+  <section class="howto" aria-labelledby="howto-h">
+    <h2 id="howto-h" class="display psec-h">What to send</h2>
+    <ul class="ticks">
+      <li>Suburb or estate, city and province</li>
+      <li>Asking price, or price on application</li>
+      <li>Bedrooms, bathrooms, garages, erf and floor size</li>
+      <li>Agent name and agency</li>
+      <li>A link to the live listing</li>
+      <li>Professional photography, landscape, at the highest resolution you have</li>
+      <li>Architect or designer credit, if you would like it published</li>
+    </ul>
+    <p class="muted">Every submission is reviewed before it is featured. Sending a listing does not guarantee publication.</p>
+  </section>
+
+  <section class="submit" aria-labelledby="submit-h">
+    <h2 id="submit-h" class="display psec-h">Submit a residence</h2>
+    <p class="muted">This form prepares an email to {{ brand.email }} in your mail app. Attach photography there, or share a download link below.</p>
+    <form class="form" novalidate action="mailto:{{ brand.email }}" method="post" enctype="text/plain" data-mailto-form data-to="{{ brand.email }}">
+      <div class="form-grid">
+        <div class="field"><label for="s-agent">Your name</label><input id="s-agent" name="Agent" autocomplete="name" required></div>
+        <div class="field"><label for="s-agency">Agency or developer</label><input id="s-agency" name="Agency" autocomplete="organization" required></div>
+        <div class="field"><label for="s-loc">Suburb or estate, city</label><input id="s-loc" name="Location" required></div>
+        <div class="field"><label for="s-price">Asking price</label><input id="s-price" name="Asking price" inputmode="numeric" aria-describedby="s-price-h"><p class="help" id="s-price-h">In rand, or write POA.</p></div>
+        <div class="field field-wide"><label for="s-link">Listing link</label><input id="s-link" name="Listing link" type="url" placeholder="https://" aria-describedby="s-link-h"><p class="help" id="s-link-h">Property24, Private Property or your agency site.</p></div>
+        <div class="field field-wide"><label for="s-photos">Photography link</label><input id="s-photos" name="Photography" type="url" placeholder="https://"></div>
+        <div class="field field-wide"><label for="s-notes">Details</label><textarea id="s-notes" name="Details" rows="5"></textarea></div>
+      </div>
+      <p class="form-error" role="alert" data-form-error hidden>Please complete the highlighted fields.</p>
+      <button class="btn btn-gold" type="submit">Prepare Email</button>
+    </form>
+    <p class="muted alt-route">Prefer Instagram? Send a message to <a href="{{ brand.instagram }}" rel="noopener">{{ brand.instagramHandle }}</a>.</p>
+  </section>
+</div>
+{% endblock %}

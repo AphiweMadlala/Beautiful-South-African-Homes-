@@ -1,0 +1,7 @@
+# Instagram originals (389 MB). Re-download from the Apify dataset; see PROJECT_CONTEXT.md.
+data/raw/media/
+.firecrawl/
+.impeccable/live/
+__pycache__/
+node_modules/
+qa/out/

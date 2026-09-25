@@ -1,0 +1,47 @@
+{# Quick discovery strip. Plain GET form: works without JavaScript; the collection page reads the query. #}
+<form class="search" action="{{ root }}residences/" method="get" role="search" aria-label="Find a residence">
+  <input type="hidden" name="set" value="all">
+  <div class="search-field search-loc">
+    <label for="q-loc">Location</label>
+    <select id="q-loc" name="loc">
+      <option value="">All of South Africa</option>
+      {% for prov, pdata in tree.items() %}
+      <optgroup label="{{ prov }}">
+        <option value="p:{{ prov }}">All {{ prov }} ({{ pdata.count }})</option>
+        {% for city, cdata in pdata.cities.items() %}
+        <option value="c:{{ city }}">{{ city }} ({{ cdata.count }})</option>
+        {% if cdata.areas|length > 1 %}{% for area, n in cdata.areas %}
+        <option value="a:{{ area }}">&nbsp;&nbsp;&nbsp;{{ area }} ({{ n }})</option>
+        {% endfor %}{% endif %}
+        {% endfor %}
+      </optgroup>
+      {% endfor %}
+    </select>
+  </div>
+  <div class="search-field">
+    <label for="q-price">Price</label>
+    <select id="q-price" name="price">
+      <option value="">Any price</option>
+      <option value="0-10000000">Under R10m</option>
+      <option value="10000000-20000000">R10m to R20m</option>
+      <option value="20000000-40000000">R20m to R40m</option>
+      <option value="40000000-">R40m and above</option>
+    </select>
+  </div>
+  <div class="search-field">
+    <label for="q-beds">Bedrooms</label>
+    <select id="q-beds" name="beds">
+      <option value="">Any</option>
+      {% for n in [3,4,5,6] %}<option value="{{ n }}">{{ n }}+</option>{% endfor %}
+    </select>
+  </div>
+  <div class="search-field">
+    <label for="q-type">Property type</label>
+    <select id="q-type" name="type">
+      <option value="">All types</option>
+      <option value="House">House</option>
+      <option value="Apartment">Apartment</option>
+    </select>
+  </div>
+  <button class="search-go" type="submit">Search</button>
+</form>

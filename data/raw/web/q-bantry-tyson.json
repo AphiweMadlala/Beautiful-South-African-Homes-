@@ -1,0 +1,492 @@
+[
+ {
+  "crawl": {
+   "httpStatusCode": 200,
+   "httpStatusMessage": "OK",
+   "loadedAt": "2026-09-24T18:51:27.385Z",
+   "uniqueKey": "0Ihkvroopi",
+   "requestStatus": "handled"
+  },
+  "searchResult": {
+   "title": "5 Bedroom House For Sale in Bantry Bay, Cape Town",
+   "description": "R75,000000. 5 Bedroom House For Sale in Bantry Bay, Cape Town | R75,000,000. fully furnished. 4 Levels on the mountain near the end of Arcadia ...",
+   "url": "http://www.google.com/goto?url=CAESYAHrOzAVXZc56J6FQZA80qiY3uDJYdmBfsHZZVh2i_0SbpfmAI1Qotl3-1MVK2FB-FpTyHPkPc46tl1d57DYcADqHxnF9K1btHmpjU89d_YlEs7aUcSfmHHCN8gPaVE4uw",
+   "resultType": "ORGANIC",
+   "rank": 3
+  },
+  "metadata": {
+   "title": "Instagram",
+   "description": "29 likes, 1 comments - jawitz.properties on September 1, 2022: \"5 Bedroom House For Sale in Bantry Bay, Cape Town | R75,000,000.\n\nStyle, panache and flair with sublime sea views 🌊.\n\nStunning brand ✨️ new master built residence being sold fully furnished. \n\n4 Levels on the mountain near the end of Arcadia road.\n\nDesigned for entertaining with great flow throughout. Designer kitchen with smeg appliances. No expense spared. Lift access to all floors. Fully equipped gym and sauna and media room. \n\nMaster suite and dressing room with own private deck and jacuzzi. 4 Additional bedrooms en suite. \n\nStaff accommodation and double garaging. \n\nWeb Ref: RL91094\nMarketed by @jawitzseapoint \nRegistered with the PPRA. \n#Jawitz #RealLifeRealEstate\". ",
+   "languageCode": "en",
+   "url": "https://www.instagram.com/p/Ch9O1MGquTx/",
+   "redirectedUrl": "https://www.instagram.com/p/Ch9O1MGquTx/",
+   "canonicalUrl": "https://www.instagram.com/p/Ch9O1MGquTx/",
+   "openGraph": [
+    {
+     "property": "og:type",
+     "content": "article"
+    },
+    {
+     "property": "og:site_name",
+     "content": "Instagram"
+    },
+    {
+     "property": "og:title",
+     "content": "Jawitz Properties on Instagram: \"5 Bedroom House For Sale in Bantry Bay, Cape Town | R75,000,000.\n\nStyle, panache and flair with sublime sea views 🌊.\n\nStunning brand ✨️ new master built residence being sold fully furnished. \n\n4 Levels on the mountain near the end of Arcadia road.\n\nDesigned for entertaining with great flow throughout. Designer kitchen with smeg appliances. No expense spared. Lift access to all floors. Fully equipped gym and sauna and media room. \n\nMaster suite and dressing room with own private deck and jacuzzi. 4 Additional bedrooms en suite. \n\nStaff accommodation and double garaging. \n\nWeb Ref: RL91094\nMarketed by @jawitzseapoint \nRegistered with the PPRA. \n#Jawitz #RealLifeRealEstate\""
+    },
+    {
+     "property": "og:image",
+     "content": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/651925037_18097799344781802_9152812568670771607_n.webp?stp=c170.0.512.511a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=6549_ETAkrUQ7kNvwHEGQUy&_nc_oc=AdqVlYfd0kxdBZvpiA0yf1R31blYzMAwoqISLRa2o9h7BxrYuKF-9OKgkBEwQ-Zmq6g&_nc_zt=23&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_gid=Br_fqTrWmckVAgjz5_-6Cg&_nc_ss=78689&oh=00_AQLSeoe5UB1nG_zeBy6CTxFGyUgItqUeY18tZQo3Rtv7jQ&oe=6ABB5DA2"
+    },
+    {
+     "property": "og:url",
+     "content": "https://www.instagram.com/jawitz.properties/p/Ch9O1MGquTx/"
+    },
+    {
+     "property": "og:description",
+     "content": "29 likes, 1 comments - jawitz.properties on September 1, 2022: \"5 Bedroom House For Sale in Bantry Bay, Cape Town | R75,000,000.\n\nStyle, panache and flair with sublime sea views 🌊.\n\nStunning brand ✨️ new master built residence being sold fully furnished. \n\n4 Levels on the mountain near the end of Arcadia road.\n\nDesigned for entertaining with great flow throughout. Designer kitchen with smeg appliances. No expense spared. Lift access to all floors. Fully equipped gym and sauna and media room. \n\nMaster suite and dressing room with own private deck and jacuzzi. 4 Additional bedrooms en suite. \n\nStaff accommodation and double garaging. \n\nWeb Ref: RL91094\nMarketed by @jawitzseapoint \nRegistered with the PPRA. \n#Jawitz #RealLifeRealEstate\". "
+    }
+   ],
+   "headers": {
+    "accept-ch": "viewport-width,dpr,Sec-CH-Prefers-Color-Scheme,Sec-CH-UA-Full-Version-List,Sec-CH-UA-Platform-Version,Sec-CH-UA-Model",
+    "accept-ch-lifetime": "4838400",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "cache-control": "private, no-cache, no-store, must-revalidate",
+    "content-encoding": "zstd",
+    "content-security-policy": "default-src *.facebook.com *.fbcdn.net *.instagram.com blob: 'wasm-unsafe-eval';script-src *.instagram.com static.cdninstagram.com z-p42-static.cdninstagram.com https://instagram.com https://*.www.instagram.com https://*.cdninstagram.com wss://www.instagram.com blob: *.facebook.com *.fbcdn.net *.facebook.net 127.0.0.1:* 'nonce-A53400Ax' 'self' 'wasm-unsafe-eval' https://*.google-analytics.com https://translate.google.com https://apis.google.com https://accounts.google.com;style-src *.instagram.com static.cdninstagram.com z-p42-static.cdninstagram.com https://*.www.instagram.com data: blob: 'unsafe-inline' *.fbcdn.net *.facebook.com https://accounts.google.com;connect-src *.instagram.com wss://edge-chat.instagram.com connect.facebook.net https://instagram.com https://*.www.instagram.com https://*.graph.instagram.com https://*.i.instagram.com https://*.od.instagram.com https://i.threads.net https://i.threads.com https://*.od.threads.net https://*.od.threads.com wss://www.instagram.com blob: *.facebook.com facebook.com *.fbcdn.net *.facebook.net wss://*.facebook.com:* ws://localhost:* *.cdninstagram.com wss://*.instagram.com:* 'self' *.ipification.com https://accounts.google.com https://meta.privacy-gateway.cloudflare.com/relay;font-src *.instagram.com static.cdninstagram.com z-p42-static.cdninstagram.com data: *.fbcdn.net *.intern.facebook.com *.facebook.com https://*.cdninstagram.com https://fonts.gstatic.com;img-src *.instagram.com *.facebook.com *.fbcdn.net data: *.cdninstagram.com *.whatsapp.net blob: https://*.threads.net https://*.threads.com *.fbsbx.com android-webview-video-poster: *.oculuscdn.com *.giphy.com *.tenor.co *.tenor.com www.googleadservices.com *.doubleclick.net *.google.com *.google.co.uk https://www.gstatic.com https://*.google-analytics.com;media-src *.facebook.com *.fbcdn.net *.instagram.com *.cdninstagram.com *.fbsbx.com data: blob: https://*.giphy.com *.tenor.co *.tenor.com;child-src *.facebook.com *.fbcdn.net *.instagram.com data: blob:;frame-src https://instagram.com https://connect.facebook.net *.instagram.com *.facebook.com *.fbsbx.com fbsbx.com data: *.ipification.com www.googleadservices.com *.doubleclick.net *.google.com *.google.co.uk;manifest-src *.facebook.com *.fbcdn.net *.instagram.com data: blob:;object-src *.facebook.com *.fbcdn.net *.instagram.com data: blob:;block-all-mixed-content;upgrade-insecure-requests;",
+    "content-type": "text/html; charset=\"utf-8\"",
+    "cross-origin-embedder-policy-report-only": "require-corp;report-to=\"coep_report\"",
+    "cross-origin-opener-policy": "same-origin-allow-popups",
+    "cross-origin-resource-policy": "same-origin",
+    "date": "Thu, 24 Sep 2026 18:51:26 GMT",
+    "document-policy": "force-load-at-top, include-js-call-stacks-in-crash-reports",
+    "expires": "Sat, 01 Jan 2000 00:00:00 GMT",
+    "origin-agent-cluster": "?1",
+    "permissions-policy": "accelerometer=(self), attribution-reporting=(), autoplay=(), bluetooth=(), camera=(self), ch-device-memory=(), ch-downlink=(), ch-dpr=(), ch-ect=(), ch-rtt=(), ch-save-data=(), ch-ua-arch=(), ch-ua-bitness=(), ch-viewport-height=(), ch-viewport-width=(), ch-width=(), clipboard-read=(), clipboard-write=(self), compute-pressure=(), display-capture=(self), encrypted-media=(), fullscreen=(self), gamepad=(), geolocation=(self), gyroscope=(self), hid=(), idle-detection=(), interest-cohort=(), keyboard-map=(), local-fonts=(), magnetometer=(), microphone=(self), midi=(), otp-credentials=(self), payment=(), picture-in-picture=(self), private-state-token-issuance=(), publickey-credentials-get=(self \"https://*.facebook.com\" \"https://facebook.com\"), screen-wake-lock=(), serial=(), shared-storage=(), shared-storage-select-url=(), private-state-token-redemption=(), usb=(), unload=(self), window-management=(), xr-spatial-tracking=();report-to=\"permissions_policy\"",
+    "pragma": "no-cache",
+    "report-to": "{\"max_age\":2592000,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/browser_reporting\\/coop\\/?minimize=0\"}],\"group\":\"coop_report\",\"include_subdomains\":true}, {\"max_age\":86400,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/browser_reporting\\/coep\\/?minimize=0\"}],\"group\":\"coep_report\"}, {\"max_age\":259200,\"endpoints\":[{\"url\":\"https:\\/\\/www.instagram.com\\/error\\/ig_web_error_reports\\/?device_level=unknown&brsid=7689176383105067157&comet_app_key=7&cpp=C3&cv=1048351027&st=1790275886384\"}]}, {\"max_age\":21600,\"endpoints\":[{\"url\":\"https:\\/\\/www.instagram.com\\/error\\/ig_web_error_reports\\/\"}],\"group\":\"permissions_policy\"}",
+    "reporting-endpoints": "coop_report=\"https://www.facebook.com/browser_reporting/coop/?minimize=0\", coep_report=\"https://www.facebook.com/browser_reporting/coep/?minimize=0\", default=\"https://www.instagram.com/error/ig_web_error_reports/?device_level=unknown&brsid=7689176383105067157&comet_app_key=7&cpp=C3&cv=1048351027&st=1790275886384\", permissions_policy=\"https://www.instagram.com/error/ig_web_error_reports/\"",
+    "strict-transport-security": "max-age=31536000; preload; includeSubDomains",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-fb-connection-quality": "EXCELLENT; q=0.9, rtt=2, rtx=0, c=17, mss=1248, tbw=4887, tp=-1, tpl=-1, uplat=395, ullat=0",
+    "x-fb-debug": "/+moVDBnyJsByo3kOC62LCgVESGxLKNW3KVmcJykntfaGtxhkZzoiesECwmrVwHUU78/ueyUJp+ALMeJ6oLwxg==",
+    "x-frame-options": "DENY",
+    "x-stack": "www",
+    "x-xss-protection": "0",
+    "set-cookie": [
+     "csrftoken=VUULBhjuw0C_AN3_q5lKeR; expires=Fri, 29-Oct-2027 18:51:26 GMT; Max-Age=34560000; path=/; domain=.instagram.com; secure; SameSite=None",
+     "datr=LnG1agRrxf-O9M0Ry80rXVxp; expires=Fri, 29-Oct-2027 18:51:26 GMT; Max-Age=34560000; path=/; domain=.instagram.com; secure; httponly; SameSite=None",
+     "ig_did=A7B85A71-BC28-4C84-8FB3-40CDA8747D93; expires=Fri, 24-Sep-2027 18:51:26 GMT; Max-Age=31536000; path=/; domain=.instagram.com; secure; httponly; SameSite=None"
+    ]
+   }
+  },
+  "query": "Bantry Bay 5 bedroom R75 000 000 Tyson Properties",
+  "markdown": "Instagram  \n\n[\n\n](https://www.instagram.com/)\n\n[Log In](https://www.instagram.com/accounts/login/?next=%2Fp%2FCh9O1MGquTx%2F&source=desktop_nav)\n\n[Sign Up](https://www.instagram.com/accounts/emailsignup/)\n\n![Photo by Jawitz Properties on September 01, 2022.](https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/651925037_18097799344781802_9152812568670771607_n.webp?_nc_cat=105&ig_cache_key=MjkxNzU1MzM0NjQ5NjMxODc2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTI4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=6549_ETAkrUQ7kNvwHEGQUy&_nc_oc=AdqVlYfd0kxdBZvpiA0yf1R31blYzMAwoqISLRa2o9h7BxrYuKF-9OKgkBEwQ-Zmq6g&_nc_zt=23&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_gid=WXcdAIGhf_f_uzfzrAV6Pg&_nc_ss=78689&oh=00_AQJ8zZ574W0r4Wvu3TEye4-BpUOKjrP-SdngA_mUgFCUaA&oe=6ABB5DA2)\n\n![jawitz.properties's profile picture](https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/369602670_803654017902180_5091098887009367771_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=zKT4WuzqiMoQ7kNvwGP2DsY&_nc_oc=AdppnWDM6YBPfsyyQAsnl2wbWW15vBFDG-q6KltmdT2Ms4yD4a1h5nDzsrfsgFntEEI&_nc_zt=24&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_ss=78689&oh=00_AQK6i46gQaRbG_b70xjK8YU-lIQG0JYaG_iXFL3l_y6tUA&oe=6ABB4D06)\n\n[\n\njawitz.properties\n\n\n\n](https://www.instagram.com/jawitz.properties/)\n\n•\n\nFollow\n\n[Bantry Bay, Western Cape, South Africa](https://www.instagram.com/explore/locations/222185886/bantry-bay-western-cape-south-africa/)\n\n* * *\n\n[![jawitz.properties's profile picture](https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/369602670_803654017902180_5091098887009367771_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=zKT4WuzqiMoQ7kNvwGP2DsY&_nc_oc=AdppnWDM6YBPfsyyQAsnl2wbWW15vBFDG-q6KltmdT2Ms4yD4a1h5nDzsrfsgFntEEI&_nc_zt=24&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_ss=78689&oh=00_AQK6i46gQaRbG_b70xjK8YU-lIQG0JYaG_iXFL3l_y6tUA&oe=6ABB4D06)](https://www.instagram.com/jawitz.properties/)\n\n[\n\njawitz.properties\n\n\n\n](https://www.instagram.com/jawitz.properties/) 212w\n\n5 Bedroom House For Sale in Bantry Bay, Cape Town | R75,000,000.  \n  \nStyle, panache and flair with sublime sea views 🌊.  \n  \nStunning brand ✨️ new master built residence being sold fully furnished.  \n  \n4 Levels on the mountain near the end of Arcadia road.  \n  \nDesigned for entertaining with great flow throughout. Designer kitchen with smeg appliances. No expense spared. Lift access to all floors. Fully equipped gym and sauna and media room.  \n  \nMaster suite and dressing room with own private deck and jacuzzi. 4 Additional bedrooms en suite.  \n  \nStaff accommodation and double garaging.  \n  \nWeb Ref: RL91094  \nMarketed by [@jawitzseapoint](https://www.instagram.com/jawitzseapoint/)  \nRegistered with the PPRA.  \n[#Jawitz](https://www.instagram.com/explore/tags/jawitz/) [#RealLifeRealEstate](https://www.instagram.com/explore/tags/realliferealestate/)\n\n[![jawitz.properties's profile picture](https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/369602670_803654017902180_5091098887009367771_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=zKT4WuzqiMoQ7kNvwGP2DsY&_nc_oc=AdppnWDM6YBPfsyyQAsnl2wbWW15vBFDG-q6KltmdT2Ms4yD4a1h5nDzsrfsgFntEEI&_nc_zt=24&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_ss=78689&oh=00_AQK6i46gQaRbG_b70xjK8YU-lIQG0JYaG_iXFL3l_y6tUA&oe=6ABB4D06)](https://www.instagram.com/jawitz.properties/)\n\n[\n\njawitz.properties\n\n\n\n](https://www.instagram.com/jawitz.properties/) [212w](https://www.instagram.com/p/Ch9O1MGquTx/c/18231497011123382/)\n\n[#luxurylifestyle](https://www.instagram.com/explore/tags/luxurylifestyle/) [#luxuryhomes](https://www.instagram.com/explore/tags/luxuryhomes/) [#instagood](https://www.instagram.com/explore/tags/instagood/) [#instalike](https://www.instagram.com/explore/tags/instalike/) [#interiordesign](https://www.instagram.com/explore/tags/interiordesign/) [#interiores](https://www.instagram.com/explore/tags/interiores/) [#interiorinspo](https://www.instagram.com/explore/tags/interiorinspo/) [#interior123](https://www.instagram.com/explore/tags/interior123/) [#interiorinspiration](https://www.instagram.com/explore/tags/interiorinspiration/) [#homesweethome](https://www.instagram.com/explore/tags/homesweethome/) [#homestyle](https://www.instagram.com/explore/tags/homestyle/) [#homedesign](https://www.instagram.com/explore/tags/homedesign/) [#homesofinstagram](https://www.instagram.com/explore/tags/homesofinstagram/) [#bantrybay](https://www.instagram.com/explore/tags/bantrybay/) [#capetown](https://www.instagram.com/explore/tags/capetown/) [#capetownliving](https://www.instagram.com/explore/tags/capetownliving/) [#lovethisplace](https://www.instagram.com/explore/tags/lovethisplace/) ❤️\n\nLike\n\nReply\n\n291\n\n[September 1, 2022](https://www.instagram.com/jawitz.properties/p/Ch9O1MGquTx/)\n\n[Log in](https://www.instagram.com/accounts/login/?next=%2Fp%2FCh9O1MGquTx%2F&source=post_comment_input) to like or comment.\n\n* * *\n\nMore posts from [jawitz.properties](https://www.instagram.com/jawitz.properties/)\n\n[\n\n![Video by Jawitz Properties on September 23, 2026. May be a black-and-white image of text.](https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/797725349_18624024073019446_7564484148707421554_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=-48i7lIsoGgQ7kNvwF5WNVN&_nc_oc=AdpxCewmWZ4p_uqkVQuXNKgljDXjhEhFDWxkZrj05Jgm71uAXo7qZTyakp_BQvjOj84&_nc_zt=23&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_gid=WXcdAIGhf_f_uzfzrAV6Pg&_nc_ss=78689&oh=00_AQI8tXNHKSFA-nfH9S4lxI2GRtn17UlxN-_L2m_zIsJTWg&oe=6ABB3F74)\n\n](https://www.instagram.com/jawitz.properties/reel/DdqFeP8nHte/)\n\n[\n\n![Photo by Jawitz Properties on September 23, 2026.](https://scontent-lga3-2.cdninstagram.com/v/t39.30808-6/820180821_1485302290311206_213680043863217414_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=I0ypg6vUzy8Q7kNvwHGmR9o&_nc_oc=Adq1duzhBgN_a4p9E3y6bDmhn_-0q7ABZQWzCbD5DP0E3gBHjlIz3S5YY9VhuwVl3cc&_nc_zt=23&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_gid=WXcdAIGhf_f_uzfzrAV6Pg&_nc_ss=78689&oh=00_AQIOCXR2Qp2WrHXDaipAwzOP4L4k9xZjNVF4etDKuMtOfQ&oe=6ABB29E0)\n\n](https://www.instagram.com/jawitz.properties/p/DdpGiA1jsz_/)\n\n[\n\n![Photo by Jawitz Properties on September 20, 2026. May be a graphic of timer, poster and text that says 'MINDSET MONDAY. Don't wait for the right moment. JAWITZ Leading REAL COMPA REALESTATE PANIES COMPANIE THE WORLD PROPERTIES The real astale agents\"'.](https://scontent-lga3-3.cdninstagram.com/v/t51.82787-15/818517360_18623066386019446_3843808628603016361_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=lI4iwnt0pmUQ7kNvwHHZi-W&_nc_oc=Adp-7-DpcuapJq3vLxdsOWXyCCEtFOcbP-pm2qGVMIRfQs7IdqTkSIKBQtmd3-3moR4&_nc_zt=23&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_gid=WXcdAIGhf_f_uzfzrAV6Pg&_nc_ss=78689&oh=00_AQJdrIjZrLjCNXH_k1IroLvU2tsjTM9chvVpCrjpi0ilHw&oe=6ABB4FD9)\n\n](https://www.instagram.com/jawitz.properties/p/DdiUJyXIw3z/)\n\n[\n\n![Photo by Jawitz Properties on September 20, 2026.](https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/809201657_18623064799019446_678852495567071837_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=52fPosatlCkQ7kNvwFIA9tF&_nc_oc=Adruaff4gDlMTWwKiLpoPQluwIhaVFBEExiEqykLICQuUnHFqrD1N6sKQASPDij88fw&_nc_zt=23&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_gid=WXcdAIGhf_f_uzfzrAV6Pg&_nc_ss=78689&oh=00_AQKGLLsOGnDobHUOHlhp_S_95eAfwGQhO21UYPjLPIXXPA&oe=6ABB4012)\n\n](https://www.instagram.com/jawitz.properties/p/DdiS9PqiFba/)\n\n[\n\n![Photo by Jawitz Properties on September 20, 2026. May be an image of ‎pomegranate, magazine, poster and ‎text that says '‎រម G'MAR CHATIMAH νA May you have an easy and meaningfulfast. JAWITZ AWITZ Leading س REAL ESTATE COMPANIES 一 THE WORLD PROPERTIES The real estate agents™ Buy Sell Rent Manage Own‎'‎‎.](https://scontent-lga3-3.cdninstagram.com/v/t51.82787-15/818062802_18622788097019446_6350707415300652791_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=p6lpveeRBCsQ7kNvwFTGt9f&_nc_oc=AdpCoy3sY-ouj8A-JmTEcL_vAeD7StFDSU2rcuUjets409HqJ8YBeCsvlzxIt7UbGFA&_nc_zt=23&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_gid=WXcdAIGhf_f_uzfzrAV6Pg&_nc_ss=78689&oh=00_AQLbKQdR3cph2ZkLiXoa-eF7kC2_fRc8nbudR9h68UVZsA&oe=6ABB3AD0)\n\n](https://www.instagram.com/jawitz.properties/p/DdgXGfwosqk/)\n\n[\n\n![Photo by Jawitz Properties on September 17, 2026.](https://scontent-lga3-1.cdninstagram.com/v/t39.30808-6/813698155_1479879324186836_4752443056645772117_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=yfGBaXSCE8YQ7kNvwGdujjK&_nc_oc=AdovZMF2ZsVzVnYi1QsnBMic2Ev0VeYNIFd9626ikFBTfOC2xchbYpbRNGE88JOw2f4&_nc_zt=23&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_gid=WXcdAIGhf_f_uzfzrAV6Pg&_nc_ss=78689&oh=00_AQJ2zqy-0vxO_dYnvZX4_wXPotmoGzGsII9sspLscWLqEw&oe=6ABB5607)\n\n](https://www.instagram.com/jawitz.properties/p/DdZTdi_ER6z/)\n\n[\n\n![Photo by Jawitz Properties on September 13, 2026. May be a graphic of poster and text that says 'MINDSET MONDAY. Don't confuse busy ミ ミ人 with forward. ሀ JAWITZ Leading REALE COMDANIES MPANIES ESTATE ESTATE COMP TE WORLD NORLE PROPERTIES The real estate agents\"'.](https://scontent-lga3-3.cdninstagram.com/v/t39.30808-6/809361443_1476815244493244_2401225999182094528_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=P7M-h-hDFjIQ7kNvwGuS6Yk&_nc_oc=AdplentM9hNW1YQ8YvmBu9FXriM7Sf3lkzfyeLghndZ0QvBG9JYp6sKCgKbfietwYHE&_nc_zt=23&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_gid=WXcdAIGhf_f_uzfzrAV6Pg&_nc_ss=78689&oh=00_AQKSX97-0Y2I1NewhqqW_y6ni2w8LQXZQZDl2O9cQXbpSw&oe=6ABB5AFB)\n\n](https://www.instagram.com/jawitz.properties/p/DdQg0tlFyML/)\n\n[\n\n![Photo by Jawitz Properties on September 13, 2026.](https://scontent-lga3-3.cdninstagram.com/v/t39.30808-6/808943199_1476804244494344_201879643248883027_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=8nBxS4FLlXEQ7kNvwFyV4WS&_nc_oc=AdoSi5fIWselE_PEK-QhBsUwsgnGGGVtcclsaIGCiEMfCEit2WYaHxqjHNG7wJ-RLdU&_nc_zt=23&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_gid=WXcdAIGhf_f_uzfzrAV6Pg&_nc_ss=78689&oh=00_AQLnliH3Hz1DXFaDRAleWc_ZFE4QQsFu6Jh6cDSj3-5vvQ&oe=6ABB33C1)\n\n](https://www.instagram.com/jawitz.properties/p/DdQf7t9l2ve/)\n\n[\n\n![Photo by Jawitz Properties on September 10, 2026. May be an image of pomegranate, magazine and text that says 'L'SHANAH OνA Wishing you a bright, prosperous, and and sweet New Year. JAWITZ Leading REAL ESTATE COMPANIES IES COMP ANIES 0 THE WORLD PROPERTIES The real estate agents™ Buy Sell Rent Manage Own'.](https://scontent-lga3-1.cdninstagram.com/v/t39.30808-6/805812928_1474226004752168_9029356020604047570_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=YwpvZUWhK88Q7kNvwFb6ktX&_nc_oc=Adp8c33jXpWXPWpZBGibA2Qkdxm85jEBhkHx3w9Vp32pyyW1PRmEx96mqQChaO-1Qvg&_nc_zt=23&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_gid=WXcdAIGhf_f_uzfzrAV6Pg&_nc_ss=78689&oh=00_AQLtjmJG_OZAOOnVh1Ngx16a5Cn8PhWS4DQzBAkwLHawiA&oe=6ABB3CE7)\n\n](https://www.instagram.com/jawitz.properties/p/DdIwS3-F9Pn/)\n\n[See more posts](https://www.instagram.com/jawitz.properties/)\n\n* * *"
+ },
+ {
+  "crawl": {
+   "httpStatusCode": 200,
+   "httpStatusMessage": "OK",
+   "loadedAt": "2026-09-24T18:51:27.252Z",
+   "uniqueKey": "xo01IFVrqi",
+   "requestStatus": "handled"
+  },
+  "searchResult": {
+   "title": "5 Bedroom House for sale in Bantry Bay",
+   "description": "This five bedroom villa in Bantry Bay is exactly that sort of place. $4,563,893 … +971 4 563 5900 hello@luxuryproperty.com",
+   "url": "http://www.google.com/goto?url=CAESeQHrOzAVm64945Z6lEDZenGcwpes5dOT_nB9VuEAa_OLv1eTrTDRj8J5KmEOoEOAJXsKprqWvYF6ldLPMmqHsvZ3myQA1hubOAVB75O6lW1jGytGdNXeQiND8VMJu_whlJoYODv0hUNxcWDhk9eWhGGarVi7WeWos_A",
+   "resultType": "ORGANIC",
+   "rank": 2
+  },
+  "metadata": {
+   "title": "5 Bedroom House for sale in Bantry Bay",
+   "description": "<p>Some homes just have a way of making you pause right at the door. This five bedroom villa in Bantry Bay is exactly that sort of place. Designed by Van der Merwe Miszewski who honestly have a knack for putting homes in the right spot it sits up on Lions Head and feels quietly tucked among tall old trees. Even as you come up the driveway you can see glimpses of the Atlantic Ocean beyond those branches and sometimes the water glows all the way out to Robben Island. I remember standing by the triple volume windows and actually forgetting to check my phone for once. It kind of invites you to stop and just look outside for a second or two.<br><br>The house itself is a real mix of calm and bold. The palette is really soft and simple. Light timber everywhere glass that just wraps you in the view and a touch of steel so it feels modern but comfortable not cold at all. Honestly the way the trees almost reach right up to the windows makes you feel like you are living inside a really cool treehouse the grownup kind where you still hear birds in the morning. You will also notice how the light changes through the day. That big glassed void in the middle lets the sunlight move right into the heart of the house. Even on quiet days when there is cloud you still feel lifted up by the space.<br><br>It is designed around a really open plan lounge and dining area which just spills into a proper kitchen. Not the type you feel nervous to cook in either. You can picture friends sitting over a late breakfast while someone actually uses the stove. The dining table by the window is perfect for watching the evening sky change color or that quick coffee in the morning before work. And the thing is it does not feel formal. There is just a flow from one room to the next so you are never cut off from whoever is in the house. Downstairs there is a proper basement rec room if you need to let off some steam or set up a family movie night plus a dedicated studio space that would probably suit an artist or even just someone needing to work from home with a bit of peace. It does not shout for attention but you can feel the care in every detail.<br><br>There are five real bedrooms that manage to feel both private and connected. You get full en suite bathrooms plenty of space for storing your actual clothes not just for show and window views that let you peek through green leaves or out to the ocean. It is the kind of place where you want to crack the glass doors open at night for a breeze and maybe listen out for the waves if it is quiet enough. The study is there as well in case you need somewhere to focus away from the main living area but honestly you will probably end up sitting with your laptop out on the balcony on most days. There is also staff quarters tucked away neatly and even extra secure parking so guests never feel like a hassle. The garage fits two cars without issue but you have space for plenty more if you have visitors.&nbsp;<br><br>Step outside and you will see how the landscaping blends with everything else. Native shrubs tall bushy trees and enough space for kids to play or for those long summer lunches with friends. Sometimes you even catch families strolling the quiet lanes or the odd group walking up towards Lions Head for sunset. Bantry Bay itself is just close enough to feel connected to Cape Town life but quietly separate too. The coffee shop runs early you always find someone jogging in the mornings and the ocean feels like part of your backyard.<br><br>The only way to know if it feels right is to come see it for yourself. If you have any questions or just want to walk around and take it all in reach out whenever you like. At LuxuryProperty.com we are always happy to help you find a home that fits you just right.<br>&nbsp;</p>",
+   "languageCode": "en",
+   "url": "https://www.luxuryproperty.com/south-africa-/cape-town/bantry-bay",
+   "redirectedUrl": "https://www.luxuryproperty.com/south-africa-/cape-town/bantry-bay",
+   "canonicalUrl": "https://www.luxuryproperty.com/south-africa-/cape-town/bantry-bay",
+   "openGraph": [
+    {
+     "property": "og:title",
+     "content": "5 Bedroom House for sale in Bantry Bay"
+    },
+    {
+     "property": "og:description",
+     "content": "<p>Some homes just have a way of making you pause right at the door. This five bedroom villa in Bantry Bay is exactly that sort of place. Designed by Van der Merwe Miszewski who honestly have a knack for putting homes in the right spot it sits up on Lions Head and feels quietly tucked among tall old trees. Even as you come up the driveway you can see glimpses of the Atlantic Ocean beyond those branches and sometimes the water glows all the way out to Robben Island. I remember standing by the triple volume windows and actually forgetting to check my phone for once. It kind of invites you to stop and just look outside for a second or two.<br><br>The house itself is a real mix of calm and bold. The palette is really soft and simple. Light timber everywhere glass that just wraps you in the view and a touch of steel so it feels modern but comfortable not cold at all. Honestly the way the trees almost reach right up to the windows makes you feel like you are living inside a really cool treehouse the grownup kind where you still hear birds in the morning. You will also notice how the light changes through the day. That big glassed void in the middle lets the sunlight move right into the heart of the house. Even on quiet days when there is cloud you still feel lifted up by the space.<br><br>It is designed around a really open plan lounge and dining area which just spills into a proper kitchen. Not the type you feel nervous to cook in either. You can picture friends sitting over a late breakfast while someone actually uses the stove. The dining table by the window is perfect for watching the evening sky change color or that quick coffee in the morning before work. And the thing is it does not feel formal. There is just a flow from one room to the next so you are never cut off from whoever is in the house. Downstairs there is a proper basement rec room if you need to let off some steam or set up a family movie night plus a dedicated studio space that would probably suit an artist or even just someone needing to work from home with a bit of peace. It does not shout for attention but you can feel the care in every detail.<br><br>There are five real bedrooms that manage to feel both private and connected. You get full en suite bathrooms plenty of space for storing your actual clothes not just for show and window views that let you peek through green leaves or out to the ocean. It is the kind of place where you want to crack the glass doors open at night for a breeze and maybe listen out for the waves if it is quiet enough. The study is there as well in case you need somewhere to focus away from the main living area but honestly you will probably end up sitting with your laptop out on the balcony on most days. There is also staff quarters tucked away neatly and even extra secure parking so guests never feel like a hassle. The garage fits two cars without issue but you have space for plenty more if you have visitors.&nbsp;<br><br>Step outside and you will see how the landscaping blends with everything else. Native shrubs tall bushy trees and enough space for kids to play or for those long summer lunches with friends. Sometimes you even catch families strolling the quiet lanes or the odd group walking up towards Lions Head for sunset. Bantry Bay itself is just close enough to feel connected to Cape Town life but quietly separate too. The coffee shop runs early you always find someone jogging in the mornings and the ocean feels like part of your backyard.<br><br>The only way to know if it feels right is to come see it for yourself. If you have any questions or just want to walk around and take it all in reach out whenever you like. At LuxuryProperty.com we are always happy to help you find a home that fits you just right.<br>&nbsp;</p>"
+    },
+    {
+     "property": "og:url",
+     "content": "https://www.luxuryproperty.com/south-africa-/cape-town/bantry-bay"
+    },
+    {
+     "property": "og:type",
+     "content": "website"
+    },
+    {
+     "property": "og:image",
+     "content": "https://www1.luxuryproperty.com/uploads/images/5-bedroom-villa-for-sale-bantry_bay-LP09663-1ccc5c7789df4600.jpg?nowm"
+    },
+    {
+     "property": "og:image:type",
+     "content": "image/jpeg"
+    },
+    {
+     "property": "og:image:width",
+     "content": "1200"
+    },
+    {
+     "property": "og:image:height",
+     "content": "630"
+    },
+    {
+     "property": "og:locale",
+     "content": "en_US"
+    },
+    {
+     "property": "og:site_name",
+     "content": "Luxury Property"
+    }
+   ],
+   "jsonLd": [
+    {
+     "@context": "https://schema.org",
+     "@type": "CollectionPage",
+     "name": "Property Listings in Dubai",
+     "description": "Browse luxury properties for rent and sale in Dubai.",
+     "url": "https://www.luxuryproperty.com/dubai",
+     "mainEntity": {
+      "@type": "ItemList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "url": "https://www.luxuryproperty.com/5-bedroom-house-for-sale-in-bantry-bay",
+        "item": {
+         "@type": "RealEstateListing",
+         "name": "5 Bedroom House for sale in Bantry Bay",
+         "description": "Some homes just have a way of making you pause right at the door. This five bedroom villa in Bantry Bay is exactly that sort of place. Designed by Van der Merwe Miszewski who honestly have a knack for putting homes in the right spot it sits up on Lions Head and feels quietly tucked among tall old trees. Even as you come up the driveway you can see glimpses of the Atlantic Ocean beyond those branches and sometimes the water glows all the way out to Robben Island. I remember standing by the triple volume windows and actually forgetting to check my phone for once. It kind of invites you to stop and just look outside for a second or two.The house itself is a real mix of calm and bold. The palette is really soft and simple. Light timber everywhere glass that just wraps you in the view and a touch of steel so it feels modern but comfortable not cold at all. Honestly the way the trees almost reach right up to the windows makes you feel like you are living inside a really cool treehouse the grownup kind where you still hear birds in the morning. You will also notice how the light changes through the day. That big glassed void in the middle lets the sunlight move right into the heart of the house. Even on quiet days when there is cloud you still feel lifted up by the space.It is designed around a really open plan lounge and dining area which just spills into a proper kitchen. Not the type you feel nervous to cook in either. You can picture friends sitting over a late breakfast while someone actually uses the stove. The dining table by the window is perfect for watching the evening sky change color or that quick coffee in the morning before work. And the thing is it does not feel formal. There is just a flow from one room to the next so you are never cut off from whoever is in the house. Downstairs there is a proper basement rec room if you need to let off some steam or set up a family movie night plus a dedicated studio space that would probably suit an artist or even just someone needing to work from home with a bit of peace. It does not shout for attention but you can feel the care in every detail.There are five real bedrooms that manage to feel both private and connected. You get full en suite bathrooms plenty of space for storing your actual clothes not just for show and window views that let you peek through green leaves or out to the ocean. It is the kind of place where you want to crack the glass doors open at night for a breeze and maybe listen out for the waves if it is quiet enough. The study is there as well in case you need somewhere to focus away from the main living area but honestly you will probably end up sitting with your laptop out on the balcony on most days. There is also staff quarters tucked away neatly and even extra secure parking so guests never feel like a hassle. The garage fits two cars without issue but you have space for plenty more if you have visitors.&nbsp;Step outside and you will see how the landscaping blends with everything else. Native shrubs tall bushy trees and enough space for kids to play or for those long summer lunches with friends. Sometimes you even catch families strolling the quiet lanes or the odd group walking up towards Lions Head for sunset. Bantry Bay itself is just close enough to feel connected to Cape Town life but quietly separate too. The coffee shop runs early you always find someone jogging in the mornings and the ocean feels like part of your backyard.The only way to know if it feels right is to come see it for yourself. If you have any questions or just want to walk around and take it all in reach out whenever you like. At LuxuryProperty.com we are always happy to help you find a home that fits you just right.&nbsp;",
+         "url": "https://www.luxuryproperty.com/5-bedroom-house-for-sale-in-bantry-bay",
+         "datePosted": "2021-11-25",
+         "numberOfRooms": 5,
+         "numberOfBathroomsTotal": 5,
+         "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": 4633,
+          "unitText": "SQFT"
+         },
+         "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Bantry Bay",
+          "addressRegion": "Dubai",
+          "addressCountry": "AE"
+         },
+         "offers": {
+          "@type": "Offer",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "businessFunction": "https://schema.org/Sell"
+         }
+        }
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "url": "https://www.luxuryproperty.com/buy/3-bedroom-villa-for-sale-le-bton-cape-town-lp44382",
+        "item": {
+         "@type": "RealEstateListing",
+         "name": "3 Bedroom Villa for Sale at Le Béton, Cape Town",
+         "description": "There is something about certain homes that just makes you stop for a second. When I first walked into Villa 37A in Bantry Bay I caught myself just kind of pausing at the window taking in those sweeping Atlantic views with the mountains curling to the side. Honestly it feels a little surreal at first. You stop thinking about your errands or your next phone call because the place draws you in right away. It is set in Cape Town's famed Bantry Bay which, if you do not know, gets more sunshine and less wind than almost anywhere along the coast so it is that rare spot where you can actually enjoy your terrace almost every day.The house is big enough that you never quite run out of new corners to discover. You have three full levels to play with here and they all connect with the glossiest Schindler elevator I have ever seen in a home. The open living spaces are all wrapped in Oggie solid wood underfoot so you get that real warm natural feeling each time you walk barefoot from the living room out to the glass balcony. Sometimes you really do just notice the quality of things even if you are not the type who usually looks at details. The kitchen practically invites you to cook for real not just stand around with a mug of tea. Valcucine cabinetry and Gaggenau appliances are there waiting for an actual meal. I could imagine friends perched at the designer bar with a drink while someone stirs a pot on the stove. It all just feels easy.If you are into views you are sorted. There is nothing between you and that Atlantic horizon so your mornings are all golden blue light. Even the pool terrace has no tricky angles with the sea so you find yourself sitting out later than you mean just watching the sky change colors. The top floor is the place to host honestly since you get both indoor and outdoor flow with sliding glass and no one ever feels crammed in a corner. Sometimes you just forget your phone altogether here.Bedrooms matter and you can feel it in the way these ones are designed. Four in total all en suite with that little bit of boutique hotel mood layered in. The main suite is tucked away just enough with its own leafy courtyard. You will probably want to take your coffee out there in the morning. In the evenings there is usually a hush over the bay and you'll hear distant waves not road noise.&nbsp;Now there is a basement here that frankly feels like another house. Six cars fit with space to actually move around which if you have spent any time in Cape Town you know that is rare. Some people collect wine some collect cars and if you need both there is room for everything. The gym setup is proper not one of those afterthought rooms in the basement plus there is a private suite for staff or extra guests. It is so private down there you could easily play around with the space as needed.Technology here kind of hides itself but you get all the control you want. Lighting and climate are fingertip managed with the Savant and Lutron system but you will rarely need to fuss with anything. Solar and water systems give things a bit of an independent feel too. There is just something about knowing you are covered if loadshedding or other surprises pop up.When you want to head out Clifton and Sea Point are basically around the corner. Coffee shops local markets and walks along the beachfront are part of life here. You even see kids biking as the sun goes down. No two evenings feel the same.&nbsp;I will say this villa is meant for someone who likes their privacy and space but also loves Cape Town's coast. The only way you really know is to walk through in person and get a sense for it yourself. If you have questions big or small or just want to see when the sun hits the living room give me a shout any time. At LuxuryProperty.com we are always happy to help make the next step feel as comfortable as it should.&nbsp;",
+         "url": "https://www.luxuryproperty.com/buy/3-bedroom-villa-for-sale-le-bton-cape-town-lp44382",
+         "datePosted": "2025-03-04",
+         "numberOfRooms": 3,
+         "numberOfBathroomsTotal": 4,
+         "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": 9246,
+          "unitText": "SQFT"
+         },
+         "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Bantry Bay",
+          "addressRegion": "Dubai",
+          "addressCountry": "AE"
+         },
+         "offers": {
+          "@type": "Offer",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "businessFunction": "https://schema.org/Sell",
+          "price": "4563893"
+         }
+        }
+       }
+      ]
+     }
+    },
+    {
+     "@context": "https://schema.org",
+     "@type": "RealEstateAgent",
+     "name": "LuxuryProperty.com",
+     "url": "https://www.luxuryproperty.com",
+     "logo": "https://www.luxuryproperty.com/Lp-Logo-2021-Black-Web.png",
+     "email": "hello@luxuryproperty.com",
+     "telephone": "+97145635900",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "204, Bay Square 2, Business Bay",
+      "addressLocality": "Dubai",
+      "addressCountry": "AE"
+     },
+     "sameAs": [
+      "https://www.linkedin.com/company/luxury-property-com",
+      "https://www.instagram.com/luxurypropertygram/",
+      "https://twitter.com/luxuryproperty",
+      "https://www.youtube.com/c/LuxuryProperty"
+     ]
+    },
+    {
+     "@context": "https://schema.org",
+     "@type": "WebSite",
+     "name": "LuxuryProperty.com",
+     "url": "https://www.luxuryproperty.com",
+     "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://www.luxuryproperty.com/search?query={search_term_string}",
+      "query-input": "required name=search_term_string"
+     }
+    }
+   ],
+   "headers": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+    "cf-cache-status": "DYNAMIC",
+    "cf-ray": "a403fb00beaa586e-IAD",
+    "content-encoding": "zstd",
+    "content-type": "text/html; charset=utf-8",
+    "date": "Thu, 24 Sep 2026 18:51:27 GMT",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=7wD1L5ua8B5uPc%2FBYMoLLpTU4RGH3NgRk0xNdgTk3SJzilamBvxIm7kXCppQzKNsefAZ2UHwx8M7oWbRMduojz2liqUjV5gwuZVyf%2BI6OYFdzqooMXES%2FPYA3%2BuyCDiF7tGcWEcf0M4O\"}]}",
+    "server": "cloudflare",
+    "server-timing": "cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=6,cfOrigin;dur=911",
+    "speculation-rules": "\"/cdn-cgi/speculation\"",
+    "vary": "Accept-Encoding",
+    "x-powered-by": "Next.js"
+   }
+  },
+  "query": "Bantry Bay 5 bedroom R75 000 000 Tyson Properties",
+  "markdown": "5 Bedroom House for sale in Bantry Bay\n\n[![LuxuryProperty.com](/LP-NExa-Black-MWebsite.svg)](https://www.luxuryproperty.com/)\n\n[Advertise](https://www.luxuryproperty.com/advertise)\n\n[Real Estate](https://www.luxuryproperty.com/international)[Projects | OffPlan](https://www.luxuryproperty.com/projects)[Rent](https://www.luxuryproperty.com/rent)[Cars](https://www.luxuryproperty.com/cars)[Jets](https://www.luxuryproperty.com/jets)[Yachts](https://www.luxuryproperty.com/yachts)[Crypto](https://www.luxuryproperty.com/crypto)[Videos](https://www.luxuryproperty.com/videos)[Careers](https://www.luxuryproperty.com/careers)[Blog](https://www.luxuryproperty.com/blog)[Contact Us](https://www.luxuryproperty.com/contact)\n\n[Skip to main content](https://www.luxuryproperty.com/south-africa-/cape-town/bantry-bay#main-content)\n\nSearch\n\n### Property type\n\n### Bedrooms\n\nBeds\n\n### Price range\n\nPrice\n\nSearch\n\n## Properties in Bantry Bay\n\n2 properties\n\nSort:\n\nSpacious Homes\n\nWaterfront Collection\n\n[![5 Bedroom House for sale in Bantry Bay](/_next/image?url=https%3A%2F%2Fwww1.luxuryproperty.com%2Fuploads%2Fimages%2F5-bedroom-villa-for-sale-bantry_bay-LP09663-1ccc5c7789df4600.jpg%3Fnowm%3Dtrue&w=3840&q=75)](https://www.luxuryproperty.com/5-bedroom-house-for-sale-in-bantry-bay)\n\nResidential Communities\n\n### 5 Bedroom House for sale in Bantry Bay\n\nBantry Bay, Cape Town\n\n**Price on Application**\n\nRef no: LP09663\n\nBedroom5\n\nBathroom5\n\nBUA4,633 sqft\n\nI\n\nRepresentative by:\n\n[International](https://www.luxuryproperty.com/team/international)\n\n[View Details](https://www.luxuryproperty.com/5-bedroom-house-for-sale-in-bantry-bay)\n\nNew to Market\n\nWell-Priced Homes\n\nPopular Communities\n\n[![3 Bedroom Villa for Sale at Le Béton, Cape Town](/_next/image?url=https%3A%2F%2Fwww1.luxuryproperty.com%2Fuploads%2Fimages%2F3-bedroom-villa-for-sale-hhh-LP44382-2f25345632bf5e00.jpg%3Fnowm%3Dtrue&w=3840&q=75)](https://www.luxuryproperty.com/buy/3-bedroom-villa-for-sale-le-bton-cape-town-lp44382)\n\nWaterfront Properties\n\n### 3 Bedroom Villa for Sale at Le Béton, Cape Town\n\nBantry Bay, Cape Town\n\n**$4,563,893**\n\nRef no: LP44382\n\nBedroom3\n\nBathroom4\n\nBUA9,246 sqft\n\nI\n\nRepresentative by:\n\n[International](https://www.luxuryproperty.com/team/international)\n\n[View Details](https://www.luxuryproperty.com/buy/3-bedroom-villa-for-sale-le-bton-cape-town-lp44382)\n\n![Advertisement](/advertise-1.jpg)\n\n![Advertisement](/advertise-2.jpg)"
+ },
+ {
+  "crawl": {
+   "httpStatusCode": 200,
+   "httpStatusMessage": "OK",
+   "loadedAt": "2026-09-24T18:51:42.156Z",
+   "uniqueKey": "nnbXRQ1IKo",
+   "requestStatus": "handled"
+  },
+  "searchResult": {
+   "title": "5 Bedroom Self-Catering House in Bantry Bay",
+   "description": "Set on the slopes of Bantry Bay, this modern villa is an architectural marvel. Bedroom 5: Kind size bed, Private Garden Private Braai Private Pool Private ...",
+   "url": "http://www.google.com/goto?url=CAESjAEB6zswFWCPCut8xRQVLBRZulwUPd8r6tKq8GImm338NxO7B3JnKfwuM_KJkwQTwLZ7KLCCc9Y5oHJKRV0oW4yujQDG5icCHRfJs3egbk4Dx3FrJtI2zOF0QNVuGLzejKsL8GEb_45CJ0TwdtzKXN0LwA2xmEZHRxgLAlu1dkve9R41uce1pEeschA36Q",
+   "resultType": "ORGANIC",
+   "rank": 1
+  },
+  "metadata": {
+   "title": "5 Bedroom Self-Catering House in Bantry Bay | Tyson Properties",
+   "description": "5 Bedroom House ( holiday rental)",
+   "languageCode": "en",
+   "url": "https://www.tysonprop.co.za/results/holiday/letting/cape-town/bantry-bay/house/1898/",
+   "redirectedUrl": "https://www.tysonprop.co.za/results/holiday/letting/cape-town/bantry-bay/house/1898/",
+   "canonicalUrl": "https://www.tysonprop.co.za/results/holiday/letting/cape-town/bantry-bay/house/1898/",
+   "openGraph": [
+    {
+     "property": "og:site_name",
+     "content": "Tyson Properties"
+    },
+    {
+     "property": "og:url",
+     "content": "https://www.tysonprop.co.za/results/holiday/letting/cape-town/bantry-bay/house/1898/"
+    },
+    {
+     "property": "og:type",
+     "content": "website"
+    },
+    {
+     "property": "og:title",
+     "content": "5 Bedroom Self-Catering House in Bantry Bay | Tyson Properties"
+    },
+    {
+     "property": "og:description",
+     "content": "5 Bedroom House ( holiday rental)"
+    },
+    {
+     "property": "og:image",
+     "content": "https://d21tw07c6rnmp0.cloudfront.net/media/uploads/86/holiday/2022/9/86_659e771fa2ce426f83dff3bee0ae2643_t_c_w_1200_h_630.jpg"
+    }
+   ],
+   "jsonLd": [
+    {
+     "@context": "https://schema.org",
+     "@type": "WebSite",
+     "name": "Tyson Properties",
+     "url": "https://www.tysonprop.co.za"
+    },
+    {
+     "@context": "https://schema.org",
+     "@type": "BreadcrumbList",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "https://www.tysonprop.co.za"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Holiday Letting",
+       "item": "https://www.tysonprop.co.za/results/holiday/letting/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "Cape Town",
+       "item": "https://www.tysonprop.co.za/results/holiday/letting/cape-town/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "name": "Bantry Bay",
+       "item": "https://www.tysonprop.co.za/results/holiday/letting/cape-town/bantry-bay/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 5,
+       "name": "House",
+       "item": "https://www.tysonprop.co.za/results/holiday/letting/cape-town/bantry-bay/house/"
+      }
+     ]
+    },
+    {
+     "@context": "https://schema.org",
+     "@graph": [
+      {
+       "@type": "House",
+       "@id": "/results/holiday/letting/cape-town/bantry-bay/house/1898/#property",
+       "name": "5 Bedroom Self-Catering House in Bantry Bay",
+       "alternateName": "None",
+       "description": "Tyson Properties is proud to introduce this exquisite house to the holiday rental market. Set on the slopes of Bantry Bay, this modern villa is an...",
+       "url": "/results/holiday/letting/cape-town/bantry-bay/house/1898/",
+       "identifier": "None",
+       "datePosted": "2022-08-16 05:38:42.588717+00:00",
+       "dateModified": "2024-09-04 09:51:31.280868+00:00",
+       "image": [
+        "https://d21tw07c6rnmp0.cloudfront.net/media/uploads/86/holiday/2022/9/86_659e771fa2ce426f83dff3bee0ae2643_t_w_1280_h_720.avif",
+        "https://d21tw07c6rnmp0.cloudfront.net/media/uploads/86/holiday/2022/9/86_5ab3da14c50f4d399f2b3b9497571c32_t_w_1280_h_720.avif",
+        "https://d21tw07c6rnmp0.cloudfront.net/media/uploads/86/holiday/2022/9/86_7408ea89fac945a5b42857ab4bb992b2_t_w_1280_h_720.avif",
+        "https://d21tw07c6rnmp0.cloudfront.net/media/uploads/86/holiday/2022/9/86_79e86d9a67094293b1d13d9234800eac_t_w_1280_h_720.avif",
+        "https://d21tw07c6rnmp0.cloudfront.net/media/uploads/86/holiday/2022/9/86_5a35b6fff238400ba3b7bd418b7e28b1_t_w_1280_h_720.avif"
+       ],
+       "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "",
+        "addressRegion": "",
+        "postalCode": "None",
+        "addressCountry": "None"
+       },
+       "amenityFeature": [
+        {
+         "@type": "LocationFeatureSpecification",
+         "name": "Garages",
+         "value": 2
+        },
+        {
+         "@type": "LocationFeatureSpecification",
+         "name": "Open Parking",
+         "value": 2
+        },
+        {
+         "@type": "LocationFeatureSpecification",
+         "name": "Pool",
+         "value": true
+        },
+        {
+         "@type": "LocationFeatureSpecification",
+         "name": "Garden",
+         "value": true
+        },
+        {
+         "@type": "LocationFeatureSpecification",
+         "name": "Air Conditioning",
+         "value": true
+        }
+       ],
+       "offers": {
+        "@id": "/results/holiday/letting/cape-town/bantry-bay/house/1898/#offer"
+       },
+       "seller": {
+        "@id": "/agents/neil-abernethy/18809/#agent"
+       },
+       "provider": {
+        "@id": "https://www.tysonprop.co.za#branch"
+       },
+       "containedInPlace": {
+        "@id": "/area-profiles/Cape Town/Bantry Bay/#area"
+       }
+      },
+      {
+       "@type": "Offer",
+       "@id": "/results/holiday/letting/cape-town/bantry-bay/house/1898/#offer",
+       "url": "/results/holiday/letting/cape-town/bantry-bay/house/1898/",
+       "price": "None",
+       "priceCurrency": "ZAR",
+       "businessFunction": ""
+      },
+      {
+       "@type": "RealEstateAgent",
+       "@id": "/agents/neil-abernethy/18809/#agent",
+       "name": "Neil Abernethy",
+       "telephone": "+27766719546",
+       "email": "neil@tysonprop.co.za",
+       "url": "/agents/neil-abernethy/18809/",
+       "image": "https://d21tw07c6rnmp0.cloudfront.net/media/uploads/86/agents/2022/9/86_0be65f19a7cd4e5fa85128d7541a02fa.jpg"
+      },
+      {
+       "@type": "Place",
+       "@id": "/area-profiles/Cape Town/Bantry Bay/#area",
+       "name": "Cape Town, Bantry Bay",
+       "url": "/area-profiles/Cape Town/Bantry Bay/"
+      }
+     ]
+    }
+   ],
+   "headers": {
+    "age": "49175",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "cache-control": "max-age=180, stale-while-revalidate=86400",
+    "content-encoding": "gzip",
+    "content-length": "112270",
+    "content-type": "text/html; charset=utf-8",
+    "cross-origin-opener-policy": "same-origin",
+    "date": "Thu, 24 Sep 2026 05:12:06 GMT",
+    "referrer-policy": "same-origin",
+    "strict-transport-security": "max-age=31536000",
+    "vary": "Accept-Encoding,Cookie",
+    "via": "1.1 eec9650f8780839ac07df0892de9ac88.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "OIvkW8LzY2bYdVWc1UUnQyYT7R3uWZDnYCydwxHnTwXgyVVL32jKew==",
+    "x-amz-cf-pop": "JFK52-P7",
+    "x-cache": "Hit from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-eos-key": "tysonprop.co.za:/results/holiday/letting/cape-town/bantry-bay/house/1898/:desktop::::",
+    "x-eos-request-host": "None",
+    "x-eos-request-id": "1ef6c275-1d5c-4ad9-97a3-28b0b9d2836a",
+    "x-eos-stats": "0:0:0:0",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1; mode=block"
+   }
+  },
+  "query": "Bantry Bay 5 bedroom R75 000 000 Tyson Properties",
+  "markdown": "5 Bedroom Self-Catering House in Bantry Bay | Tyson Properties\n\nBack to Results\n\n| [Home](https://www.tysonprop.co.za/)\n\n...\n\n[Holiday Letting](https://www.tysonprop.co.za/results/holiday/letting/)\n\n[Cape Town](https://www.tysonprop.co.za/results/holiday/letting/cape-town/)\n\n[Bantry Bay](https://www.tysonprop.co.za/results/holiday/letting/cape-town/bantry-bay/)\n\n[House](https://www.tysonprop.co.za/results/holiday/letting/cape-town/bantry-bay/house/)\n\nGallery\n\n[](https://d21tw07c6rnmp0.cloudfront.net/media/uploads/86/brochures/holiday-HL626.pdf)\n\n![5 Bedroom Self-Catering House in Bantry Bay](https://d21tw07c6rnmp0.cloudfront.net/media/uploads/86/holiday/2022/9/86_659e771fa2ce426f83dff3bee0ae2643_t_w_1440_h_900.avif)\n\nPOA 5 Bedroom Self-Catering House in Bantry Bay\n\n5\n\nBedrooms\n\n5\n\nBathrooms\n\n2\n\nGarages\n\nContact Agent\n\nPhotos\n\n![Neil Abernethy](https://d21tw07c6rnmp0.cloudfront.net/media/uploads/86/agents/2022/9/86_0be65f19a7cd4e5fa85128d7541a02fa_t_w_360_h_240.avif)\n\nNeil Abernethy Managing Partner Show phone number [PPRA Registered | FFC 1185593](https://d21tw07c6rnmp0.cloudfront.net/media/uploads/86/agents/2022/9/86_abc4e7ec3336471ba5d66b169e9d1526.pdf) [View my listings](https://www.tysonprop.co.za/results/agent/18809/)\n\n[](tel:+27766719546)[](https://wa.me/+27766719546?text=https://www.tysonprop.co.za/results/holiday/letting/cape-town/bantry-bay/house/1898/%20Please%20send%20me%20more%20information%20about%20HL626%20in%20Bantry%20Bay,%20Cape%20Town.%20Thank%20You.)\n\n![James Carney](https://d21tw07c6rnmp0.cloudfront.net/media/uploads/86/undefined/2026/7/86_35835c886e7f4310bf858727cd94db1a_t_w_360_h_240.avif)\n\nJames Carney Full Status Property Practitioner Show phone number [View my listings](https://www.tysonprop.co.za/results/agent/18800/)\n\n[](tel:+27711829069)[](https://wa.me/+27711829069?text=https://www.tysonprop.co.za/results/holiday/letting/cape-town/bantry-bay/house/1898/%20Please%20send%20me%20more%20information%20about%20HL626%20in%20Bantry%20Bay,%20Cape%20Town.%20Thank%20You.)\n\nMake a booking enquiry\n\nPrint\n\n[](https://d21tw07c6rnmp0.cloudfront.net/media/uploads/86/brochures/holiday-HL626.pdf)[Download brochure](https://d21tw07c6rnmp0.cloudfront.net/media/uploads/86/brochures/holiday-HL626.pdf)\n\nShare this listing\n\n[](https://api.whatsapp.com/send?text=I%20found%20this%20property%20on%20Tyson%20Properties!%20https://www.tysonprop.co.za/results/holiday/letting/cape-town/bantry-bay/house/1898/)[](mailto:?subject=Tyson%20Properties%20-%20Listing:%205%20Bedroom%20Self-Catering%20House%20in%20Bantry%20Bay&body=https://www.tysonprop.co.za/results/holiday/letting/cape-town/bantry-bay/house/1898/)\n\n[Overview](https://www.tysonprop.co.za/results/holiday/letting/cape-town/bantry-bay/house/1898/#overview) [Features](https://www.tysonprop.co.za/results/holiday/letting/cape-town/bantry-bay/house/1898/#features)\n\n# 5 Bedroom House ( holiday rental)\n\nWeb Ref. HL626\n\n## POA\n\nPeak Season POA\n\nSemi Season POA\n\nLow Season POA\n\nOut Season POA\n\nCorporate POA\n\nTyson Properties is proud to introduce this exquisite house to the holiday rental market.  \n  \nSet on the slopes of Bantry Bay, this modern villa is an architectural marvel. Recently build and finished to the highest specification, we have no doubt that your search for the perfect rental villa is over.  \n  \nBedroom Amenities:  \n\\- Bedroom 1: King size bed, En-suite Bathroom (Bath and Shower), Walk in Wardrobe, Sauna, Swimming Pool  \n\\- Bedroom 2: Kind size bed, En-suite Bathroom (Bath and Shower)  \n\\- Bedroom 3: Kind size bed, En-suite Bathroom (Bath and Shower)  \n\\- Bedroom 4: Kind size bed, En-suite Bathroom, Balcony with Daybed (Bath and Shower)  \n\\- Bedroom 5: Kind size bed, En-suite Bathroom, Balcony (Bath and Shower)  \n  \nProperty Amenities:  \n\\- Heated Swimming Pool  \n\\- Off-grid Power Supply  \n\\- Outdoor water feature lounge.  \n\\- Games Room  \n\\- Central Climate Control  \n\\- Home Automation System (Control 4)  \n\\- Security System  \n  \nInclusions:  \n\\- Private Chef  \n\\- Daily Cleaning  \n\\- Unlimited Wi-Fi  \n  \nNote that this property is available for Short Term Rentals only over the following dates:  \n  \n13 December 2022 - 17 January 2023  \n27 March 2023 - 9 April 2023  \n25 June 2023 - 17 July 2023  \n  \nPlease enquire to find out on availability and pricing.\n\n## Features\n\n5\n\nBedrooms\n\n5\n\nBathrooms\n\n2\n\nGarages\n\nFloors\n\nTriple Storey\n\nCleaning Services\n\nMonday - Saturday\n\nBedrooms\n\n5 King Beds\n\nBathrooms\n\n5 Baths\n\n5 Showers\n\nExterior\n\nBreaker Sea View\n\nPrivate Garden\n\nPrivate Braai\n\nPrivate Pool\n\nPrivate Jacuzzi\n\nParking\n\n2 Garages\n\n2 Undercover Parkings\n\n2 Open Parkings\n\n## Booking Notes\n\nWe do not accept cheques. For deposit refund purposes it is vital that all banking details are provided. Rates quoted are per unit. Rates are subject to change without prior notice. Holiday Accommodation bookings are subject to availability and Tyson Property Holdings PTY (Ltd)'s Terms & Conditions.\n\n### Can't find what you're  \nlooking for?\n\nSign up for property alerts\n\nDisclaimer\n\nWhile every effort will be made to ensure that the information contained within the Tyson Properties website is accurate and up to date, Tyson Properties makes no warranty, representation or undertaking whether expressed or implied, nor do we assume any legal liability, whether direct or indirect, or responsibility for the accuracy, completeness, or usefulness of any information. Prospective purchasers and tenants should make their own enquiries to verify the information contained herein.\n\n![Neil Abernethy](https://d21tw07c6rnmp0.cloudfront.net/media/uploads/86/agents/2022/9/86_0be65f19a7cd4e5fa85128d7541a02fa_t_w_360_h_240.avif)\n\nNeil Abernethy Managing Partner Show phone number [PPRA Registered | FFC 1185593](https://d21tw07c6rnmp0.cloudfront.net/media/uploads/86/agents/2022/9/86_abc4e7ec3336471ba5d66b169e9d1526.pdf) [View my listings](https://www.tysonprop.co.za/results/agent/18809/)\n\n[](tel:+27766719546)[](https://wa.me/+27766719546?text=https://www.tysonprop.co.za/results/holiday/letting/cape-town/bantry-bay/house/1898/%20Please%20send%20me%20more%20information%20about%20HL626%20in%20Bantry%20Bay,%20Cape%20Town.%20Thank%20You.)\n\nContact Me\n\n![James Carney](https://d21tw07c6rnmp0.cloudfront.net/media/uploads/86/undefined/2026/7/86_35835c886e7f4310bf858727cd94db1a_t_w_360_h_240.avif)\n\nJames Carney Full Status Property Practitioner Show phone number [View my listings](https://www.tysonprop.co.za/results/agent/18800/)\n\n[](tel:+27711829069)[](https://wa.me/+27711829069?text=https://www.tysonprop.co.za/results/holiday/letting/cape-town/bantry-bay/house/1898/%20Please%20send%20me%20more%20information%20about%20HL626%20in%20Bantry%20Bay,%20Cape%20Town.%20Thank%20You.)\n\nContact Me\n\nMake a booking enquiry\n\n![Neil Abernethy](https://d21tw07c6rnmp0.cloudfront.net/media/uploads/86/agents/2022/9/86_0be65f19a7cd4e5fa85128d7541a02fa_t_w_360_h_240.avif)\n\nNeil AbernethyManaging Partner[PPRA Registered | FFC 1185593](https://d21tw07c6rnmp0.cloudfront.net/media/uploads/86/agents/2022/9/86_abc4e7ec3336471ba5d66b169e9d1526.pdf)  \nneil@tysonprop.co.za+27766719546\n\n![James Carney](https://d21tw07c6rnmp0.cloudfront.net/media/uploads/86/undefined/2026/7/86_35835c886e7f4310bf858727cd94db1a_t_w_360_h_240.avif)\n\nJames CarneyFull Status Property Practitionerjames.carney@tysonprop.co.za+27711829069\n\nTransfer Costs\n\n|     |     |\n| --- | --- |\n| Transfer Fees | R   |\n| Deeds Office Levy | R   |\n| Transfer Duty | R   |\n| Postage and Petties | R   |\n| Rates/Levy Clearance | R   |\n| Pro-Rata Rates/Levies | R   |\n| Deeds Office Search | R   |\n| Electronic Document Preparation | R   |\n| Vat @ 15% | R   |\n| dummy content | dummy content |\n| **Total** | R   |\n\nBond Costs\n\n|     |     |\n| --- | --- |\n| Fees | R   |\n| Deeds Office Levy | R   |\n| Postage and Petties | R   |\n| Bank Electronic Connection Fee | R   |\n| Electronic Document Preparation | R   |\n| Vat 15% | R   |\n| dummy content | dummy content |\n| dummy content | dummy content |\n| dummy content | dummy content |\n| dummy content | dummy content |\n| **Total** | R   |\n\n#### Grand total\n\n#### R0.00\n\nPlease note:  \nMost banks charge an administration and initiation fee. Disclaimer:  \nThese calculations are only a guide. Please ask your conveyancer for exact calculations.\n\n|     |     |\n| --- | --- |\n| Joint Total Income | R   |\n| Joint Total Expenses | R   |\n| Joint Available Income | R   |\n| dummy content | dummy content |\n| Monthly repayments | R   |\n\n#### Loan available\n\n#### R\n\nGet Email Alerts\n\n![Neil Abernethy](https://d21tw07c6rnmp0.cloudfront.net/media/uploads/86/agents/2022/9/86_0be65f19a7cd4e5fa85128d7541a02fa_t_w_360_h_240.avif)\n\nNeil Abernethy Managing Partner Show phone number [PPRA Registered | FFC 1185593](https://d21tw07c6rnmp0.cloudfront.net/media/uploads/86/agents/2022/9/86_abc4e7ec3336471ba5d66b169e9d1526.pdf) [View my listings](https://www.tysonprop.co.za/results/agent/18809/)\n\n[](tel:+27766719546)[](https://wa.me/+27766719546?text=https://www.tysonprop.co.za/results/holiday/letting/cape-town/bantry-bay/house/1898/%20Please%20send%20me%20more%20information%20about%20HL626%20in%20Bantry%20Bay,%20Cape%20Town.%20Thank%20You.)\n\n![James Carney](https://d21tw07c6rnmp0.cloudfront.net/media/uploads/86/undefined/2026/7/86_35835c886e7f4310bf858727cd94db1a_t_w_360_h_240.avif)\n\nJames Carney Full Status Property Practitioner Show phone number [View my listings](https://www.tysonprop.co.za/results/agent/18800/)\n\n[](tel:+27711829069)[](https://wa.me/+27711829069?text=https://www.tysonprop.co.za/results/holiday/letting/cape-town/bantry-bay/house/1898/%20Please%20send%20me%20more%20information%20about%20HL626%20in%20Bantry%20Bay,%20Cape%20Town.%20Thank%20You.)\n\nMake a booking enquiry\n\n[![Website Banner 1](https://d21tw07c6rnmp0.cloudfront.net/media/uploads/86/documents/2025/2/86_bb3e5fad439048b5a054817397e7cefd_t_w_960_h_540.avif)](https://www.currenciesdirect.com/global/south-africa/)\n\n[![Website Banner 2](https://d21tw07c6rnmp0.cloudfront.net/media/uploads/86/documents/2022/10/86_079440c1a8044c178068075c335a595a_t_w_960_h_540.avif)](https://www.betterbond.co.za/)\n\nTerms & Conditions\n\nBy using Tyson Property Holdings PTY (Ltd), the user hereby agrees and warrants:\n\nNot to use any contact details including but not limited to telephone numbers, email addresses, street addresses, obtained from Tyson Property Holdings PTY (Ltd) to contact any Tyson Property Holdings PTY (Ltd) clients in order to offer to sell their properties except if the client has agreed to this, in which case it will be clearly stipulated on the website. If the client has agreed to be contacted for this purpose, the user hereby agrees not to negotiate any commission scheme with the client, but by contacting the client agrees to his terms for his sale as stated on the website.\n\n**General security**  \nTyson Property Holdings PTY (Ltd) will do it's best to ensure the secure and reliable operation of this website. Tyson Property Holdings PTY (Ltd) will take any steps it deems necessary to preserve the afore mentioned.\n\n**Indemnity**  \nBy using the site you indemnify and hold Tyson Property Holdings PTY (Ltd) free from liability for loss or damage of whatever nature and howsoever arising from your use of this website and or any services, content or obligation in terms of these terms and conditions. We expressly disclaim any and all implied warranties, including, without limitation, warranties of merchantability, accuracy of measurements, title, fitness for a particular purpose, non-infringement, compatibility, security and accuracy.\n\n**Breach**  \nShould the website user break any of the terms and conditions set out in this agreement, Tyson Property Holdings PTY (Ltd) can in its sole discretion make a decision to terminate this agreement and recover all and any costs related to such termination.\n\n**Accepting Offers**  \nOnce an offer is accepted by the property owner, Tyson Property Holdings PTY (Ltd) will inform the prospective buyer via email. This email is sent to the email address specified by the buyer when making their offer.\n\n**Alteration To These Terms & Conditions**  \nTyson Property Holdings PTY (Ltd) reserves the right to amend or change these terms and conditions at any time by posting a notification indicting that we've changed our Terms & Conditions on this website. The user will then be responsible for reviewing the new Terms & Conditions and continued use of the website will warrant the acceptance of the new Terms & Conditions.\n\n**General Legal**  \nThis agreement constitutes the whole of the agreement between you and Tyson Property Holdings PTY (Ltd) in regard to the subject matter thereof, there are no other agreements, guarantees or representations, either verbal or in writing, in regard thereto upon which you are relying in concluding this agreement.\n\n**Offer Rules**  \nYou will be notified of other offers via email.  \n  \nAll sales are non-suspensive and sold as is \"voetstoots\". Properties on sale with a \"Offers From\" price will be sold subject to confirmation of the seller. No \"Offer\" will be allowed to be made \"ON BEHALF\" unless the proxy giving a 3rd party permission is uploaded as required. No buyer can withdraw a \"Offer\" at any stage. The successful buyer must pay his deposit in the relevant trust accounts within 2 working days of his offer being accepted by means of EFT. No other payment method will be accepted. Outstanding balance of offer price to be delivered by means of guarantee, mortgage finance or cash. Should any dispute arise between two or more buyers, the property may be re-sold or Tyson Property Holdings PTY (Ltd) will declare who is the successful bidder. Should Tyson Property Holdings PTY (Ltd) commit any error in conducting the sale, such mistake shall not be considered binding either upon the seller or the purchaser but shall be rectified. Tyson Property Holdings PTY (Ltd) shall have the right re-sell any given property if the successful buyer does not pay his deposit in the allotted time. The successful buyer cannot occupy the property prior to registration without special arrangement from the seller. Tyson Property Holdings PTY (Ltd) shall have the right to withdraw any property prior to the offer ending for any reason whatsoever at their discretion.\n\n**South African Law**  \nThese terms and conditions will be interpreted and used in conjunction with the laws of the Republic of South Africa, and your continual use of this website will reflect your approval and compliance to the jurisdiction of South African courts. The latter will be true regarding all applications, transactions and proceedings as well as the misuse or any violation of these Terms & Conditions."
+ }
+]

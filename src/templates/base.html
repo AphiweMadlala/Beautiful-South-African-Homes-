@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en-ZA">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>{% block title %}{{ brand.name }}{% endblock %}</title>
+<meta name="description" content="{% block description %}Exceptional residences from across South Africa, curated by {{ brand.name }} and credited to the agents who market them.{% endblock %}">
+{% if proposal %}<meta name="robots" content="noindex, nofollow">{% endif %}
+<meta name="theme-color" content="#0B0F14">
+<link rel="preload" href="{{ root }}assets/fonts/cormorant-garamond.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="{{ root }}assets/fonts/jost.woff2" as="font" type="font/woff2" crossorigin>
+{% block preload %}{% endblock %}
+<link rel="stylesheet" href="{{ root }}assets/css/site.css">
+<link rel="icon" href="{{ root }}assets/favicon.svg" type="image/svg+xml">
+<script>document.documentElement.classList.add('js')</script>
+</head>
+<body class="{% block bodyclass %}{% endblock %}">
+<a class="skip" href="#main">Skip to content</a>
+<header class="nav" data-nav>
+  <a class="wordmark" href="{{ root }}" aria-label="{{ brand.name }}, home">
+    <span class="wordmark-a">Beautiful</span>
+    <span class="wordmark-b">South African Homes</span>
+  </a>
+  <nav class="nav-links" aria-label="Primary">
+    {% set links = [("residences/", "Residences"), ("locations/", "Locations"), ("feature-your-property/", "Feature a Property"), ("about/", "About"), ("contact/", "Contact")] %}
+    {% for href, label in links %}
+    <a href="{{ root }}{{ href }}" {% if page.startswith(href) %}aria-current="page"{% endif %}>{{ label }}</a>
+    {% endfor %}
+  </nav>
+  <button class="nav-burger" type="button" aria-haspopup="dialog" aria-controls="menu" data-menu-open>
+    <span class="sr-only">Open menu</span><span></span><span></span>
+  </button>
+</header>
+<dialog class="menu" id="menu" aria-label="Menu" data-menu>
+  <div class="menu-inner">
+    <button class="menu-close" type="button" data-menu-close><span class="sr-only">Close menu</span></button>
+    <nav aria-label="Mobile">
+      <a href="{{ root }}">Home</a>
+      {% for href, label in links %}<a href="{{ root }}{{ href }}">{{ label }}</a>{% endfor %}
+    </nav>
+    <p class="menu-foot"><a href="mailto:{{ brand.email }}">{{ brand.email }}</a><br><a href="{{ brand.instagram }}" rel="noopener">{{ brand.instagramHandle }}</a></p>
+  </div>
+</dialog>
+
+<main id="main" tabindex="-1">
+{% block main %}{% endblock %}
+</main>
+
+<footer class="footer">
+  <div class="footer-grid">
+    <div class="footer-brand">
+      <a class="wordmark wordmark-lg" href="{{ root }}"><span class="wordmark-a">Beautiful</span><span class="wordmark-b">South African Homes</span></a>
+      <p class="footer-note">{{ brand.name }} features exceptional homes and connects buyers with the professionals marketing them. Each residence is marketed by the agency credited on its page.</p>
+    </div>
+    <div>
+      <h2 class="footer-h">Explore</h2>
+      <ul>
+        <li><a href="{{ root }}residences/">Residences for sale</a></li>
+        <li><a href="{{ root }}residences/?set=portfolio">The Portfolio</a></li>
+        <li><a href="{{ root }}locations/">Locations</a></li>
+      </ul>
+    </div>
+    <div>
+      <h2 class="footer-h">For agents</h2>
+      <ul>
+        <li><a href="{{ root }}feature-your-property/">Feature a property</a></li>
+        <li><a href="{{ root }}about/">About the platform</a></li>
+      </ul>
+    </div>
+    <div>
+      <h2 class="footer-h">Contact</h2>
+      <ul>
+        <li><a href="mailto:{{ brand.email }}">{{ brand.email }}</a></li>
+        <li><a href="{{ brand.instagram }}" rel="noopener">{{ brand.instagramHandle }}</a></li>
+      </ul>
+    </div>
+  </div>
+  <p class="footer-base">&copy; {{ year }} {{ brand.name }}. Photography courtesy of the marketing agencies credited on each residence.</p>
+</footer>
+<script src="{{ root }}assets/js/site.js" defer></script>
+{% block scripts %}{% endblock %}
+</body>
+</html>

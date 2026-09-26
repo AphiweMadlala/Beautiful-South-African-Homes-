@@ -1,6 +1,6 @@
-{# Quick discovery strip. Plain GET form: works without JavaScript; the collection page reads the query. #}
+{# Quick discovery strip. Plain GET form: works without JavaScript; the collection page reads the query.
+   No set parameter: the collection defaults to All Residences. #}
 <form class="search" action="{{ root }}residences/" method="get" role="search" aria-label="Find a residence">
-  <input type="hidden" name="set" value="all">
   <div class="search-field search-loc">
     <label for="q-loc">Location</label>
     <select id="q-loc" name="loc">

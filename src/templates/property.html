@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% from "_macros.html" import picture, folio, card %}
+{% from "_macros.html" import picture, folio, card, past_label, past_value %}
 {% block title %}{{ p.title }} | {% if p.live %}For Sale{% else %}Portfolio{% endif %} | {{ brand.name }}{% endblock %}
 {% block description %}{{ p.story[0] }}{% endblock %}
 {% block bodyclass %}page-property{% endblock %}
@@ -10,12 +10,12 @@
 {% set n = namespace(i=0) %}
 {% macro next() %}{% set n.i = n.i + 1 %}{{ ["I","II","III","IV","V","VI","VII","VIII","IX","X"][n.i - 1] }}{% endmacro %}
 <nav class="crumbs" aria-label="Breadcrumb">
-  <a href="{{ root }}residences/?set={{ 'for-sale' if p.live else 'portfolio' }}">{{ "Residences for sale" if p.live else "The Portfolio" }}</a>
+  <a href="{{ root }}residences/">Residences</a>
   <span aria-hidden="true">/</span>
   <span aria-current="page">{{ p.shortLocation }}</span>
 </nav>
 
-{# 01 Cinematic gallery #}
+{# 01 Cinematic gallery: the page's only gallery. The lightbox holds every photograph. #}
 <section class="pgal" aria-label="Photographs">
   <button class="pgal-main" type="button" data-open-lightbox="{{ p.pictures.index(p.cover) }}">
     {{ picture(p.cover, root, "(min-width: 1024px) 66vw, 100vw", eager=True) }}
@@ -55,7 +55,7 @@
       {% if p.foreign %}<p class="pid-fx">Approximately {{ p.foreign["values"]|join(", ") }}, as published on {{ p.foreign.date }}. Rand price is definitive.</p>{% endif %}
       {% else %}
       <p class="pid-status"><span class="status">Previously featured</span><span class="ref">Availability to be confirmed</span></p>
-      <p class="pid-price pid-price-past" data-price-anchor><span class="pid-price-k">Asked when featured in {{ p.featuredWhen }}</span><span class="pid-price-v">{{ p.priceLabel }}</span></p>
+      <p class="pid-price pid-price-past" data-price-anchor><span class="pid-price-k">{{ past_label(p) }}</span><span class="pid-price-v">{{ past_value(p) }}</span></p>
       <p class="pid-credit"><span>Originally marketed by</span> {{ p.agency }}</p>
       {% endif %}
     </header>
@@ -67,6 +67,8 @@
       <dl class="parts">
         {% for k, v in p.specs.items() %}<div><dt>{{ k }}</dt><dd>{{ v }}</dd></div>{% endfor %}
         <div><dt>Type</dt><dd>{{ p.type }}</dd></div>
+        {# rates and levies only when the agency has published them; the price stays in the header #}
+        {% for k, v in p.financials %}<div><dt>{{ k }}</dt><dd>{{ v }}</dd></div>{% endfor %}
       </dl>
     </section>
 
@@ -96,31 +98,6 @@
       <p class="muted">Architecture credit as published in the original feature.</p>
     </section>
     {% endif %}
-
-    {# 08 Full gallery #}
-    <section class="psec" aria-labelledby="gal-h">
-      {{ folio(next(), "Photographs") }}
-      <h2 id="gal-h" class="sr-only">All photographs</h2>
-      <div class="mosaic">
-        {% for pic in p.pictures %}
-        {% if pic.estate and not p.pictures[loop.index0 - 1].estate %}<p class="mosaic-sep">The estate</p>{% endif %}
-        <button class="mosaic-i{% if pic.estate %} is-estate{% endif %}" type="button" data-open-lightbox="{{ loop.index0 }}">
-          {{ picture(pic, root, "(min-width: 1024px) 30vw, 46vw") }}<span class="sr-only">Open photograph {{ loop.index }} full screen</span>
-        </button>
-        {% endfor %}
-      </div>
-    </section>
-
-    {# 09 Financial details #}
-    <section class="psec" aria-labelledby="fin-h">
-      {{ folio(next(), "Financial Details") }}
-      <h2 id="fin-h" class="sr-only">Financial details</h2>
-      <dl class="parts parts-2">
-        <div><dt>{{ "Asking price" if p.live else "Asked when featured, " ~ p.featuredWhen }}</dt><dd>{{ p.priceLabel }}</dd></div>
-        <div><dt>Rates and taxes</dt><dd class="muted">On request from the agent</dd></div>
-        <div><dt>Levies</dt><dd class="muted">On request from the agent</dd></div>
-      </dl>
-    </section>
 
     {# 10 Location, never an address #}
     <section class="psec" aria-labelledby="loc-h">

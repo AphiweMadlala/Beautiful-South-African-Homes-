@@ -10,14 +10,14 @@
 <section class="lblock{% if loop.index is even %} lblock-flip{% endif %}" aria-labelledby="prov-{{ prov|slug }}">
   <div class="lblock-media reveal-img">{{ picture(province_image[prov], root, "(min-width: 1024px) 55vw, 100vw") }}</div>
   <div class="lblock-copy">
-    <h2 id="prov-{{ prov|slug }}" class="display lblock-h"><a href="{{ root }}residences/?set=all&amp;loc=p:{{ prov|urlencode }}">{{ prov }}</a></h2>
+    <h2 id="prov-{{ prov|slug }}" class="display lblock-h"><a href="{{ root }}residences/?loc=p:{{ prov|urlencode }}">{{ prov }}</a></h2>
     <p class="lblock-n">{{ pdata.count }} residence{{ "s" if pdata.count != 1 }}</p>
     <ul class="cities">
       {% for city, cdata in pdata.cities.items() %}
       <li>
-        <a class="city" href="{{ root }}residences/?set=all&amp;loc=c:{{ city|urlencode }}"><span>{{ city }}</span><span class="city-n">{{ cdata.count }}</span></a>
+        <a class="city" href="{{ root }}residences/?loc=c:{{ city|urlencode }}"><span>{{ city }}</span><span class="city-n">{{ cdata.count }}</span></a>
         {% if cdata.areas|length > 1 %}
-        <ul class="areas">{% for area, n in cdata.areas %}<li><a href="{{ root }}residences/?set=all&amp;loc=a:{{ area|urlencode }}">{{ area }}</a></li>{% endfor %}</ul>
+        <ul class="areas">{% for area, n in cdata.areas %}<li><a href="{{ root }}residences/?loc=a:{{ area|urlencode }}">{{ area }}</a></li>{% endfor %}</ul>
         {% endif %}
       </li>
       {% endfor %}

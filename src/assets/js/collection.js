@@ -18,16 +18,19 @@
   const sortSel = $('[data-sort]');
   const setInput = $('[data-set-input]');
   const setLinks = $$('[data-set]');
-  const more = $('[data-more]');
+  const locOpts = $$('#f-loc option').filter(o => o.value);
+  const locGroups = $$('#f-loc optgroup');
+  const emptyAll = $('[data-empty-all]');
   const mobile = matchMedia('(max-width: 979px)');
   const FILTER_KEYS = ['loc', 'type', 'price', 'beds', 'baths', 'garages'];
   const moreFilters = $('[data-more-filters]');
   const moreCount = $('[data-more-count]');
 
+  // All Residences is the collection; For Sale and The Portfolio narrow it.
   const readURL = () => {
     const q = new URLSearchParams(location.search);
     return {
-      set: ['for-sale', 'portfolio', 'all'].includes(q.get('set')) ? q.get('set') : 'for-sale',
+      set: ['for-sale', 'portfolio', 'all'].includes(q.get('set')) ? q.get('set') : 'all',
       loc: q.get('loc') || '', type: q.get('type') || '', price: q.get('price') || '',
       beds: q.get('beds') || '', baths: q.get('baths') || '', garages: q.get('garages') || '',
       features: q.getAll('features'), sort: q.get('sort') || 'recommended',
@@ -56,7 +59,7 @@
 
   const toQuery = s => {
     const q = new URLSearchParams();
-    if (s.set !== 'for-sale') q.set('set', s.set);
+    if (s.set !== 'all') q.set('set', s.set);
     FILTER_KEYS.forEach(k => { if (s[k]) q.set(k, s[k]); });
     s.features.forEach(f => q.append('features', f));
     if (s.sort !== 'recommended') q.set('sort', s.sort);
@@ -64,17 +67,13 @@
     return str ? `?${str}` : location.pathname;
   };
 
+  const inSet = (d, set) => set === 'all' || (set === 'for-sale') === (d.live === 'true');
+  const atLoc = (d, loc) => ({ p: d.province, c: d.city, a: d.place })[loc.slice(0, 1)] === loc.slice(2);
+
   const matches = (el, s, ignoreSet) => {
     const d = el.dataset;
-    if (!ignoreSet) {
-      if (s.set === 'for-sale' && d.live !== 'true') return false;
-      if (s.set === 'portfolio' && d.live === 'true') return false;
-    }
-    if (s.loc) {
-      const [kind, val] = [s.loc.slice(0, 1), s.loc.slice(2)];
-      const field = { p: d.province, c: d.city, a: d.place }[kind];
-      if (field !== val) return false;
-    }
+    if (!ignoreSet && !inSet(d, s.set)) return false;
+    if (s.loc && !atLoc(d, s.loc)) return false;
     if (s.type && d.type !== s.type) return false;
     if (s.price) {
       const [lo, hi] = s.price.split('-').map(v => (v === '' ? null : Number(v)));
@@ -111,14 +110,19 @@
     moreCount.hidden = inner === 0;
     moreCount.textContent = String(inner);
     if (inner && !moreFilters.open) moreFilters.open = true;
-    setLinks.forEach(a => { if (!a.closest('[data-more]')) a.setAttribute('aria-current', String(a.dataset.set === s.set)); });
+    setLinks.forEach(a => a.setAttribute('aria-current', String(a.dataset.set === s.set)));
+    // Places with nothing in this set stay listed but cannot be chosen. The current choice is never
+    // disabled: a disabled option drops out of FormData and would silently clear the filter.
+    const pool = cards.filter(c => inSet(c.dataset, s.set));
+    locOpts.forEach(o => { o.disabled = o.value !== s.loc && !pool.some(c => atLoc(c.dataset, o.value)); });
+    locGroups.forEach(g => { g.disabled = Array.from(g.children).every(o => o.disabled); });
     empty.hidden = n > 0;
-    more.hidden = !(s.set === 'for-sale' && n > 0);
     if (!n) {
       const elsewhere = cards.filter(c => matches(c, s, true)).length;
       emptyMsg.textContent = s.set !== 'all' && elsewhere
         ? `No residences ${label[s.set]} match these filters. ${elsewhere} match across the whole collection.`
         : 'No residences match these filters. Try widening the location or price.';
+      emptyAll.hidden = s.set === 'all' || !elsewhere;
     }
     const url = toQuery(s);
     if (push) history.pushState(s, '', url);
@@ -141,7 +145,7 @@
   };
   form.addEventListener('reset', e => { e.preventDefault(); reset(); });
   $('[data-empty-reset]').addEventListener('click', reset);
-  $('[data-empty-all]').addEventListener('click', e => { e.preventDefault(); setInput.value = 'all'; apply(readForm(), { push: true }); });
+  emptyAll.addEventListener('click', e => { e.preventDefault(); setInput.value = 'all'; apply(readForm(), { push: true }); });
 
   window.addEventListener('popstate', () => { const s = readURL(); writeForm(s); apply(s); });
 

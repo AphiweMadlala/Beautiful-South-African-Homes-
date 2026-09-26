@@ -8,7 +8,7 @@ Source of truth: `src/assets/css/site.css` (tokens on `:root`). This document de
 
 1. **Photography dominates.** Images are the largest element on every page. Nothing sits on top of a photograph except the live listing's hero caption.
 2. **Gold is punctuation.** Only for rules, section numerals, small labels, prices, focus rings and the single primary button. Never used for body text, backgrounds or large fills.
-3. **Two registers, always visible.** *For Sale* (verified against the agency's live listing) and *The Portfolio* (previously featured, availability to be confirmed). They never share the same visual weight for price or status.
+3. **One collection, two statuses, always visible.** All Residences is the collection; *For Sale* (verified against the agency's live listing) and *The Portfolio* (previously featured, availability to be confirmed) are filters within it. Status decides how a price is shown, never whether a residence is visible. The two never share the same visual weight for price or status, and every card names its status in words, not colour alone.
 4. **Restraint in copy.** Factual, short, no superlatives. Property vocabulary (erf, levies, estate) is used plainly.
 5. **Sales, not stays.** CTAs lead to the marketing agent or agency, never to a booking flow.
 
@@ -66,11 +66,11 @@ Typographic, not a redrawn logo: *Beautiful* in Cormorant italic (ivory, 1.32rem
 - `--max: 1400px`, `--gutter: clamp(1.25rem, 4vw, 3.5rem)`, `--nav-h: 72px`.
 - `.section` padding: `clamp(4.5rem, 10vw, 9rem)` vertical.
 - Breakpoints (max-width): 480, 699, 767, 899 (main layout switch), 979 (collection filters become a sheet); 1180+ for wide refinements.
-- Image ratios: cards and mosaic 3:2, featured tall card 4:5, locations 16:10, mobile gallery 4:3. Every media box has `background: var(--surface)` and a fixed ratio, so there is no layout shift (CLS 0 on all measured pages).
+- Image ratios: cards 3:2, featured tall card 4:5, locations 16:10, mobile gallery 4:3. Every media box has `background: var(--surface)` and a fixed ratio, so there is no layout shift (CLS 0 on all measured pages).
 
 ### Folio (numbered section marker)
 
-Gold italic roman numeral, a 3rem gold-deep rule that grows in on reveal, and a small caps label. The home page runs I to VII: Platform, For Sale Now, From the Portfolio, The Collection, Locations, Feature Your Property, Contact. The hero has no numeral.
+Gold italic roman numeral, a 3rem gold-deep rule that grows in on reveal, and a small caps label. The home page runs I to VII: Platform, For Sale Now, From the Portfolio, The Collection, Locations, Feature Your Property, Contact. The hero has no numeral. Property pages number only the sections a residence has (Particulars, The Residence, Signature Features, Architecture, Location), so the numerals never skip.
 
 ## 6. Components
 
@@ -78,14 +78,14 @@ Gold italic roman numeral, a 3rem gold-deep rule that grows in on reveal, and a 
 |---|---|
 | Nav | Transparent over the hero, turns solid ink once the hero leaves view. Links: `.74rem` tracked caps; gold underline scales in from the left. Mobile: full-screen menu, serif links, focus trapped, Escape closes. |
 | Hero | Near full-bleed image on the right, copy on ink on the left, caption crediting location and agency. |
-| Search strip | Location, price, bedrooms, type then a gold **Search** button. Lands on `residences/` with URL state. |
+| Search strip | Location, price, bedrooms, type then a gold **Search** button. Lands on All Residences with URL state (`residences/?loc=…&beds=…`, no set parameter). |
 | Signature (For Sale Now) | Large image plus a spec panel: estate, title, asking price in gold serif, bedrooms, bathrooms, garages, "Marketed by" agent and agency. |
-| Card | 3:2 image, `N°` folio number, location, serif title, price. Portfolio cards show a muted, smaller price labelled "Asked when featured" with the month it was featured. |
-| Registers | Tabs **For Sale / The Portfolio / All** with italic gold counts. Default view is For Sale. |
-| Filters | Desktop: static left rail (location, type chips, price, bedrooms), with the rest behind "More filters". Mobile (<980px): button with an active count opens a modal sheet. |
-| Property page | Title and price, then agent name directly under the price on mobile, specs, story, signature features (gold-rule bullets), photography mosaic, financial details, location, "Arrange a Viewing" panel. Mobile has a sticky call bar ("Call Gabriel") that reserves its own space. |
+| Card | 3:2 image, `N°` folio number, location, a status flag in words, serif title, price, specs. **For sale:** gold *For sale* flag and the asking price in gold serif. **Portfolio:** muted *Previously featured* flag, then the price published when featured, smaller and in muted ivory, under "Asked when featured in <month year>" ("Price on application when featured" or "Price not published" when there was no figure), then "Availability to be confirmed". One macro (`price_block()` in `_macros.html`) renders this in the collection, related residences and the homepage Portfolio items. |
+| Registers | Tabs **All Residences / For Sale / The Portfolio** with italic gold counts. Default view is All Residences (`residences/`, no set parameter); the others write `?set=for-sale` and `?set=portfolio`. All share one grid in curated rank order, the live listing first. On phones All Residences takes the first row with the two statuses beneath it. |
+| Filters | Desktop: static left rail (location, type chips, price, bedrooms), with the rest behind "More filters". Mobile (<980px): button with an active count opens a modal sheet. Location options with no residence in the current register are disabled. Sort: Recommended, or "Price shown" high to low / low to high, since a shown price may be historical. |
+| Property page | Breadcrumb *Residences / location*. Opening gallery, then title and price (dated and muted for the Portfolio), agent name directly under the price on mobile, then the numbered sections present: Particulars (published rates and levies join here; none are invented), The Residence, Signature Features (gold-rule bullets), Architecture when credited, Location. No second gallery and no Financial Details section. "Arrange a Viewing" panel, related residences. Mobile has a sticky call bar ("Call Gabriel") that reserves its own space. |
 | Portfolio property page | No `tel:` links. Availability stated as unconfirmed; enquiry is a composed email. |
-| Gallery and lightbox | Mosaic (every fifth tile spans 2×2); mobile swipe track with a count; lightbox with arrows, swipe, focus trap, scroll lock and Escape. |
+| Gallery and lightbox | One gallery per residence, at the top: on desktop the main photograph, two supporting photographs and **View all N photographs**; on mobile a swipe track with a count. Both open the lightbox, which holds every photograph, with arrows, keyboard, swipe, focus trap, scroll lock, Escape and focus restore. |
 | Buttons | `.btn-gold` (one primary per view), `.btn-line` (gold hairline), `.btn-sm` (44px). All at least 48px tall, `.78rem` tracked caps. |
 
 ### CTA vocabulary

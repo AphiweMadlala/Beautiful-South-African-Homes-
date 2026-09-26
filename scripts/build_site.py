@@ -193,6 +193,8 @@ def site_property(p, manifest, agents):
         "bedrooms": num(p["bedrooms"]), "bathrooms": num(p["bathrooms"]), "garages": num(p["garages"]),
         "specs": specs, "priceLabel": price_label, "priceShort": price_short, "price": price_value,
         "poa": p["priceOnApplication"], "foreign": foreign,
+        # shown in Particulars only when published; never "on request" placeholders
+        "financials": [(label, fmt_zar(v)) for label, v in (("Rates and taxes", p["ratesZAR"]), ("Levies", p["leviesZAR"])) if v],
         "featuredWhen": month_year(p["firstSeenAt"]),
         "features": [FEATURE_LABEL[f] for f in p["features"] if f in FEATURE_LABEL],
         "featureKeys": p["features"],

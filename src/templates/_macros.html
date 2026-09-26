@@ -19,6 +19,21 @@
 </p>
 {%- endmacro %}
 
+{# Portfolio prices are historical: always dated, never presented as a current asking price. #}
+{% macro past_label(p) %}{{ "Asked when featured in " if p.price else "Featured in " }}{{ p.featuredWhen }}{% endmacro %}
+{% macro past_value(p) %}{{ p.priceLabel if p.price else ("Price on application when featured" if p.poa else "Price not published") }}{% endmacro %}
+
+{# Price and status for every card-like view. For sale: the verified asking price.
+   Portfolio: the published price, dated, smaller and muted, then the availability caveat. #}
+{% macro price_block(p) -%}
+{% if p.live %}
+<p class="card-price"><span class="sr-only">Asking price </span>{{ p.priceLabel }}</p>
+{% else %}
+<p class="card-past"><span class="card-past-k">{{ past_label(p) }}</span> <span class="card-past-v">{{ past_value(p) }}</span></p>
+<p class="card-status">Availability to be confirmed</p>
+{% endif %}
+{%- endmacro %}
+
 {% macro card(p, root, sizes="(min-width: 1024px) 30vw, (min-width: 640px) 45vw, 92vw", cls="") -%}
 <article class="card {{ cls }}{% if p.live %} card-live{% endif %}"
   data-card data-slug="{{ p.slug }}" data-live="{{ 'true' if p.live else 'false' }}"
@@ -29,13 +44,9 @@
     <div class="card-media">{{ picture(p.cover, root, sizes) }}</div>
     <div class="card-body">
       <p class="card-meta"><span class="card-n">N° {{ p.folio }}</span><span>{{ p.shortLocation }}</span></p>
-      {% if p.live %}<p class="card-flag">For sale</p>{% endif %}
+      <p class="card-flag{% if not p.live %} card-flag-past{% endif %}">{{ "For sale" if p.live else "Previously featured" }}</p>
       <h3 class="card-title">{{ p.title }}</h3>
-      {% if p.live %}
-      <p class="card-price"><span class="sr-only">Asking price </span>{{ p.priceLabel }}</p>
-      {% else %}
-      <p class="card-status">Featured {{ p.featuredWhen }}, availability to be confirmed</p>
-      {% endif %}
+      {{ price_block(p) }}
       {{ specline(p) }}
       <span class="card-cta">View Residence</span>
     </div>

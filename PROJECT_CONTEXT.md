@@ -43,7 +43,7 @@ Raw captures (`data/raw/`) are committed except `data/raw/media/` (389 MB of Ins
 
 ## QA
 
-`qa/qa.mjs` (Playwright) checks 12 page types at 7 widths plus filters, URL state, Back/Forward, menu, filters sheet, gallery, lightbox, contact links, reduced motion, touch targets and a full internal link crawl. Serve `docs/` under `/Beautiful-South-African-Homes-/` on port 8321 first.
+`qa/qa.mjs` (Playwright) checks 13 page types at 7 widths plus the All Residences default and register filters, filters, URL state, Back/Forward, price and status on every card view, menu, filters sheet, the single gallery and lightbox, property section numbering, contact links, reduced motion, touch targets and a full internal link crawl. Serve `docs/` under `/Beautiful-South-African-Homes-/` on port 8321 first.
 
 ## Reports
 

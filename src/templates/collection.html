@@ -1,27 +1,27 @@
 {% extends "base.html" %}
 {% from "_macros.html" import card %}
-{% block title %}Residences for Sale | {{ brand.name }}{% endblock %}
+{% block title %}Residences | {{ brand.name }}{% endblock %}
 {% block bodyclass %}page-collection{% endblock %}
 {% block main %}
 <header class="page-head">
   <h1 class="display page-h">The Collection</h1>
-  <p class="lede">Residences for sale are checked against the marketing agency's live listing. The Portfolio holds homes we have featured before, with their availability to be confirmed with the agency.</p>
+  <p class="lede">The collection brings together residences currently for sale and homes previously featured by {{ brand.name }}. Current listings are verified against the marketing agency's live listing; Portfolio residences retain their published particulars, with availability to be confirmed.</p>
 </header>
 
 <div class="coll" data-collection>
   <div class="coll-bar">
     <div class="sets" role="group" aria-label="Show">
+      <a class="set" href="./" data-set="all" aria-current="true">All Residences <span>{{ props|length }}</span></a>
       <a class="set" href="?set=for-sale" data-set="for-sale">For Sale <span>{{ for_sale|length }}</span></a>
       <a class="set" href="?set=portfolio" data-set="portfolio">The Portfolio <span>{{ portfolio|length }}</span></a>
-      <a class="set" href="?set=all" data-set="all">All <span>{{ props|length }}</span></a>
     </div>
     <div class="coll-tools">
       <button class="btn btn-line btn-sm filters-open" type="button" aria-haspopup="dialog" aria-controls="filters" data-filters-open>Filters <span class="filters-count" data-filter-count hidden></span></button>
       <label class="sort"><span>Sort</span>
         <select name="sort" data-sort form="filter-form">
           <option value="recommended">Recommended</option>
-          <option value="price-desc">Price, high to low</option>
-          <option value="price-asc">Price, low to high</option>
+          <option value="price-desc">Price shown, high to low</option>
+          <option value="price-asc">Price shown, low to high</option>
         </select>
       </label>
     </div>
@@ -34,7 +34,7 @@
           <h2 id="filters-h" class="filters-h">Refine</h2>
           <button class="filters-close" type="button" data-filters-close><span class="sr-only">Close filters</span></button>
         </div>
-        <input type="hidden" name="set" value="for-sale" data-set-input>
+        <input type="hidden" name="set" value="all" data-set-input>
         <fieldset>
           <legend>Location</legend>
           <label class="sr-only" for="f-loc">Location</label>
@@ -110,18 +110,11 @@
       <div class="cards" data-cards>
         {% for p in props %}{{ card(p, root) }}{% endfor %}
       </div>
-      <aside class="coll-more" data-more hidden aria-labelledby="more-h">
-        <div>
-          <h2 id="more-h" class="coll-more-h">{{ portfolio|length }} more residences in the Portfolio</h2>
-          <p>Homes we have featured before, from the Atlantic Seaboard to the KwaZulu-Natal coast. Availability to be confirmed with the agency.</p>
-        </div>
-        <a class="btn btn-line" href="?set=portfolio" data-set="portfolio">View the Portfolio</a>
-      </aside>
       <div class="empty" data-empty hidden>
         <h2 class="display empty-h">Nothing matches, yet.</h2>
         <p data-empty-msg>No residences match these filters.</p>
         <div class="empty-actions">
-          <a class="btn btn-line btn-sm" href="?set=all" data-empty-all>Search all residences</a>
+          <a class="btn btn-line btn-sm" href="./" data-empty-all>Search all residences</a>
           <button class="btn btn-line btn-sm" type="button" data-empty-reset>Clear filters</button>
         </div>
       </div>

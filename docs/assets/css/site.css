@@ -56,7 +56,7 @@ main:focus { outline: none; }
 /* ---------- type ---------- */
 .display { font-family: var(--serif); font-weight: 400; letter-spacing: -.005em; line-height: 1.08; text-wrap: balance; }
 /* prices, specs and counts use lining figures; Cormorant defaults to old-style */
-.card-price, .sig-price, .pid-price-v, .parts dd, .sig-specs dd, .reg-n, .set span, .city-n, .pswipe-count, .lb-count { font-variant-numeric: lining-nums tabular-nums; }
+.card-price, .card-past-v, .sig-price, .pid-price-v, .parts dd, .sig-specs dd, .reg-n, .set span, .city-n, .pswipe-count, .lb-count { font-variant-numeric: lining-nums tabular-nums; }
 .display em { font-style: italic; color: var(--gold); padding-bottom: .06em; }
 .manifesto-h em { color: var(--ivory-2); }
 .lede { font-size: clamp(1.02rem, 1.3vw, 1.14rem); color: var(--ivory-2); max-width: 58ch; }
@@ -163,6 +163,7 @@ main:focus { outline: none; }
   background-image: linear-gradient(45deg, transparent 50%, var(--gold) 50%), linear-gradient(135deg, var(--gold) 50%, transparent 50%);
   background-position: calc(100% - 9px) 55%, calc(100% - 4px) 55%; background-size: 5px 5px; background-repeat: no-repeat; }
 .search select option, .filters select option, .search select optgroup, .filters select optgroup { background: var(--surface); color: var(--ivory); }
+.filters select option:disabled, .filters select optgroup:disabled { color: var(--ivory-3); }
 .search-go { background: var(--gold); color: var(--ink); padding: 0 2.4rem; font-size: .76rem; font-weight: 500; letter-spacing: .22em; text-transform: uppercase; transition: background .3s; }
 .search-go:hover { background: var(--ivory); }
 @media (max-width: 899px) {
@@ -197,14 +198,13 @@ main:focus { outline: none; }
 .feat a { display: block; }
 .feat-media { overflow: hidden; aspect-ratio: 3 / 2; background: var(--surface); }
 .feat-2 .feat-media { aspect-ratio: 4 / 5; }
-.feat-media picture, .card-media picture, .loc-media picture, .lblock-media picture, .mosaic-i picture { height: 100%; }
+.feat-media picture, .card-media picture, .loc-media picture, .lblock-media picture { height: 100%; }
 .feat-media img, .card-media img, .loc-media img { width: 100%; height: 100%; object-fit: cover; transition: transform 1.4s var(--ease); }
 .feat a:hover img, .card-link:hover img, .loc:hover img { transform: scale(1.035); }
 .feat-meta, .card-meta { display: flex; gap: .9rem; align-items: baseline; line-height: 1.5; font-size: .9rem; letter-spacing: .01em; color: var(--ivory-3); margin-top: 1.1rem; }
 .card-n { flex: none; white-space: nowrap; font-family: var(--serif); font-style: italic; letter-spacing: .02em; text-transform: none; font-size: 1rem; color: var(--gold); }
 .feat-title { font-family: var(--serif); font-weight: 400; font-size: clamp(1.5rem, 2.2vw, 2rem); line-height: 1.15; margin-top: .35rem; }
 .feat-1 .feat-title { font-size: clamp(1.8rem, 3vw, 2.6rem); }
-.feat-note { font-size: .86rem; color: var(--ivory-3); margin-top: .35rem; }
 @media (max-width: 899px) {
   .featured-grid { grid-template-columns: 1fr; }
   .feat-1, .feat-2, .feat-3, .feat-4 { grid-column: 1; margin-top: 0; }
@@ -326,12 +326,17 @@ main:focus { outline: none; }
 .card-media { overflow: hidden; aspect-ratio: 3 / 2; background: var(--surface); }
 .card-title { font-family: var(--serif); font-weight: 400; font-size: clamp(1.45rem, 2vw, 1.85rem); line-height: 1.15; margin-top: .35rem; }
 .card-price { font-family: var(--serif); font-size: 1.4rem; color: var(--gold); margin-top: .45rem; }
+/* Portfolio: the price as published when featured. Dated, smaller and muted, never at live-price weight. */
+.card-past { display: flex; flex-direction: column; margin-top: .45rem; font-size: .86rem; color: var(--ivory-3); }
+.card-past-v { font-family: var(--serif); font-size: 1.2rem; line-height: 1.3; color: var(--ivory-2); }
 .card-status { font-size: .86rem; color: var(--ivory-3); margin-top: .45rem; }
+.card-past + .card-status { margin-top: .1rem; }
 .specline { display: flex; flex-wrap: wrap; gap: 0 1.3rem; font-size: .86rem; color: var(--ivory-2); margin-top: .7rem; padding-top: .7rem; border-top: 1px solid var(--line); }
 .card-cta { display: inline-block; margin-top: 1rem; font-size: .72rem; letter-spacing: .2em; text-transform: uppercase; color: var(--ivory); position: relative; padding-bottom: .3rem; }
 .card-cta::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 1px; background: var(--gold); transform: scaleX(.3); transform-origin: left; transition: transform .6s var(--ease); }
 .card-link:hover .card-cta::after, .card-link:focus-visible .card-cta::after { transform: scaleX(1); }
 .card-flag { display: inline-block; margin-top: .5rem; font-size: .72rem; font-weight: 500; letter-spacing: .2em; text-transform: uppercase; color: var(--gold); }
+.card-flag-past { color: var(--ivory-3); }
 .empty { padding: 3rem 0; max-width: 34rem; }
 .empty-h { font-size: 2.4rem; margin-bottom: .8rem; }
 .empty p { color: var(--ivory-2); }
@@ -339,6 +344,8 @@ main:focus { outline: none; }
 
 @media (max-width: 979px) {
   .coll-body { grid-template-columns: 1fr; }
+  /* sort pinned right, so the filter count badge appearing after load cannot shift it */
+  .coll-tools { width: 100%; justify-content: space-between; }
   .filters-open { display: inline-flex; }
   .filters, .filters[open]:not(:modal) { display: none; }
   .filters:modal {
@@ -354,11 +361,19 @@ main:focus { outline: none; }
   .filters-apply { display: inline-flex; }
 }
 @media (max-width: 699px) { .cards, .cards-3 { grid-template-columns: 1fr; } }
+/* phones: All Residences on its own row with the two status filters beneath it, and the sort
+   caption above its select, as in the search strip, so every row fits */
+@media (max-width: 480px) {
+  .sets { display: grid; grid-template-columns: repeat(2, auto); justify-content: start; }
+  .set[data-set="all"] { grid-column: 1 / -1; justify-self: start; }
+  .coll-tools { align-items: flex-end; }
+  .sort { flex-direction: column; align-items: flex-start; gap: .25rem; }
+}
 @media (min-width: 700px) and (max-width: 979px) { .cards-3 { grid-template-columns: 1fr 1fr; } }
 
 /* ---------- property page ---------- */
 .page-property main { padding-top: var(--nav-h); }
-.crumbs { display: flex; gap: .7rem; flex-wrap: wrap; padding: 1.2rem var(--gutter); font-size: .74rem; letter-spacing: .16em; text-transform: uppercase; color: var(--ivory-3); max-width: calc(var(--max) + 2 * var(--gutter)); margin: 0 auto; }
+.crumbs { display: flex; gap: .7rem; flex-wrap: wrap; align-items: baseline; padding: 1.2rem var(--gutter); font-size: .74rem; letter-spacing: .16em; text-transform: uppercase; color: var(--ivory-3); max-width: calc(var(--max) + 2 * var(--gutter)); margin: 0 auto; }
 .crumbs a { display: inline-block; color: var(--ivory-2); padding: .8rem 0; }
 .crumbs a:hover { color: var(--gold); }
 .pgal { position: relative; display: grid; grid-template-columns: 2fr 1fr; gap: .5rem; height: min(74vh, 52rem); padding: 0 var(--gutter); max-width: calc(var(--max) + 2 * var(--gutter)); margin: 0 auto; }
@@ -400,21 +415,11 @@ main:focus { outline: none; }
 .parts { display: grid; grid-template-columns: repeat(auto-fill, minmax(8.5rem, 1fr)); gap: 1.6rem 1.5rem; }
 .parts > div { padding-top: .9rem; border-top: 1px solid var(--line-gold); }
 .parts dt { margin-bottom: .35rem; }
-.parts-2 { grid-template-columns: repeat(auto-fill, minmax(13rem, 1fr)); }
-.parts-2 dd { font-size: 1.35rem; }
-.parts dd.muted { font-family: var(--sans); font-size: .95rem; }
 .story { max-width: 62ch; }
 .story p, p.story { font-size: 1.1rem; color: var(--ivory-2); margin-bottom: 1.1rem; }
 .ticks { display: grid; grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr)); gap: .1rem 2rem; }
 .ticks li { position: relative; padding: .65rem 0 .65rem 1.8rem; color: var(--ivory-2); }
 .ticks li::before { content: ""; position: absolute; left: 0; top: 1.3rem; width: .9rem; height: 1px; background: var(--gold); }
-.mosaic { display: grid; grid-template-columns: repeat(3, 1fr); grid-auto-flow: dense; gap: .5rem; }
-.mosaic-i { position: relative; display: block; overflow: hidden; aspect-ratio: 3 / 2; background: var(--surface); }
-.mosaic-i:nth-child(5n + 1) { grid-column: span 2; grid-row: span 2; aspect-ratio: auto; }
-.mosaic-i img, .mosaic-i picture { width: 100%; height: 100%; object-fit: cover; transition: transform 1.2s var(--ease), opacity .4s; }
-.mosaic-i:hover img { transform: scale(1.03); }
-.mosaic-sep { grid-column: 1 / -1; margin-top: 1.5rem; font-size: .72rem; letter-spacing: .2em; text-transform: uppercase; color: var(--gold); padding-bottom: .5rem; border-bottom: 1px solid var(--line); }
-@media (max-width: 699px) { .mosaic { grid-template-columns: 1fr 1fr; } .mosaic-i:nth-child(5n + 1) { grid-row: auto; aspect-ratio: 3 / 2; } }
 .pside { position: relative; }
 .enquire { position: sticky; top: calc(var(--nav-h) + 1.5rem); background: var(--surface); padding: 2rem 1.8rem; border-top: 1px solid var(--gold); }
 .enq-h { font-family: var(--serif); font-weight: 400; font-size: 1.9rem; line-height: 1.15; margin-bottom: 1.4rem; }
@@ -519,12 +524,6 @@ html.is-locked, html.is-locked body { overflow: hidden; }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; scroll-behavior: auto !important; }
 }
-
-/* shown under the For Sale register, pointing to the Portfolio */
-.coll-more { margin-top: clamp(3rem, 6vw, 5rem); padding-top: 2rem; border-top: 1px solid var(--line-gold); display: grid; grid-template-columns: 1fr auto; gap: 1.5rem 2rem; align-items: end; }
-.coll-more-h { font-family: var(--serif); font-weight: 400; font-size: clamp(1.7rem, 2.6vw, 2.3rem); line-height: 1.15; }
-.coll-more p { color: var(--ivory-2); margin-top: .5rem; max-width: 52ch; }
-@media (max-width: 699px) { .coll-more { grid-template-columns: 1fr; } }
 
 /* mobile contact bar on residence pages */
 .mcta { display: none; }

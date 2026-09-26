@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% from "_macros.html" import picture, folio, specline %}
+{% from "_macros.html" import picture, folio, price_block %}
 {% block title %}{{ brand.name }} | Exceptional Homes Across South Africa{% endblock %}
 {% block bodyclass %}home{% endblock %}
 {% block preload %}<link rel="preload" as="image" type="image/avif" imagesrcset="{% for part in signature.cover.avif.split(', ') %}{{ root }}{{ part }}{% if not loop.last %}, {% endif %}{% endfor %}" imagesizes="(min-width: 900px) 62vw, 100vw">{% endblock %}
@@ -59,7 +59,7 @@
         <div class="feat-media">{{ picture(p.cover, root, "(min-width: 1024px) 50vw, 92vw" if loop.first else "(min-width: 1024px) 25vw, 92vw") }}</div>
         <p class="feat-meta"><span class="card-n">N° {{ p.folio }}</span>{{ p.shortLocation }}</p>
         <h3 class="feat-title">{{ p.title }}</h3>
-        <p class="feat-note">Featured {{ p.featuredWhen }}</p>
+        {{ price_block(p) }}
       </a>
     </article>
     {% endfor %}
@@ -86,7 +86,7 @@
   <h2 id="locations-h" class="display section-h reveal">Coast, winelands and Highveld.</h2>
   <div class="loc-grid">
     {% for prov, pdata in tree.items() %}
-    <a class="loc loc-{{ loop.index }} reveal" href="{{ root }}residences/?set=all&amp;loc=p:{{ prov|urlencode }}">
+    <a class="loc loc-{{ loop.index }} reveal" href="{{ root }}residences/?loc=p:{{ prov|urlencode }}">
       <div class="loc-media">{{ picture(province_image[prov], root, "(min-width: 1024px) 45vw, 92vw") }}</div>
       <div class="loc-copy">
         <h3 class="loc-h">{{ prov }}</h3>
